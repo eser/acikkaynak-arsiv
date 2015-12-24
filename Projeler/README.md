@@ -9,3 +9,11 @@ Kategori: Web Front-end
 https://github.com/Adphorus/react-date-range
 
 React kullanılarak hazırlanmış bir tarih ve tarih aralığı seçme bileşenidir. Projenin şu anda 6 katılımcısı var ve yeni katılımlara açık durumdalar.
+
+## OJS.io
+
+Kategori: Saas
+
+[https://github.com/okulbilisim/ojs](https://github.com/okulbilisim/ojs)
+
+PHP/Symfony2 kullanılarak hazırlanmış, online dergicilik için geliştirilen, servis tabanlı bir uygulamadır. Önizlemesine [ojs.io](http://ojs.io) adresinden erişilebilir. Projenin şu an 14 katılımcısı var. Ayrıca proje [Okul Bilişim](http://okulbilisim.com) tarafından desteklenmektedir. 
