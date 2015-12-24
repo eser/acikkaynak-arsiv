@@ -22,7 +22,7 @@ Daha da iyisi bu repository altında "issue" oluşturarak, (örneğin) Bootstrap
 
 ## Alt Sayfalar
 
-[Projeler](Projeler/)
+- [Projeler](Projeler/)
 
-
+___
 (Bu veya diğer sayfalar henüz oluşturulma aşamasında olup yakın zamanda tekrar revize edilecektir, fikirleriniz varsa duymak isteriz.)
