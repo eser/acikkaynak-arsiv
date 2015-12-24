@@ -17,3 +17,11 @@ Kategori: Saas
 [https://github.com/okulbilisim/ojs](https://github.com/okulbilisim/ojs)
 
 PHP/Symfony2 kullanılarak hazırlanmış, online dergicilik için geliştirilen, servis tabanlı bir uygulamadır. Önizlemesine [ojs.io](http://ojs.io) adresinden erişilebilir. Projenin şu an 14 katılımcısı var. Ayrıca proje [Okul Bilişim](http://okulbilisim.com) tarafından desteklenmektedir. 
+
+## Symfony Import Bundle
+
+Kategori: Symfony/Bundle
+
+[https://github.com/delirehberi/importbundle](https://github.com/delirehberi/importbundle)
+
+Eski projeleri, Symfony2 ve Doctrine kullanılarak hazırlanmış projelere taşımak için geliştirilmiştir. İki farklı veri yapısına sahip veritabanını, oluşturulan map dosyasıyla ve yazılabilen modifier'lar ile işlemden geçirerek eşletirebilme yeteneğine sahip. 
