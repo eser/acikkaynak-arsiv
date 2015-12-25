@@ -6,7 +6,7 @@ Burada belirli konularda sizlerin katılımlarını bekleyen açık kaynak proje
 
 Kategori: Web Front-end
 
-https://github.com/Adphorus/react-date-range
+[https://github.com/Adphorus/react-date-range](https://github.com/Adphorus/react-date-range)
 
 Dil: Javascript
 
@@ -14,6 +14,9 @@ Bağımlılıkları: React, Moment.js
 
 Katılım Beklentileri:
 - Moment.js'den bağımsız bir hale gelmek.
+- Yeni versiyonun denenmesi https://github.com/Adphorus/react-date-range/issues/35
+- Yeni versiyondaki ozellikler icin dokuman yazilmasi https://github.com/Adphorus/react-date-range/issues/35
+- Unit testing
 
 
 ## Data Grid Bundle
