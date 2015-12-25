@@ -91,9 +91,6 @@ Kategori: Web Front End
 ## Flexible Grid System
 
 Kategori: Web Front End
-
-Websitesi: [http://flexible.gs/tr/](http://flexible.gs/tr/)
-
-Github: [https://github.com/flexiblegs](https://github.com/flexiblegs)
+[https://github.com/flexiblegs](https://github.com/flexiblegs)
 
 Flexible Grid System bir Responsive CSS Framework'üdür. Flexible Grid System ile başlayıp bu altyapı üzerine Front End kısmında işleri çok daha hızlı hazırlamak için geliştirilmeye devam eden ve geliştirilecek olan bir çok proje mevcuttur. Flexible Grid System'in gelecek planlarını [http://flexible.gs/tr/future/](http://flexible.gs/tr/future/) adresinden takip edip katkıda bulunabilir sizde takımın bir parçası olabilirsiniz.
