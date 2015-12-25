@@ -24,4 +24,12 @@ Kategori: Symfony/Bundle
 
 [https://github.com/delirehberi/importbundle](https://github.com/delirehberi/importbundle)
 
-Eski projeleri, Symfony2 ve Doctrine kullanılarak hazırlanmış projelere taşımak için geliştirilmiştir. İki farklı veri yapısına sahip veritabanını, oluşturulan map dosyasıyla ve yazılabilen modifier'lar ile işlemden geçirerek eşletirebilme yeteneğine sahip. 
+Eski projeleri, Symfony2 ve Doctrine kullanılarak hazırlanmış projelere taşımak için geliştirilmiştir. İki farklı veri yapısına sahip veritabanını, oluşturulan map dosyasıyla ve yazılabilen modifier'lar ile işlemden geçirerek eşletirebilme yeteneğine sahip.
+
+## Conquest
+
+Kategori: Tool
+
+[https://github.com/brsyuksel/conquest](https://github.com/brsyuksel/conquest)
+
+RESTFul HTTP API'lariniz icin JavaScript kullanarak testler yazmaniza olanak veren ve yuk testi yapamizi saglayan Go ile gelistirilmistir bir arac. [http://brsyuksel.github.io/conquest/](Github sayfas)indan kullanimi hakkinda bilgi detayli edinebilirsiniz.
