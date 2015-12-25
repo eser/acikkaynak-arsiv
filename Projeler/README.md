@@ -25,3 +25,31 @@ Kategori: Symfony/Bundle
 [https://github.com/delirehberi/importbundle](https://github.com/delirehberi/importbundle)
 
 Eski projeleri, Symfony2 ve Doctrine kullanılarak hazırlanmış projelere taşımak için geliştirilmiştir. İki farklı veri yapısına sahip veritabanını, oluşturulan map dosyasıyla ve yazılabilen modifier'lar ile işlemden geçirerek eşletirebilme yeteneğine sahip. 
+
+## Caffeine
+
+Kategori: Web Front-end
+[https://github.com/bcinarli/caffeine](https://github.com/bcinarli/caffeine)
+
+Sass tabanlı mixin ve fonksiyon kütüphanesi. Temel tanımlar yapılmış durumda, dökümantasyon sayfaları ve website hazırlanıyor.
+
+## UX Rocket
+
+Kategori: Web Front-end
+[https://github.com/uxrocket](https://github.com/uxrocket)
+
+Şimdilik jQuery tabanlı geliştirilen, roadmapinde ES6 ve native kullanımı planlan pluginler kütüphanesi. Pluginler hazırlanırken mobile-first ve kullanılabilirlik öncelikli olarak çalışılıyor. Websitesi ve bundle yapıları üzerinde çalışılıyor. Factory metodları güncelleniyor
+
+* [Autocomplete](https://github.com/uxrocket/uxrocket.autocomplete)
+* [Modal](https://github.com/uxrocket/uxrocket.modal), [demo](https://uxrocket.github.io/uxrocket.modal)
+* [Select](https://github.com/uxrocket/uxrocket.select), [demo](https://uxrocket.github.io/uxrocket.select)
+* [Accordion](https://github.com/uxrocket/uxrocket.accordion)
+* [Tooltip](https://github.com/uxrocket/uxrocket.tooltip)
+* [Scrollable](https://github.com/uxrocket/uxrocket.scrollable)
+* [Dialog](https://github.com/uxrocket/uxrocket.dialog)
+* [Preloader](https://github.com/uxrocket/uxrocket.preloader)
+* [Clear](https://github.com/uxrocket/uxrocket.clear)
+* [Slider](https://github.com/uxrocket/uxrocket.rotator)
+* [Shortcodes](https://github.com/uxrocket/uxrocket.shortcodes)
+* [Placeholder](https://github.com/uxrocket/uxrocket.placeholder)
+* [Popup](https://github.com/uxrocket/uxrocket.popup)
