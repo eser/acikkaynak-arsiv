@@ -63,6 +63,7 @@ Eski projeleri, Symfony2 ve Doctrine kullanılarak hazırlanmış projelere taş
 ## Caffeine
 
 Kategori: Web Front End
+
 [https://github.com/bcinarli/caffeine](https://github.com/bcinarli/caffeine)
 
 Sass tabanlı mixin ve fonksiyon kütüphanesi. Temel tanımlar yapılmış durumda, dökümantasyon sayfaları ve website hazırlanıyor.
@@ -70,6 +71,7 @@ Sass tabanlı mixin ve fonksiyon kütüphanesi. Temel tanımlar yapılmış duru
 ## UX Rocket
 
 Kategori: Web Front End
+
 [https://github.com/uxrocket](https://github.com/uxrocket)
 
 Şimdilik jQuery tabanlı geliştirilen, roadmapinde ES6 ve native kullanımı planlan pluginler kütüphanesi. Pluginler hazırlanırken mobile-first ve kullanılabilirlik öncelikli olarak çalışılıyor. Websitesi ve bundle yapıları üzerinde çalışılıyor. Factory metodları güncelleniyor
@@ -91,6 +93,7 @@ Kategori: Web Front End
 ## Flexible Grid System
 
 Kategori: Web Front End
+
 [https://github.com/flexiblegs](https://github.com/flexiblegs)
 
 Flexible Grid System bir Responsive CSS Framework'üdür. Flexible Grid System ile başlayıp bu altyapı üzerine Front End kısmında işleri çok daha hızlı hazırlamak için geliştirilmeye devam eden ve geliştirilecek olan bir çok proje mevcuttur. Flexible Grid System'in gelecek planlarını [http://flexible.gs/tr/future/](http://flexible.gs/tr/future/) adresinden takip edip katkıda bulunabilir sizde takımın bir parçası olabilirsiniz.
