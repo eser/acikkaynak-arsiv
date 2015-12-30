@@ -1,0 +1,10 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acikkaynak/acikkaynak.git"
+  },
+  "homepage": "https://github.com/acikkaynak/acikkaynak#readme",
+  "devDependencies": {
+    "chalk": "^1.1.1"
+  }
+}
