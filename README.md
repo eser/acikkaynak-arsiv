@@ -1,5 +1,7 @@
 # Açık Kaynak İnisiyatifi
 
+[![Join the chat at https://gitter.im/acikkaynak/acikkaynak](https://badges.gitter.im/acikkaynak/acikkaynak.svg)](https://gitter.im/acikkaynak/acikkaynak?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Merhaba,
 
 Bu organizasyon GitHub'ın kendi doğal araçları kullanılarak Türkçe konuşan kullanıcıların açık kaynaklı projelere katkı sağlamasına yardımcı olmak amacıyla oluşturulmuştur.
