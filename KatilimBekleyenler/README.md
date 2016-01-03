@@ -4,15 +4,14 @@ Burada belirli konularda sizlerin katılımlarını bekleyen açık kaynak proje
 
 ## react-date-range
 
-Kategori: Web Front-end
-
 [https://github.com/Adphorus/react-date-range](https://github.com/Adphorus/react-date-range)
 
-Dil: Javascript
-
+Kategori: Web Önyüz  
+Dil: Javascript   
 Bağımlılıkları: React, Moment.js
 
 Katılım Beklentileri:
+
 - Moment.js'den bağımsız bir hale gelmek.
 - Yeni versiyonun denenmesi https://github.com/Adphorus/react-date-range/issues/35
 - Yeni versiyondaki ozellikler icin dokuman yazilmasi https://github.com/Adphorus/react-date-range/issues/35
@@ -21,8 +20,24 @@ Katılım Beklentileri:
 
 ## Data Grid Bundle
 
-Kategori: Symfony/bundle
-
 [https://github.com/APY/APYDataGridBundle](https://github.com/APY/APYDataGridBundle)
 
-Katılım Beklentimiz [issuelarımız](https://github.com/APY/APYDataGridBundle/issues) fixlenmesi
+Kategori: Web Arkayüz   
+Dil: PHP   
+Bağımlılıkları: Symfony2   
+
+Katılım Beklentileri:
+
+- [issuelarımız](https://github.com/APY/APYDataGridBundle/issues) fixlenmesi
+
+## Scabbia PHP Components
+
+[https://github.com/eserozvataf/scabbia2](https://github.com/eserozvataf/scabbia2)
+
+Kategori: Web Arkayüz   
+Dil: PHP   
+Bağımlıkları: Composer
+
+- Dökümantasyon
+- Unit Test Yazılması
+- Platform Testleri

@@ -25,3 +25,9 @@ Symfony2 dünyasındaki en çok kullanılan ve tek çok iyi olan grid bundle. @o
 [https://github.com/delirehberi/importbundle](https://github.com/delirehberi/importbundle)
 
 Eski projeleri, Symfony2 ve Doctrine kullanılarak hazırlanmış projelere taşımak için geliştirilmiştir. İki farklı veri yapısına sahip veritabanını, oluşturulan map dosyasıyla ve yazılabilen modifier'lar ile işlemden geçirerek eşletirebilme yeteneğine sahip.
+
+## Scabbia PHP Components
+
+[https://github.com/eserozvataf/scabbia2](https://github.com/eserozvataf/scabbia2)
+
+Symfony bileşenlerini veya ThePhpLeague'i daha önce duymuşsunuzdur. Scabbia PHP Components de size composer üzerinden PHP projelerinize eklenen bileşenler sunuyor.
