@@ -26,6 +26,7 @@ Daha da iyisi bu repository altında "issue" oluşturarak, (örneğin) Bootstrap
 
 - [Projeler](Projeler/)
 - [Katılım Bekleyenler](KatilimBekleyenler/)
+- [Kaynaklar](Kaynaklar/)
 
 ___
 (Bu veya diğer sayfalar henüz oluşturulma aşamasında olup yakın zamanda tekrar revize edilecektir, fikirleriniz varsa duymak isteriz.)
