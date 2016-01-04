@@ -12,4 +12,4 @@ RESTFul HTTP API'lariniz icin JavaScript kullanarak testler yazmaniza olanak ver
 
 [https://github.com/Ardakilic/dizici](https://github.com/Ardakilic/dizici)
 
-Aciklama gelecek.
+PHP ile yazılmış basit bir Cli aracı olan Dizici ile izlediğiniz dizileri sisteme tanımlayıp birden fazla dizi için yayımlanma tarihine göre ortak izleme listesi çıkartabilirsiniz. Bu sayede izlediğiniz diziyi tamamlayan başka yan diziler de varsa (örn: Doctor Who / Torchwood, Stargate SG-1/Atlantis/Universe), veya sezonların parçası olmayan özel bölümler veya sinema filmleri varsa bunları hangi sırada izleyeceğinizi bir liste olarak çıktı alabilirsiniz.
