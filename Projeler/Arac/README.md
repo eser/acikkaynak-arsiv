@@ -19,3 +19,9 @@ PHP ile yazılmış basit bir Cli aracı olan Dizici ile izlediğiniz dizileri s
 [https://github.com/Ardakilic/backmeup](https://github.com/Ardakilic/backmeup)
 
 Yedekleme aracı olarak tasarlanmış çok basit bir shell script olan BackMeUp ile sunucunuzda barındırdığınız veritabanlarını ve de belli bir klasör ve altlarını (örn: Web Root) sıkıştırıp arşiv dosyasını Dropbox hesabınıza yükleyebilirsiniz.
+
+## Rates
+
+[https://github.com/smtaydemir/rates](https://github.com/smtaydemir/rates)
+
+Node.js ile yazılmış terminal üzerinden döviz dönüşümlerinizi yapmaya olanak sağlayan cli aracı.
