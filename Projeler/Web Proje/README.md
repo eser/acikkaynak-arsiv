@@ -16,6 +16,6 @@ Thesaurus eşanlamlı kelimeler sözlüğü demek. Aynı zamanda yakın anlamlı
 
 ## WhatTheTag
 
-[https://github.com/Ardakilic/WhatTheTag/](https://github.com/Ardakilic/WhatTheTag/)
+[https://github.com/Ardakilic/WhatTheTag](https://github.com/Ardakilic/WhatTheTag)
 
 PHP/Laravel kullanılarak hazırlanmış, örnek resim etiketleme uygulaması. [Laravel](https://laravel.com/)'in çeşitli özelliklerinin ve de [gulp](http://gulpjs.com/) gibi otomasyon araçlarının bir arada kullanıldığı örnek bir projedir.
