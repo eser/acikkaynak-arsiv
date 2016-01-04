@@ -25,3 +25,9 @@ Yedekleme aracı olarak tasarlanmış çok basit bir shell script olan BackMeUp 
 [https://github.com/smtaydemir/rates](https://github.com/smtaydemir/rates)
 
 Node.js ile yazılmış terminal üzerinden döviz dönüşümlerinizi yapmaya olanak sağlayan cli aracı.
+
+## psd2
+
+[https://github.com/smtaydemir/psd2](https://github.com/smtaydemir/psd2)
+
+Terminal üzerinden psd dosyalarını png'ye dönüştürebilmenizi sağlayan nodejs ile yazılmış cli aracı.
