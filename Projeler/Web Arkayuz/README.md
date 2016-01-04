@@ -31,3 +31,9 @@ Eski projeleri, Symfony2 ve Doctrine kullanılarak hazırlanmış projelere taş
 [https://github.com/eserozvataf/scabbia2](https://github.com/eserozvataf/scabbia2)
 
 Symfony bileşenlerini veya ThePhpLeague'i daha önce duymuşsunuzdur. Scabbia PHP Components de size composer üzerinden PHP projelerinize eklenen bileşenler sunuyor.
+
+## Laravel Mutlucell SMS
+
+[https://github.com/Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms)
+
+Bu paket sayesinde Laravel 5.x veya 4.x kullanan projelerinizde [Mutlucell](http://www.mutlucell.com.tr/) altyapısını kullanarak tekli veya çoklu sms gönderebilir, bakiye ve originator ID sorgulayabilirsiniz. 
