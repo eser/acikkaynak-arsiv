@@ -13,3 +13,9 @@ PHP/Symfony2 kullanılarak hazırlanmış, online dergicilik için geliştirilen
 [https://github.com/ojs/thesaurus-manager](https://github.com/ojs/thesaurus-manager)
 
 Thesaurus eşanlamlı kelimeler sözlüğü demek. Aynı zamanda yakın anlamlı, anlam benzerlikleri olan ve karşıt anlamlı kelimeleri içinde barındıran sözlük yapmak aynı zamanda graph database kullanarak yapmak için bu projeyi kullanabilirsiniz.
+
+## WhatTheTag
+
+[https://github.com/Ardakilic/WhatTheTag/](https://github.com/Ardakilic/WhatTheTag/)
+
+PHP/Laravel kullanılarak hazırlanmış, örnek resim etiketleme uygulaması. [Laravel](https://laravel.com/)'in çeşitli özelliklerinin ve de [gulp](http://gulpjs.com/) gibi otomasyon araçlarının bir arada kullanıldığı örnek bir projedir.
