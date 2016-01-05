@@ -12,6 +12,7 @@ Burada açık kaynak hakkında kaynak oluşturabilecek yazılar ve bağlantılar
 
 - [Açık Kaynak projelerde katılım tanımlaması](katilim_tanimi.md)
 - [Nasıl katılım sağlarım?](nasil_katilim_saglanir.md)
+- [GitHub üzerinden katılım sağlamak](github_uzerinden_katilim.md)
 
 ## Organizasyon
 
