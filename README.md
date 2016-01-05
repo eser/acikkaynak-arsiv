@@ -25,8 +25,17 @@ Daha da iyisi bu repository altında "issue" oluşturarak, (örneğin) Bootstrap
 ## Alt Sayfalar
 
 - [Projeler](Projeler/)
-- [Katılım Bekleyenler](KatilimBekleyenler/)
+   - [Araç](Projeler/Arac/)
+   - [Web Arkayüz](Projeler/Web%20Arkayuz/)
+   - [Web Önyüz](Projeler/Web%20Onyuz/)
+   - [Web Proje](Projeler/Web%20Proje/)
+   - [Web Servis](Projeler/Web%20Servis/)
+- [Katılım Bekleyenler Projeler](KatilimBekleyenler/)
 - [Kaynaklar](Kaynaklar/)
+   - Açık Kaynak Yazılım
+     - [Nedir?](Kaynaklar/nedir.md)
+     - [Özgür Yazılım ve Açık Kaynak arasındaki farklar](Kaynaklar/vs_ozgur_yazilim.md)
+     - [Lisans modelleri](Kaynaklar/lisanslar.md)
 
 ___
 (Bu veya diğer sayfalar henüz oluşturulma aşamasında olup yakın zamanda tekrar revize edilecektir, fikirleriniz varsa duymak isteriz.)
