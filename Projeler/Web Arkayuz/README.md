@@ -37,3 +37,9 @@ Symfony bileşenlerini veya ThePhpLeague'i daha önce duymuşsunuzdur. Scabbia P
 [https://github.com/Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms)
 
 Bu paket sayesinde Laravel 5.x veya 4.x kullanan projelerinizde [Mutlucell](http://www.mutlucell.com.tr/) altyapısını kullanarak tekli veya çoklu sms gönderebilir, bakiye ve originator ID sorgulayabilirsiniz. 
+
+## Fcfinder
+
+[https://github.com/furkancelik/fcfinder](https://github.com/furkancelik/fcfinder)
+
+Ruby on Rails için Web Dosya Gezgini CKEditor ve Tinymce ile hızlı ve basit bir şekilde entegreli olarak kullanabileceğiniz dosya gezgini.
