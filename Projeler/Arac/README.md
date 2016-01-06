@@ -31,3 +31,9 @@ Node.js ile yazılmış terminal üzerinden döviz dönüşümlerinizi yapmaya o
 [https://github.com/smtaydemir/psd2](https://github.com/smtaydemir/psd2)
 
 Terminal üzerinden psd dosyalarını png'ye dönüştürebilmenizi sağlayan nodejs ile yazılmış cli aracı.
+
+## DenetmenBundle
+
+[https://github.com/mustafaileri/DenetmenBundle](https://github.com/mustafaileri/DenetmenBundle)
+
+Symfony2 projeleri için basit olarak URL testi ve validasyonu yapmayı sağlayan cli aracı. Bu araç ile url çıktılarını herhangi bir DOM Elementinin olup olmadığını, tipini veya süresini kontrol edebilir ve bunların sonucunda alarm oluşturabilirsiniz.
