@@ -37,3 +37,15 @@ Terminal üzerinden psd dosyalarını png'ye dönüştürebilmenizi sağlayan no
 [https://github.com/mustafaileri/DenetmenBundle](https://github.com/mustafaileri/DenetmenBundle)
 
 Symfony2 projeleri için basit olarak URL testi ve validasyonu yapmayı sağlayan cli aracı. Bu araç ile url çıktılarını herhangi bir DOM Elementinin olup olmadığını, tipini veya süresini kontrol edebilir ve bunların sonucunda alarm oluşturabilirsiniz.
+
+## Chevent
+
+[https://github.com/codeui/chevent](https://github.com/codeui/chevent)
+
+Chevent Türkiyedeki etkinlikleri, telefonunuzdan, tarayıcınızdan ve cli'den takip etmenizi sağlayan bir uygulamadır. Hali hazırda ios, chrome, opera, android sürümler bulunuyor.
+
+## wpup
+
+[https://github.com/smtaydemir/wpup](https://github.com/smtaydemir/wpup)
+
+Wordpress'in son sürümünü terminal üzerinden indirmenizi sağlayan symfony/console ile yazılmış bir cli aracı.
