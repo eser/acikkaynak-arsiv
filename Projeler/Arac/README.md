@@ -49,3 +49,9 @@ Chevent Türkiyedeki etkinlikleri, telefonunuzdan, tarayıcınızdan ve cli'den 
 [https://github.com/smtaydemir/wpup](https://github.com/smtaydemir/wpup)
 
 Wordpress'in son sürümünü terminal üzerinden indirmenizi sağlayan symfony/console ile yazılmış bir cli aracı.
+
+## freebook
+
+[https://github.com/smtaydemir/freebook](https://github.com/smtaydemir/freebook)
+
+Packtpub'da hergün yayınlanan ücretsiz kitapları takip edebileceğiniz cli aracı.
