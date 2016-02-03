@@ -56,4 +56,4 @@ Bu SVG Türkiye Haritası'nda İstanbul Asya ve Avrupa ayrı Kıbrıs'ta var hem
 
 [https://github.com/deloreanjs/delorean](https://github.com/deloreanjs/delorean)
 
-Olukça hafif ve agnostik bir Flux mimarisi implementasyonu.
+Oldukça hafif ve agnostik bir Flux mimarisi implementasyonu.

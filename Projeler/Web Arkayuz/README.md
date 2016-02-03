@@ -49,3 +49,15 @@ Ruby on Rails için Web Dosya Gezgini CKEditor ve Tinymce ile hızlı ve basit b
 [https://github.com/stnc/stnc-framework](https://github.com/stnc/stnc-framework)
 
 Composer tabanlı gelişmiş PHP framework.
+
+## Kemal
+
+[https://github.com/sdogruyol/kemal](https://github.com/sdogruyol/kemal)
+
+Crystal için Sinatra tarzında ışık hızında ve WebSocket destekli bir web framework.
+
+## Kamber
+
+[https://github.com/f/kamber](https://github.com/f/kamber)
+
+[Kemal](https://github.com/sdogruyol/kemal) üzerinde çalışan statik blog sunucusu.
