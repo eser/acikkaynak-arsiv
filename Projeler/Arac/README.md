@@ -55,3 +55,9 @@ Wordpress'in son sürümünü terminal üzerinden indirmenizi sağlayan symfony/
 [https://github.com/smtaydemir/freebook](https://github.com/smtaydemir/freebook)
 
 Packtpub'da hergün yayınlanan ücretsiz kitapları takip edebileceğiniz cli aracı.
+
+## sey
+
+[https://github.com/eserozvataf/sey](https://github.com/eserozvataf/sey)
+
+Grunt/Gulp'un aksine; hem API hem konfigurasyon tabanlı olarak kod dizininde gerçekleştirdiğinizi işlerinizi otomatize edebileceğiniz hem de yalnızca değişiklik yapılan dosyaları işlemden geçiren, javascript tabanlı bir "make" aracı.

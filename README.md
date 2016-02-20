@@ -33,9 +33,21 @@ Daha da iyisi bu repository altında "issue" oluşturarak, (örneğin) Bootstrap
 - [Katılım Bekleyenler Projeler](KatilimBekleyenler/)
 - [Kaynaklar](Kaynaklar/)
    - Açık Kaynak Yazılım
-     - [Nedir?](Kaynaklar/nedir.md)
-     - [Özgür Yazılım ve Açık Kaynak arasındaki farklar](Kaynaklar/vs_ozgur_yazilim.md)
-     - [Lisans modelleri](Kaynaklar/lisanslar.md)
+     - [Nedir?](Kaynaklar/acik_kaynak_yazilim/nedir.md)
+     - [Özgür Yazılım ve Açık Kaynak arasındaki farklar](Kaynaklar/acik_kaynak_yazilim/vs_ozgur_yazilim.md)
+     - [Lisans modelleri](Kaynaklar/acik_kaynak_yazilim/lisanslar.md)
+   - GitHub Açık Kaynak Platformu
+     - [Genel](Kaynaklar/github_platformu/genel.md)
+   - Katılım
+     - [Açık Kaynak projelerde katılım tanımlaması](Kaynaklar/katilim/katilim_tanimi.md)
+     - [Nasıl katılım sağlarım?](Kaynaklar/katilim/nasil_katilim_saglanir.md)
+     - [GitHub üzerinden katılım sağlamak](Kaynaklar/katilim/github_uzerinden_katilim.md)
+   - Organizasyon
+     - [Açık Kaynak projeme katılımcı nasıl bulabilirim?](Kaynaklar/organizasyon/katilimci_bulma.md)
+     - [Katılım fıkrım var ama ingilizce eksiğim var](Kaynaklar/organizasyon/dil_destek.md)
+     - [Katılım fikrim var ama teknik eksiğim var](Kaynaklar/organizasyon/teknik_destek.md)
+     - [Katılım fikrim var ama fikir danışmaya ihtiyacım var](Kaynaklar/organizasyon/teknik_danisma.md)
+
 
 ___
 (Bu veya diğer sayfalar henüz oluşturulma aşamasında olup yakın zamanda tekrar revize edilecektir, fikirleriniz varsa duymak isteriz.)

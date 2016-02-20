@@ -41,3 +41,16 @@ Bağımlıkları: Composer
 - Dökümantasyon
 - Unit Test Yazılması
 - Platform Testleri
+
+## sey
+
+[https://github.com/eserozvataf/sey](https://github.com/eserozvataf/sey)
+
+Kategori: Araç   
+Dil: JavaScript   
+Bağımlıkları: NPM
+
+- Geliştirme
+- Dökümantasyon
+- Unit Test Yazılması
+- Platform Testleri
