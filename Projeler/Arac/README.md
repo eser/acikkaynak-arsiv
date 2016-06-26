@@ -61,3 +61,9 @@ Packtpub'da hergün yayınlanan ücretsiz kitapları takip edebileceğiniz cli a
 [https://github.com/eserozvataf/sey](https://github.com/eserozvataf/sey)
 
 Grunt/Gulp'un aksine; hem API hem konfigurasyon tabanlı olarak kod dizininde gerçekleştirdiğinizi işlerinizi otomatize edebileceğiniz hem de yalnızca değişiklik yapılan dosyaları işlemden geçiren, javascript tabanlı bir "make" aracı.
+
+## Recommendify
+
+[https://github.com/Ardakilic/Recommendify](https://github.com/Ardakilic/Recommendify)
+
+Last.fm kullanıcı önerilerini Spotify çalma listelerine dönüştürebilen basit bir araç. [https://ardakilic.github.io/Recommendify/](https://ardakilic.github.io/Recommendify/) adresinden çevrimiçi olarak erişilebilir ve de kullanılabilir.
