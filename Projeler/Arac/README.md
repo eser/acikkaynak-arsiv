@@ -73,3 +73,9 @@ Last.fm kullanıcı önerilerini Spotify çalma listelerine dönüştürebilen b
 [https://github.com/eneserdogan/iftar](https://github.com/eneserdogan/iftar)
 
 Terminal üzerinden iftara kalan saati öğrenebileceğiniz cli aracı.
+
+## apibone
+
+[https://github.com/eserozvataf/apibone](https://github.com/eserozvataf/apibone)
+
+Sorgulanabilir servisler için birleştirilmiş bir platform sağlar. Basit sorguların yanıtını aldığınız web servisleri için cli tool oluşturmak yerine api entegrasyonunuzu apibone'a entegre ettiğinizde; servisi aynı komut ve parametrelerle cli, web, telegram gibi platformlardan sorgulanabilir kılarsınız.
