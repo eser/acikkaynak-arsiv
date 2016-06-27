@@ -25,3 +25,9 @@ PHP/Laravel kullanılarak hazırlanmış, örnek resim etiketleme uygulaması. [
 [https://github.com/wholecms](https://github.com/wholecms)
 
 PHP/Laravel kullanılarak hazırlanmış, içerik yönetim sistemi. Sınırsızca genişletebileceğiniz bağımlılıkları olmadan oluşturacağınız modüllerinizi dahil edip içerik yönetim sisteminden daha fazlasını elde edebilirsiniz. İstediğiniz temaya entegre ederek kolayca kullanabileceğiniz bir sistem.
+
+## expercise
+
+[https://github.com/expercise/expercise/](https://github.com/expercise/expercise/)
+
+Java ve Spring çatısı ile geliştirilmekte olan çevrimiçi programlama görevleri platformu. Uygulama herkese açık test aşamasındadır: [expercise.com](https://expercise.com/). Uygulama kodlarında değişiklik yaparak yada uygulamaya sorular ekleyerek platformun gelişmesine katkıda bulunabilirsiniz.
