@@ -67,3 +67,9 @@ Grunt/Gulp'un aksine; hem API hem konfigurasyon tabanlı olarak kod dizininde ge
 [https://github.com/Ardakilic/Recommendify](https://github.com/Ardakilic/Recommendify)
 
 Last.fm kullanıcı önerilerini Spotify çalma listelerine dönüştürebilen basit bir araç. [https://ardakilic.github.io/Recommendify/](https://ardakilic.github.io/Recommendify/) adresinden çevrimiçi olarak erişilebilir ve de kullanılabilir.
+
+## iftar
+
+[https://github.com/eneserdogan/iftar](https://github.com/eneserdogan/iftar)
+
+Terminal üzerinden iftara kalan saati öğrenebileceğiniz cli aracı.
