@@ -18,7 +18,7 @@ PHP ile yazılmış basit bir Cli aracı olan Dizici ile izlediğiniz dizileri s
 
 [https://github.com/Ardakilic/backmeup](https://github.com/Ardakilic/backmeup)
 
-Yedekleme aracı olarak tasarlanmış çok basit bir shell script olan BackMeUp ile sunucunuzda barındırdığınız veritabanlarını ve de belli bir klasör ve altlarını (örn: Web Root) sıkıştırıp arşiv dosyasını Dropbox hesabınıza yükleyebilirsiniz.
+Yedekleme aracı olarak tasarlanmış çok basit bir shell script olan BackMeUp ile sunucunuzda barındırdığınız veritabanlarını ve de belli bir klasör ve altlarını (örn: Web Root) sıkıştırıp arşiv dosyasını Dropbox, Amazon S3, Owncloud hesaplaarınıza yükleyebilirsiniz.
 
 ## Rates
 
