@@ -79,3 +79,9 @@ Terminal üzerinden iftara kalan saati öğrenebileceğiniz cli aracı.
 [https://github.com/eserozvataf/apibone](https://github.com/eserozvataf/apibone)
 
 Sorgulanabilir servisler için birleştirilmiş bir platform sağlar. Basit sorguların yanıtını aldığınız web servisleri için cli tool oluşturmak yerine api entegrasyonunuzu apibone'a entegre ettiğinizde; servisi aynı komut ve parametrelerle cli, web, telegram gibi platformlardan sorgulanabilir kılarsınız.
+
+## kuzgun
+
+[https://github.com/nusu/kuzgun](https://github.com/nusu/kuzgun)
+
+Kuzgun, node.js ile yazılmış bir deployment tooludur, her git push yaptıktan sonra çalıştırdığınızda sizin yerinize server'ınıza bağlanır seçtiğiniz klasöre gider ve bu klasöre yaptığınız değişiklilikleri çeker.
