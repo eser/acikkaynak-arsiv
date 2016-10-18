@@ -54,3 +54,15 @@ Bağımlıkları: NPM
 - Dökümantasyon
 - Unit Test Yazılması
 - Platform Testleri
+
+
+## Serenity
+
+[https://github.com/volkanceylan/Serenity](https://github.com/volkanceylan/Serenity)
+
+Kategori: Web Uygulaması Geliştirme Platformu   
+Dil: C# - Typescript
+
+- Geliştirme
+- Dökümantasyon
+- Unit Test Yazılması
