@@ -1,10 +1,10 @@
 'use strict';
 
-var chalk = require('chalk'),
+var colors = require('colors/safe'),
     path = require('path'),
     fs = require('fs');
 
-var projectsClass = function () {
+var projectsClass = function (cwd) {
     var self = this;
 
     self.addProjectDir = function (dir, target) {
@@ -37,7 +37,7 @@ var projectsClass = function () {
             }
 
             if (!redundantState) {
-                current.content += line + '\n';
+                current.content += line.trim();
             }
         }
 
@@ -64,20 +64,20 @@ var projectsClass = function () {
 
     self.parse = function () {
         self.output = {};
-        self.addDir(path.join(__dirname, 'Projeler'));
+        self.addDir(path.join(cwd, 'Projeler'));
 
         return self.output;
     };
 
     self.writeToFile = function (filePath) {
-        var content = JSON.stringify(self.parse());
+        var content = JSON.stringify(self.parse(), null, '  ');
 
-        fs.writeFileSync(filePath, content);
+        fs.writeFileSync(path.join(cwd, filePath), content);
     };
 };
 
-var projects = new projectsClass();
+var projects = new projectsClass(path.join(__dirname, '..'));
 
-projects.writeToFile(path.join(__dirname, 'projects.json'));
+projects.writeToFile('projects.json');
 
-console.log(chalk.yellow('done.'));
+console.log(colors.yellow('done.'));
