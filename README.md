@@ -1,6 +1,6 @@
 # Açık Kaynak İnisiyatifi
 
-[![Slack Status](http://acikkaynak.info/slackin/badge.svg)](http://acikkaynak.info/slackin/)
+[![Slack Status](http://s.acikkaynak.info/slackin/badge.svg)](http://s.acikkaynak.info/slackin/)
 [![website][website-image]][website-url]
 [![contributors][contributors-image]][contributors-url]
 [![issues][issues-image]][issues-url]
