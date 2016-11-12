@@ -1,6 +1,8 @@
 # Açık Kaynak İnisiyatifi
 
-[![Join the chat at https://gitter.im/acikkaynak/acikkaynak](https://badges.gitter.im/acikkaynak/acikkaynak.svg)](https://gitter.im/acikkaynak/acikkaynak?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+![Açık Kaynak İnisiyatifi](./.etc/acikkaynak-logo-142px.png)
+
+[![Slack Status](http://hexdanismanlik.com/acikkaynak-slackin/badge.svg)](http://hexdanismanlik.com/acikkaynak-slackin/)
 
 Merhaba,
 
