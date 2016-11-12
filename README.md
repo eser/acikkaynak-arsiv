@@ -2,7 +2,7 @@
 
 ![Açık Kaynak İnisiyatifi](./.etc/acikkaynak-logo-142px.png)
 
-[![Slack Status](http://hexdanismanlik.com/acikkaynak-slackin/badge.svg)](http://hexdanismanlik.com/acikkaynak-slackin/)
+[![Slack Status](http://acikkaynak.info/slackin/badge.svg)](http://acikkaynak.info/slackin/)
 
 Merhaba,
 
