@@ -8,21 +8,23 @@
 [![github][github-image]][github-url]
 
 
+<div align="center">
 
 [![Açık Kaynak İnisiyatifi][acikkaynak-image]][acikkaynak-url]
 
-[Giriş][acikkaynak-url]
+[İçeriğe ulaşmak için tıklayınız][acikkaynak-url]
 
+</div>
 
-[acikkaynak-image]: ./Media/acikkaynak-logo-142px.png
+[acikkaynak-image]: ./Media/acikkaynak-logo-284px.png
 [acikkaynak-url]: Icerik/
 [website-image]: https://img.shields.io/website-up-down-green-red/http/acikkaynak.info.svg
 [website-url]: http://acikkaynak.info/
-[contributors-image]: https://img.shields.io/github/contributors/acikkaynak/acikkaynak.svg?style=flat-square
+[contributors-image]: https://img.shields.io/github/contributors/acikkaynak/acikkaynak.svg
 [contributors-url]: https://github.com/acikkaynak/acikkaynak/blob/master/LICENSE
-[issues-image]: https://img.shields.io/github/issues/acikkaynak/acikkaynak.svg?style=flat-square
+[issues-image]: https://img.shields.io/github/issues/acikkaynak/acikkaynak.svg
 [issues-url]: https://github.com/acikkaynak/acikkaynak/issues
-[issues-pr-image]: https://img.shields.io/github/issues-pr/acikkaynak/acikkaynak.svg?style=flat-square
+[issues-pr-image]: https://img.shields.io/github/issues-pr/acikkaynak/acikkaynak.svg
 [issues-pr-url]: https://github.com/acikkaynak/acikkaynak/pulls
 [github-image]: https://img.shields.io/github/stars/acikkaynak/acikkaynak.svg?style=social&label=Star
 [github-url]: https://github.com/acikkaynak/acikkaynak
