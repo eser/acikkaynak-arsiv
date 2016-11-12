@@ -9,11 +9,11 @@
 
 
 <div align="center">
-
-[![Açık Kaynak İnisiyatifi][acikkaynak-image]][acikkaynak-url]
-
-[İçeriğe ulaşmak için tıklayınız][acikkaynak-url]
-
+    <a href="Icerik/">
+        <img src="./Media/acikkaynak-logo-284px.png" alt="Açık Kaynak İnisiyatifi" title="" />
+    </a>
+    <br />
+    İçeriğe ulaşmak için tıklayınız
 </div>
 
 [acikkaynak-image]: ./Media/acikkaynak-logo-284px.png
