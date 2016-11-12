@@ -76,7 +76,7 @@ var projectsClass = function (cwd) {
     };
 };
 
-var projects = new projectsClass(path.join(__dirname, '..'));
+var projects = new projectsClass(__dirname);
 
 projects.writeToFile('projects.json');
 
