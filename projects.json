@@ -4,112 +4,126 @@
       "name": "Conquest",
       "url": "https://github.com/brsyuksel/conquest",
       "githubUrl": "brsyuksel/conquest",
+      "logoUrl": "",
       "content": "RESTFul HTTP API'lariniz icin JavaScript kullanarak testler yazmaniza olanak veren ve yuk testi yapamizi saglayan Go ile gelistirilmistir bir arac. [Github sayfasindan](http://brsyuksel.github.io/conquest/) kullanimi hakkinda bilgi detayli edinebilirsiniz.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "Dizici",
       "url": "https://github.com/Ardakilic/dizici",
       "githubUrl": "Ardakilic/dizici",
+      "logoUrl": "",
       "content": "PHP ile yazılmış basit bir Cli aracı olan Dizici ile izlediğiniz dizileri sisteme tanımlayıp birden fazla dizi için yayımlanma tarihine göre ortak izleme listesi çıkartabilirsiniz. Bu sayede izlediğiniz diziyi tamamlayan başka yan diziler de varsa (örn: Doctor Who / Torchwood, Stargate SG-1/Atlantis/Universe), veya sezonların parçası olmayan özel bölümler veya sinema filmleri varsa bunları hangi sırada izleyeceğinizi bir liste olarak çıktı alabilirsiniz.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "BackMeUp",
       "url": "https://github.com/Ardakilic/backmeup",
       "githubUrl": "Ardakilic/backmeup",
+      "logoUrl": "",
       "content": "Yedekleme aracı olarak tasarlanmış çok basit bir shell script olan BackMeUp ile sunucunuzda barındırdığınız veritabanlarını ve de belli bir klasör ve altlarını (örn: Web Root) sıkıştırıp arşiv dosyasını Dropbox, Amazon S3, Owncloud hesaplaarınıza yükleyebilirsiniz.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "Rates",
       "url": "https://github.com/smtaydemir/rates",
       "githubUrl": "smtaydemir/rates",
+      "logoUrl": "",
       "content": "Node.js ile yazılmış terminal üzerinden döviz dönüşümlerinizi yapmaya olanak sağlayan cli aracı.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "psd2",
       "url": "https://github.com/smtaydemir/psd2",
       "githubUrl": "smtaydemir/psd2",
+      "logoUrl": "",
       "content": "Terminal üzerinden psd dosyalarını png'ye dönüştürebilmenizi sağlayan nodejs ile yazılmış cli aracı.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "DenetmenBundle",
       "url": "https://github.com/mustafaileri/DenetmenBundle",
       "githubUrl": "mustafaileri/DenetmenBundle",
+      "logoUrl": "",
       "content": "Symfony2 projeleri için basit olarak URL testi ve validasyonu yapmayı sağlayan cli aracı. Bu araç ile url çıktılarını herhangi bir DOM Elementinin olup olmadığını, tipini veya süresini kontrol edebilir ve bunların sonucunda alarm oluşturabilirsiniz.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "Chevent",
       "url": "https://github.com/codeui/chevent",
       "githubUrl": "codeui/chevent",
+      "logoUrl": "",
       "content": "Chevent Türkiyedeki etkinlikleri, telefonunuzdan, tarayıcınızdan ve cli'den takip etmenizi sağlayan bir uygulamadır. Hali hazırda ios, chrome, opera, android sürümler bulunuyor.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "wpup",
       "url": "https://github.com/smtaydemir/wpup",
       "githubUrl": "smtaydemir/wpup",
+      "logoUrl": "",
       "content": "Wordpress'in son sürümünü terminal üzerinden indirmenizi sağlayan symfony/console ile yazılmış bir cli aracı.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "freebook",
       "url": "https://github.com/smtaydemir/freebook",
       "githubUrl": "smtaydemir/freebook",
+      "logoUrl": "",
       "content": "Packtpub'da hergün yayınlanan ücretsiz kitapları takip edebileceğiniz cli aracı.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "sey",
       "url": "https://github.com/eserozvataf/sey",
       "githubUrl": "eserozvataf/sey",
+      "logoUrl": "",
       "content": "Grunt/Gulp'un aksine; hem API hem konfigurasyon tabanlı olarak kod dizininde gerçekleştirdiğinizi işlerinizi otomatize edebileceğiniz hem de yalnızca değişiklik yapılan dosyaları işlemden geçiren, javascript tabanlı bir \"make\" aracı.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "Recommendify",
       "url": "https://github.com/Ardakilic/Recommendify",
       "githubUrl": "Ardakilic/Recommendify",
+      "logoUrl": "",
       "content": "Last.fm kullanıcı önerilerini Spotify çalma listelerine dönüştürebilen basit bir araç. [https://ardakilic.github.io/Recommendify/](https://ardakilic.github.io/Recommendify/) adresinden çevrimiçi olarak erişilebilir ve de kullanılabilir.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "iftar",
       "url": "https://github.com/eneserdogan/iftar",
       "githubUrl": "eneserdogan/iftar",
+      "logoUrl": "",
       "content": "Terminal üzerinden iftara kalan saati öğrenebileceğiniz cli aracı.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "apibone",
       "url": "https://github.com/eserozvataf/apibone",
       "githubUrl": "eserozvataf/apibone",
+      "logoUrl": "",
       "content": "Sorgulanabilir servisler için birleştirilmiş bir platform sağlar. Basit sorguların yanıtını aldığınız web servisleri için cli tool oluşturmak yerine api entegrasyonunuzu apibone'a entegre ettiğinizde; servisi aynı komut ve parametrelerle cli, web, telegram gibi platformlardan sorgulanabilir kılarsınız.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "kuzgun",
       "url": "https://github.com/nusu/kuzgun",
       "githubUrl": "nusu/kuzgun",
+      "logoUrl": "",
       "content": "Kuzgun, node.js ile yazılmış bir deployment tooludur, her git push yaptıktan sonra çalıştırdığınızda sizin yerinize server'ınıza bağlanır seçtiğiniz klasöre gider ve bu klasöre yaptığınız değişiklilikleri çeker.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     }
   ],
@@ -118,88 +132,99 @@
       "name": "FeedbackBundle",
       "url": "https://github.com/okulbilisim/FeedbackBundle",
       "githubUrl": "okulbilisim/FeedbackBundle",
+      "logoUrl": "",
       "content": "PHP/Symfony2 bundle şeklinde websitelerinden geri bildirim toplamak isteyenler için metin veya ekran görüntüsü alabilen bir araçtır.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "BibTexBundle",
       "url": "https://github.com/ojs/BibTexBundle",
       "githubUrl": "ojs/BibTexBundle",
+      "logoUrl": "",
       "content": "Akademik çalışmalarda standart çıktı üretilmesini için kullanılan BibTex çıktısını çıkartan PHP/Symfony2 bundle'dır.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "Data Grid Bundle",
       "url": "https://github.com/APY/APYDataGridBundle",
       "githubUrl": "APY/APYDataGridBundle",
+      "logoUrl": "",
       "content": "Symfony2 dünyasındaki en çok kullanılan ve tek çok iyi olan grid bundle. @okulbilisim olarak maintain ediyoruz.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": true
     },
     {
       "name": "Symfony Import Bundle",
       "url": "https://github.com/delirehberi/importbundle",
       "githubUrl": "delirehberi/importbundle",
+      "logoUrl": "",
       "content": "Eski projeleri, Symfony2 ve Doctrine kullanılarak hazırlanmış projelere taşımak için geliştirilmiştir. İki farklı veri yapısına sahip veritabanını, oluşturulan map dosyasıyla ve yazılabilen modifier'lar ile işlemden geçirerek eşletirebilme yeteneğine sahip.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "Scabbia PHP Components",
       "url": "https://github.com/eserozvataf/scabbia2",
       "githubUrl": "eserozvataf/scabbia2",
+      "logoUrl": "",
       "content": "Symfony bileşenlerini veya ThePhpLeague'i daha önce duymuşsunuzdur. Scabbia PHP Components de size composer üzerinden PHP projelerinize eklenen bileşenler sunuyor.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "Laravel Mutlucell SMS",
       "url": "https://github.com/Ardakilic/laravel-mutlucell-sms",
       "githubUrl": "Ardakilic/laravel-mutlucell-sms",
+      "logoUrl": "",
       "content": "Bu paket sayesinde Laravel 5.x veya 4.x kullanan projelerinizde [Mutlucell](http://www.mutlucell.com.tr/) altyapısını kullanarak tekli veya çoklu sms gönderebilir, bakiye ve originator ID sorgulayabilirsiniz.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "Fcfinder",
       "url": "https://github.com/furkancelik/fcfinder",
       "githubUrl": "furkancelik/fcfinder",
+      "logoUrl": "",
       "content": "Ruby on Rails için Web Dosya Gezgini CKEditor ve Tinymce ile hızlı ve basit bir şekilde entegreli olarak kullanabileceğiniz dosya gezgini.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "Stnc-Framework",
       "url": "https://github.com/stnc/stnc-framework",
       "githubUrl": "stnc/stnc-framework",
+      "logoUrl": "",
       "content": "Composer tabanlı gelişmiş PHP framework.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "Kemal",
       "url": "https://github.com/sdogruyol/kemal",
       "githubUrl": "sdogruyol/kemal",
+      "logoUrl": "",
       "content": "Crystal için Sinatra tarzında ışık hızında ve WebSocket destekli bir web framework.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "Kamber",
       "url": "https://github.com/f/kamber",
       "githubUrl": "f/kamber",
+      "logoUrl": "",
       "content": "[Kemal](https://github.com/sdogruyol/kemal) üzerinde çalışan statik blog sunucusu.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "Serenity",
       "url": "https://github.com/volkanceylan/Serenity",
       "githubUrl": "volkanceylan/Serenity",
+      "logoUrl": "",
       "content": "Web Uygulaması Geliştirme Platformu",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": true
     }
   ],
@@ -208,64 +233,72 @@
       "name": "react-date-range",
       "url": "https://github.com/Adphorus/react-date-range",
       "githubUrl": "Adphorus/react-date-range",
+      "logoUrl": "",
       "content": "React kullanılarak hazırlanmış bir tarih ve tarih aralığı seçme bileşenidir. Projenin şu anda 6 katılımcısı var ve yeni katılımlara açık durumdalar.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": true
     },
     {
       "name": "Caffeine",
       "url": "https://github.com/bcinarli/caffeine",
       "githubUrl": "bcinarli/caffeine",
+      "logoUrl": "",
       "content": "Sass tabanlı mixin ve fonksiyon kütüphanesi. Temel tanımlar yapılmış durumda, dökümantasyon sayfaları ve website hazırlanıyor.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "UX Rocket",
       "url": "https://github.com/uxrocket",
       "githubUrl": "uxrocket/uxrocket.io",
+      "logoUrl": "",
       "content": "Şimdilik jQuery tabanlı geliştirilen, roadmapinde ES6 ve native kullanımı planlan pluginler kütüphanesi. Pluginler hazırlanırken mobile-first ve kullanılabilirlik öncelikli olarak çalışılıyor. Websitesi ve bundle yapıları üzerinde çalışılıyor. Factory metodları güncelleniyor* [Autocomplete](https://github.com/uxrocket/uxrocket.autocomplete)* [Modal](https://github.com/uxrocket/uxrocket.modal), [demo](https://uxrocket.github.io/uxrocket.modal)* [Select](https://github.com/uxrocket/uxrocket.select), [demo](https://uxrocket.github.io/uxrocket.select)* [Accordion](https://github.com/uxrocket/uxrocket.accordion)* [Tooltip](https://github.com/uxrocket/uxrocket.tooltip)* [Scrollable](https://github.com/uxrocket/uxrocket.scrollable)* [Dialog](https://github.com/uxrocket/uxrocket.dialog)* [Preloader](https://github.com/uxrocket/uxrocket.preloader)* [Clear](https://github.com/uxrocket/uxrocket.clear)* [Slider](https://github.com/uxrocket/uxrocket.rotator)* [Shortcodes](https://github.com/uxrocket/uxrocket.shortcodes)* [Placeholder](https://github.com/uxrocket/uxrocket.placeholder)* [Popup](https://github.com/uxrocket/uxrocket.popup)",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "Flexible Grid System",
       "url": "https://github.com/flexiblegs",
       "githubUrl": "flexiblegs/flexiblegs-css",
+      "logoUrl": "",
       "content": "Flexible Grid System bir Responsive CSS Framework'üdür. Flexible Grid System ile başlayıp bu altyapı üzerine Front End kısmında işleri çok daha hızlı hazırlamak için geliştirilmeye devam eden ve geliştirilecek olan bir çok proje mevcuttur. Flexible Grid System'in gelecek planlarını [http://flexible.gs/tr/future/](http://flexible.gs/tr/future/) adresinden takip edip katkıda bulunabilir sizde takımın bir parçası olabilirsiniz.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "USCSS",
       "url": "https://github.com/scriptype/USCSS",
       "githubUrl": "scriptype/USCSS",
+      "logoUrl": "",
       "content": "Javascript'le yazılmış alternatif CSS pre-processor'u. Deneysel bir proje.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "SVG Türkiye Haritası",
       "url": "https://github.com/dnomak/turkiye-haritasi",
       "githubUrl": "dnomak/turkiye-haritasi",
+      "logoUrl": "",
       "content": "Bu SVG Türkiye Haritası'nda İstanbul Asya ve Avrupa ayrı Kıbrıs'ta var hemde Responsive.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "DeLorean.js",
       "url": "https://github.com/deloreanjs/delorean",
       "githubUrl": "deloreanjs/delorean",
+      "logoUrl": "",
       "content": "Oldukça hafif ve agnostik bir Flux mimarisi implementasyonu.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "Cizi",
       "url": "https://github.com/eneserdogan/cizi",
       "githubUrl": "eneserdogan/cizi",
+      "logoUrl": "",
       "content": "Sade bir arayüze sahip kişisel blog teması.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     }
   ],
@@ -274,40 +307,45 @@
       "name": "Open Journal Software (OJS)",
       "url": "https://github.com/ojs",
       "githubUrl": "ojs/ojs",
+      "logoUrl": "",
       "content": "PHP/Symfony2 kullanılarak hazırlanmış, online dergicilik için geliştirilen, servis tabanlı bir uygulamadır. Önizlemesine [ojs.io](http://ojs.io) adresinden erişilebilir. Projenin şu an 14 katılımcısı var. Ayrıca proje [Bulut Yazılım](https://bulutyazilim.com) tarafından geliştirilmektedir.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "Thesaurus Manager",
       "url": "https://github.com/ojs/thesaurus-manager",
       "githubUrl": "ojs/thesaurus-manager",
+      "logoUrl": "",
       "content": "Thesaurus eşanlamlı kelimeler sözlüğü demek. Aynı zamanda yakın anlamlı, anlam benzerlikleri olan ve karşıt anlamlı kelimeleri içinde barındıran sözlük yapmak aynı zamanda graph database kullanarak yapmak için bu projeyi kullanabilirsiniz.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "WhatTheTag",
       "url": "https://github.com/Ardakilic/WhatTheTag",
       "githubUrl": "Ardakilic/WhatTheTag",
-      "content": "PHP/Laravel kullanılarak hazırlanmış, örnek resim etiketleme uygulaması. [Laravel](https://laravel.com/)'in çeşitli özelliklerinin ve de [gulp](http://gulpjs.com/) gibi otomasyon araçlarının bir arada kullanıldığı örnek bir projedir.",
-      "contributors": "",
+      "logoUrl": "",
+      "content": "PHP/Laravel kullanılarak hazırlanmış, örnek resim etiketleme uygulaması. Laravel'in çeşitli özelliklerinin ve de [gulp](http://gulpjs.com/) gibi otomasyon araçlarının bir arada kullanıldığı örnek bir projedir.",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "WholeCMS",
       "url": "https://github.com/wholecms",
       "githubUrl": "wholecms/core",
+      "logoUrl": "",
       "content": "PHP/Laravel kullanılarak hazırlanmış, içerik yönetim sistemi. Sınırsızca genişletebileceğiniz bağımlılıkları olmadan oluşturacağınız modüllerinizi dahil edip içerik yönetim sisteminden daha fazlasını elde edebilirsiniz. İstediğiniz temaya entegre ederek kolayca kullanabileceğiniz bir sistem.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "expercise",
       "url": "https://github.com/expercise/expercise/",
       "githubUrl": "expercise/expercise",
+      "logoUrl": "",
       "content": "Java ve Spring çatısı ile geliştirilmekte olan çevrimiçi programlama görevleri platformu. Uygulama herkese açık test aşamasındadır: [expercise.com](https://expercise.com/). Uygulama kodlarında değişiklik yaparak yada uygulamaya sorular ekleyerek platformun gelişmesine katkıda bulunabilirsiniz.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     }
   ],
@@ -316,16 +354,18 @@
       "name": "Telegram-bot-php",
       "url": "https://github.com/Ardakilic/Telegram-bot-php",
       "githubUrl": "Ardakilic/Telegram-bot-php",
+      "logoUrl": "",
       "content": "PHP/Silex kullanılarak yazılmış bu mini servis uygulaması ile kendi Telegram bot'larınızı barındırabilir, belli komutlara metin veya veritabanından gelen metin, resim, müzik, video tarzında cevaplar vermesini sağlayabilirsiniz.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     },
     {
       "name": "BabBot",
       "url": "https://github.com/babua/BabBot",
       "githubUrl": "babua/BabBot",
+      "logoUrl": "",
       "content": "Node.js kullanılarak yazılmış, içerisinde google, youtube, imdb, soundcloud, wikipedia v.b. sorgulama modülleri bulunan hem Telegram botu hem de CLI'de çalışan bir servistir.",
-      "contributors": "",
+      "contributors": [],
       "needsContribution": false
     }
   ]
