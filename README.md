@@ -16,8 +16,6 @@
     İçeriğe ulaşmak için tıklayınız
 </div>
 
-[acikkaynak-image]: ./Media/acikkaynak-logo-284px.png
-[acikkaynak-url]: Icerik/
 [website-image]: https://img.shields.io/website-up-down-green-red/http/acikkaynak.info.svg
 [website-url]: http://acikkaynak.info/
 [contributors-image]: https://img.shields.io/github/contributors/acikkaynak/acikkaynak.svg
