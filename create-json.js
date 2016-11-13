@@ -18,9 +18,10 @@ var projectsClass = function (cwd) {
             return;
         }
 
-        var splittedContent = content.split('\n'),
+        var projectTemplate = { name: null, url: null, content: '', contributors: '', needsContribution: false },
+            splittedContent = content.split('\n'),
             state = 0, // 0 = awaiting subject, 1 = awaiting url, 2 = awaiting content
-            current = { name: null, url: null, content: '' };
+            current = Object.assign({}, projectTemplate);
 
         for (var i = 0, length = splittedContent.length; i < length; i++) {
             var line = splittedContent[i];
@@ -28,7 +29,7 @@ var projectsClass = function (cwd) {
             if (line.substring(0, 3) === '## ') {
                 if (state !== 0) {
                     target.push(current);
-                    current = { name: null, url: null, content: '' };
+                    current = Object.assign({}, projectTemplate);
                 }
 
                 current.name = line.substring(3);
@@ -39,6 +40,7 @@ var projectsClass = function (cwd) {
             if (state === 1) {
                 current.url = line.trim();
                 if (current.url.length > 0) {
+                    current.url = current.url.substring(1, current.url.indexOf(']'));
                     state = 2;
                 }
                 continue;
