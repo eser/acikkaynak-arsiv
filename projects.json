@@ -2,167 +2,206 @@
   "Arac": [
     {
       "name": "Conquest",
-      "content": "[https://github.com/brsyuksel/conquest](https://github.com/brsyuksel/conquest)RESTFul HTTP API'lariniz icin JavaScript kullanarak testler yazmaniza olanak veren ve yuk testi yapamizi saglayan Go ile gelistirilmistir bir arac. [Github sayfasindan](http://brsyuksel.github.io/conquest/) kullanimi hakkinda bilgi detayli edinebilirsiniz."
+      "url": "[https://github.com/brsyuksel/conquest](https://github.com/brsyuksel/conquest)",
+      "content": "RESTFul HTTP API'lariniz icin JavaScript kullanarak testler yazmaniza olanak veren ve yuk testi yapamizi saglayan Go ile gelistirilmistir bir arac. [Github sayfasindan](http://brsyuksel.github.io/conquest/) kullanimi hakkinda bilgi detayli edinebilirsiniz."
     },
     {
       "name": "Dizici",
-      "content": "[https://github.com/Ardakilic/dizici](https://github.com/Ardakilic/dizici)PHP ile yazılmış basit bir Cli aracı olan Dizici ile izlediğiniz dizileri sisteme tanımlayıp birden fazla dizi için yayımlanma tarihine göre ortak izleme listesi çıkartabilirsiniz. Bu sayede izlediğiniz diziyi tamamlayan başka yan diziler de varsa (örn: Doctor Who / Torchwood, Stargate SG-1/Atlantis/Universe), veya sezonların parçası olmayan özel bölümler veya sinema filmleri varsa bunları hangi sırada izleyeceğinizi bir liste olarak çıktı alabilirsiniz."
+      "url": "[https://github.com/Ardakilic/dizici](https://github.com/Ardakilic/dizici)",
+      "content": "PHP ile yazılmış basit bir Cli aracı olan Dizici ile izlediğiniz dizileri sisteme tanımlayıp birden fazla dizi için yayımlanma tarihine göre ortak izleme listesi çıkartabilirsiniz. Bu sayede izlediğiniz diziyi tamamlayan başka yan diziler de varsa (örn: Doctor Who / Torchwood, Stargate SG-1/Atlantis/Universe), veya sezonların parçası olmayan özel bölümler veya sinema filmleri varsa bunları hangi sırada izleyeceğinizi bir liste olarak çıktı alabilirsiniz."
     },
     {
       "name": "BackMeUp",
-      "content": "[https://github.com/Ardakilic/backmeup](https://github.com/Ardakilic/backmeup)Yedekleme aracı olarak tasarlanmış çok basit bir shell script olan BackMeUp ile sunucunuzda barındırdığınız veritabanlarını ve de belli bir klasör ve altlarını (örn: Web Root) sıkıştırıp arşiv dosyasını Dropbox, Amazon S3, Owncloud hesaplaarınıza yükleyebilirsiniz."
+      "url": "[https://github.com/Ardakilic/backmeup](https://github.com/Ardakilic/backmeup)",
+      "content": "Yedekleme aracı olarak tasarlanmış çok basit bir shell script olan BackMeUp ile sunucunuzda barındırdığınız veritabanlarını ve de belli bir klasör ve altlarını (örn: Web Root) sıkıştırıp arşiv dosyasını Dropbox, Amazon S3, Owncloud hesaplaarınıza yükleyebilirsiniz."
     },
     {
       "name": "Rates",
-      "content": "[https://github.com/smtaydemir/rates](https://github.com/smtaydemir/rates)Node.js ile yazılmış terminal üzerinden döviz dönüşümlerinizi yapmaya olanak sağlayan cli aracı."
+      "url": "[https://github.com/smtaydemir/rates](https://github.com/smtaydemir/rates)",
+      "content": "Node.js ile yazılmış terminal üzerinden döviz dönüşümlerinizi yapmaya olanak sağlayan cli aracı."
     },
     {
       "name": "psd2",
-      "content": "[https://github.com/smtaydemir/psd2](https://github.com/smtaydemir/psd2)Terminal üzerinden psd dosyalarını png'ye dönüştürebilmenizi sağlayan nodejs ile yazılmış cli aracı."
+      "url": "[https://github.com/smtaydemir/psd2](https://github.com/smtaydemir/psd2)",
+      "content": "Terminal üzerinden psd dosyalarını png'ye dönüştürebilmenizi sağlayan nodejs ile yazılmış cli aracı."
     },
     {
       "name": "DenetmenBundle",
-      "content": "[https://github.com/mustafaileri/DenetmenBundle](https://github.com/mustafaileri/DenetmenBundle)Symfony2 projeleri için basit olarak URL testi ve validasyonu yapmayı sağlayan cli aracı. Bu araç ile url çıktılarını herhangi bir DOM Elementinin olup olmadığını, tipini veya süresini kontrol edebilir ve bunların sonucunda alarm oluşturabilirsiniz."
+      "url": "[https://github.com/mustafaileri/DenetmenBundle](https://github.com/mustafaileri/DenetmenBundle)",
+      "content": "Symfony2 projeleri için basit olarak URL testi ve validasyonu yapmayı sağlayan cli aracı. Bu araç ile url çıktılarını herhangi bir DOM Elementinin olup olmadığını, tipini veya süresini kontrol edebilir ve bunların sonucunda alarm oluşturabilirsiniz."
     },
     {
       "name": "Chevent",
-      "content": "[https://github.com/codeui/chevent](https://github.com/codeui/chevent)Chevent Türkiyedeki etkinlikleri, telefonunuzdan, tarayıcınızdan ve cli'den takip etmenizi sağlayan bir uygulamadır. Hali hazırda ios, chrome, opera, android sürümler bulunuyor."
+      "url": "[https://github.com/codeui/chevent](https://github.com/codeui/chevent)",
+      "content": "Chevent Türkiyedeki etkinlikleri, telefonunuzdan, tarayıcınızdan ve cli'den takip etmenizi sağlayan bir uygulamadır. Hali hazırda ios, chrome, opera, android sürümler bulunuyor."
     },
     {
       "name": "wpup",
-      "content": "[https://github.com/smtaydemir/wpup](https://github.com/smtaydemir/wpup)Wordpress'in son sürümünü terminal üzerinden indirmenizi sağlayan symfony/console ile yazılmış bir cli aracı."
+      "url": "[https://github.com/smtaydemir/wpup](https://github.com/smtaydemir/wpup)",
+      "content": "Wordpress'in son sürümünü terminal üzerinden indirmenizi sağlayan symfony/console ile yazılmış bir cli aracı."
     },
     {
       "name": "freebook",
-      "content": "[https://github.com/smtaydemir/freebook](https://github.com/smtaydemir/freebook)Packtpub'da hergün yayınlanan ücretsiz kitapları takip edebileceğiniz cli aracı."
+      "url": "[https://github.com/smtaydemir/freebook](https://github.com/smtaydemir/freebook)",
+      "content": "Packtpub'da hergün yayınlanan ücretsiz kitapları takip edebileceğiniz cli aracı."
     },
     {
       "name": "sey",
-      "content": "[https://github.com/eserozvataf/sey](https://github.com/eserozvataf/sey)Grunt/Gulp'un aksine; hem API hem konfigurasyon tabanlı olarak kod dizininde gerçekleştirdiğinizi işlerinizi otomatize edebileceğiniz hem de yalnızca değişiklik yapılan dosyaları işlemden geçiren, javascript tabanlı bir \"make\" aracı."
+      "url": "[https://github.com/eserozvataf/sey](https://github.com/eserozvataf/sey)",
+      "content": "Grunt/Gulp'un aksine; hem API hem konfigurasyon tabanlı olarak kod dizininde gerçekleştirdiğinizi işlerinizi otomatize edebileceğiniz hem de yalnızca değişiklik yapılan dosyaları işlemden geçiren, javascript tabanlı bir \"make\" aracı."
     },
     {
       "name": "Recommendify",
-      "content": "[https://github.com/Ardakilic/Recommendify](https://github.com/Ardakilic/Recommendify)Last.fm kullanıcı önerilerini Spotify çalma listelerine dönüştürebilen basit bir araç. [https://ardakilic.github.io/Recommendify/](https://ardakilic.github.io/Recommendify/) adresinden çevrimiçi olarak erişilebilir ve de kullanılabilir."
+      "url": "[https://github.com/Ardakilic/Recommendify](https://github.com/Ardakilic/Recommendify)",
+      "content": "Last.fm kullanıcı önerilerini Spotify çalma listelerine dönüştürebilen basit bir araç. [https://ardakilic.github.io/Recommendify/](https://ardakilic.github.io/Recommendify/) adresinden çevrimiçi olarak erişilebilir ve de kullanılabilir."
     },
     {
       "name": "iftar",
-      "content": "[https://github.com/eneserdogan/iftar](https://github.com/eneserdogan/iftar)Terminal üzerinden iftara kalan saati öğrenebileceğiniz cli aracı."
+      "url": "[https://github.com/eneserdogan/iftar](https://github.com/eneserdogan/iftar)",
+      "content": "Terminal üzerinden iftara kalan saati öğrenebileceğiniz cli aracı."
     },
     {
       "name": "apibone",
-      "content": "[https://github.com/eserozvataf/apibone](https://github.com/eserozvataf/apibone)Sorgulanabilir servisler için birleştirilmiş bir platform sağlar. Basit sorguların yanıtını aldığınız web servisleri için cli tool oluşturmak yerine api entegrasyonunuzu apibone'a entegre ettiğinizde; servisi aynı komut ve parametrelerle cli, web, telegram gibi platformlardan sorgulanabilir kılarsınız."
+      "url": "[https://github.com/eserozvataf/apibone](https://github.com/eserozvataf/apibone)",
+      "content": "Sorgulanabilir servisler için birleştirilmiş bir platform sağlar. Basit sorguların yanıtını aldığınız web servisleri için cli tool oluşturmak yerine api entegrasyonunuzu apibone'a entegre ettiğinizde; servisi aynı komut ve parametrelerle cli, web, telegram gibi platformlardan sorgulanabilir kılarsınız."
     },
     {
       "name": "kuzgun",
-      "content": "[https://github.com/nusu/kuzgun](https://github.com/nusu/kuzgun)Kuzgun, node.js ile yazılmış bir deployment tooludur, her git push yaptıktan sonra çalıştırdığınızda sizin yerinize server'ınıza bağlanır seçtiğiniz klasöre gider ve bu klasöre yaptığınız değişiklilikleri çeker."
+      "url": "[https://github.com/nusu/kuzgun](https://github.com/nusu/kuzgun)",
+      "content": "Kuzgun, node.js ile yazılmış bir deployment tooludur, her git push yaptıktan sonra çalıştırdığınızda sizin yerinize server'ınıza bağlanır seçtiğiniz klasöre gider ve bu klasöre yaptığınız değişiklilikleri çeker."
     }
   ],
   "Web Arkayuz": [
     {
       "name": "FeedbackBundle",
-      "content": "[https://github.com/okulbilisim/FeedbackBundle](https://github.com/okulbilisim/FeedbackBundle)PHP/Symfony2 bundle şeklinde websitelerinden geri bildirim toplamak isteyenler için metin veya ekran görüntüsü alabilen bir araçtır."
+      "url": "[https://github.com/okulbilisim/FeedbackBundle](https://github.com/okulbilisim/FeedbackBundle)",
+      "content": "PHP/Symfony2 bundle şeklinde websitelerinden geri bildirim toplamak isteyenler için metin veya ekran görüntüsü alabilen bir araçtır."
     },
     {
       "name": "BibTexBundle",
-      "content": "[https://github.com/ojs/BibTexBundle](https://github.com/ojs/BibTexBundle)Akademik çalışmalarda standart çıktı üretilmesini için kullanılan BibTex çıktısını çıkartan PHP/Symfony2 bundle'dır."
+      "url": "[https://github.com/ojs/BibTexBundle](https://github.com/ojs/BibTexBundle)",
+      "content": "Akademik çalışmalarda standart çıktı üretilmesini için kullanılan BibTex çıktısını çıkartan PHP/Symfony2 bundle'dır."
     },
     {
       "name": "Data Grid Bundle",
-      "content": "[https://github.com/APY/APYDataGridBundle](https://github.com/APY/APYDataGridBundle)Symfony2 dünyasındaki en çok kullanılan ve tek çok iyi olan grid bundle. @okulbilisim olarak maintain ediyoruz."
+      "url": "[https://github.com/APY/APYDataGridBundle](https://github.com/APY/APYDataGridBundle)",
+      "content": "Symfony2 dünyasındaki en çok kullanılan ve tek çok iyi olan grid bundle. @okulbilisim olarak maintain ediyoruz."
     },
     {
       "name": "Symfony Import Bundle",
-      "content": "[https://github.com/delirehberi/importbundle](https://github.com/delirehberi/importbundle)Eski projeleri, Symfony2 ve Doctrine kullanılarak hazırlanmış projelere taşımak için geliştirilmiştir. İki farklı veri yapısına sahip veritabanını, oluşturulan map dosyasıyla ve yazılabilen modifier'lar ile işlemden geçirerek eşletirebilme yeteneğine sahip."
+      "url": "[https://github.com/delirehberi/importbundle](https://github.com/delirehberi/importbundle)",
+      "content": "Eski projeleri, Symfony2 ve Doctrine kullanılarak hazırlanmış projelere taşımak için geliştirilmiştir. İki farklı veri yapısına sahip veritabanını, oluşturulan map dosyasıyla ve yazılabilen modifier'lar ile işlemden geçirerek eşletirebilme yeteneğine sahip."
     },
     {
       "name": "Scabbia PHP Components",
-      "content": "[https://github.com/eserozvataf/scabbia2](https://github.com/eserozvataf/scabbia2)Symfony bileşenlerini veya ThePhpLeague'i daha önce duymuşsunuzdur. Scabbia PHP Components de size composer üzerinden PHP projelerinize eklenen bileşenler sunuyor."
+      "url": "[https://github.com/eserozvataf/scabbia2](https://github.com/eserozvataf/scabbia2)",
+      "content": "Symfony bileşenlerini veya ThePhpLeague'i daha önce duymuşsunuzdur. Scabbia PHP Components de size composer üzerinden PHP projelerinize eklenen bileşenler sunuyor."
     },
     {
       "name": "Laravel Mutlucell SMS",
-      "content": "[https://github.com/Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms)Bu paket sayesinde Laravel 5.x veya 4.x kullanan projelerinizde [Mutlucell](http://www.mutlucell.com.tr/) altyapısını kullanarak tekli veya çoklu sms gönderebilir, bakiye ve originator ID sorgulayabilirsiniz."
+      "url": "[https://github.com/Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms)",
+      "content": "Bu paket sayesinde Laravel 5.x veya 4.x kullanan projelerinizde [Mutlucell](http://www.mutlucell.com.tr/) altyapısını kullanarak tekli veya çoklu sms gönderebilir, bakiye ve originator ID sorgulayabilirsiniz."
     },
     {
       "name": "Fcfinder",
-      "content": "[https://github.com/furkancelik/fcfinder](https://github.com/furkancelik/fcfinder)Ruby on Rails için Web Dosya Gezgini CKEditor ve Tinymce ile hızlı ve basit bir şekilde entegreli olarak kullanabileceğiniz dosya gezgini."
+      "url": "[https://github.com/furkancelik/fcfinder](https://github.com/furkancelik/fcfinder)",
+      "content": "Ruby on Rails için Web Dosya Gezgini CKEditor ve Tinymce ile hızlı ve basit bir şekilde entegreli olarak kullanabileceğiniz dosya gezgini."
     },
     {
       "name": "Stnc-Framework",
-      "content": "[https://github.com/stnc/stnc-framework](https://github.com/stnc/stnc-framework)Composer tabanlı gelişmiş PHP framework."
+      "url": "[https://github.com/stnc/stnc-framework](https://github.com/stnc/stnc-framework)",
+      "content": "Composer tabanlı gelişmiş PHP framework."
     },
     {
       "name": "Kemal",
-      "content": "[https://github.com/sdogruyol/kemal](https://github.com/sdogruyol/kemal)Crystal için Sinatra tarzında ışık hızında ve WebSocket destekli bir web framework."
+      "url": "[https://github.com/sdogruyol/kemal](https://github.com/sdogruyol/kemal)",
+      "content": "Crystal için Sinatra tarzında ışık hızında ve WebSocket destekli bir web framework."
     },
     {
       "name": "Kamber",
-      "content": "[https://github.com/f/kamber](https://github.com/f/kamber)[Kemal](https://github.com/sdogruyol/kemal) üzerinde çalışan statik blog sunucusu."
+      "url": "[https://github.com/f/kamber](https://github.com/f/kamber)",
+      "content": "[Kemal](https://github.com/sdogruyol/kemal) üzerinde çalışan statik blog sunucusu."
     }
   ],
   "Web Onyuz": [
     {
       "name": "react-date-range",
-      "content": "[https://github.com/Adphorus/react-date-range](https://github.com/Adphorus/react-date-range)React kullanılarak hazırlanmış bir tarih ve tarih aralığı seçme bileşenidir. Projenin şu anda 6 katılımcısı var ve yeni katılımlara açık durumdalar."
+      "url": "[https://github.com/Adphorus/react-date-range](https://github.com/Adphorus/react-date-range)",
+      "content": "React kullanılarak hazırlanmış bir tarih ve tarih aralığı seçme bileşenidir. Projenin şu anda 6 katılımcısı var ve yeni katılımlara açık durumdalar."
     },
     {
       "name": "Caffeine",
-      "content": "[https://github.com/bcinarli/caffeine](https://github.com/bcinarli/caffeine)Sass tabanlı mixin ve fonksiyon kütüphanesi. Temel tanımlar yapılmış durumda, dökümantasyon sayfaları ve website hazırlanıyor."
+      "url": "[https://github.com/bcinarli/caffeine](https://github.com/bcinarli/caffeine)",
+      "content": "Sass tabanlı mixin ve fonksiyon kütüphanesi. Temel tanımlar yapılmış durumda, dökümantasyon sayfaları ve website hazırlanıyor."
     },
     {
       "name": "UX Rocket",
-      "content": "[https://github.com/uxrocket](https://github.com/uxrocket)Şimdilik jQuery tabanlı geliştirilen, roadmapinde ES6 ve native kullanımı planlan pluginler kütüphanesi. Pluginler hazırlanırken mobile-first ve kullanılabilirlik öncelikli olarak çalışılıyor. Websitesi ve bundle yapıları üzerinde çalışılıyor. Factory metodları güncelleniyor* [Autocomplete](https://github.com/uxrocket/uxrocket.autocomplete)* [Modal](https://github.com/uxrocket/uxrocket.modal), [demo](https://uxrocket.github.io/uxrocket.modal)* [Select](https://github.com/uxrocket/uxrocket.select), [demo](https://uxrocket.github.io/uxrocket.select)* [Accordion](https://github.com/uxrocket/uxrocket.accordion)* [Tooltip](https://github.com/uxrocket/uxrocket.tooltip)* [Scrollable](https://github.com/uxrocket/uxrocket.scrollable)* [Dialog](https://github.com/uxrocket/uxrocket.dialog)* [Preloader](https://github.com/uxrocket/uxrocket.preloader)* [Clear](https://github.com/uxrocket/uxrocket.clear)* [Slider](https://github.com/uxrocket/uxrocket.rotator)* [Shortcodes](https://github.com/uxrocket/uxrocket.shortcodes)* [Placeholder](https://github.com/uxrocket/uxrocket.placeholder)* [Popup](https://github.com/uxrocket/uxrocket.popup)"
+      "url": "[https://github.com/uxrocket](https://github.com/uxrocket)",
+      "content": "Şimdilik jQuery tabanlı geliştirilen, roadmapinde ES6 ve native kullanımı planlan pluginler kütüphanesi. Pluginler hazırlanırken mobile-first ve kullanılabilirlik öncelikli olarak çalışılıyor. Websitesi ve bundle yapıları üzerinde çalışılıyor. Factory metodları güncelleniyor* [Autocomplete](https://github.com/uxrocket/uxrocket.autocomplete)* [Modal](https://github.com/uxrocket/uxrocket.modal), [demo](https://uxrocket.github.io/uxrocket.modal)* [Select](https://github.com/uxrocket/uxrocket.select), [demo](https://uxrocket.github.io/uxrocket.select)* [Accordion](https://github.com/uxrocket/uxrocket.accordion)* [Tooltip](https://github.com/uxrocket/uxrocket.tooltip)* [Scrollable](https://github.com/uxrocket/uxrocket.scrollable)* [Dialog](https://github.com/uxrocket/uxrocket.dialog)* [Preloader](https://github.com/uxrocket/uxrocket.preloader)* [Clear](https://github.com/uxrocket/uxrocket.clear)* [Slider](https://github.com/uxrocket/uxrocket.rotator)* [Shortcodes](https://github.com/uxrocket/uxrocket.shortcodes)* [Placeholder](https://github.com/uxrocket/uxrocket.placeholder)* [Popup](https://github.com/uxrocket/uxrocket.popup)"
     },
     {
       "name": "Flexible Grid System",
-      "content": "[https://github.com/flexiblegs](https://github.com/flexiblegs)Flexible Grid System bir Responsive CSS Framework'üdür. Flexible Grid System ile başlayıp bu altyapı üzerine Front End kısmında işleri çok daha hızlı hazırlamak için geliştirilmeye devam eden ve geliştirilecek olan bir çok proje mevcuttur. Flexible Grid System'in gelecek planlarını [http://flexible.gs/tr/future/](http://flexible.gs/tr/future/) adresinden takip edip katkıda bulunabilir sizde takımın bir parçası olabilirsiniz."
+      "url": "[https://github.com/flexiblegs](https://github.com/flexiblegs)",
+      "content": "Flexible Grid System bir Responsive CSS Framework'üdür. Flexible Grid System ile başlayıp bu altyapı üzerine Front End kısmında işleri çok daha hızlı hazırlamak için geliştirilmeye devam eden ve geliştirilecek olan bir çok proje mevcuttur. Flexible Grid System'in gelecek planlarını [http://flexible.gs/tr/future/](http://flexible.gs/tr/future/) adresinden takip edip katkıda bulunabilir sizde takımın bir parçası olabilirsiniz."
     },
     {
       "name": "USCSS",
-      "content": "[https://github.com/scriptype/USCSS](https://github.com/scriptype/USCSS)Javascript'le yazılmış alternatif CSS pre-processor'u. Deneysel bir proje."
+      "url": "[https://github.com/scriptype/USCSS](https://github.com/scriptype/USCSS)",
+      "content": "Javascript'le yazılmış alternatif CSS pre-processor'u. Deneysel bir proje."
     },
     {
       "name": "SVG Türkiye Haritası",
-      "content": "[https://github.com/dnomak/turkiye-haritasi](https://github.com/dnomak/turkiye-haritasi)Bu SVG Türkiye Haritası'nda İstanbul Asya ve Avrupa ayrı Kıbrıs'ta var hemde Responsive."
+      "url": "[https://github.com/dnomak/turkiye-haritasi](https://github.com/dnomak/turkiye-haritasi)",
+      "content": "Bu SVG Türkiye Haritası'nda İstanbul Asya ve Avrupa ayrı Kıbrıs'ta var hemde Responsive."
     },
     {
       "name": "DeLorean.js",
-      "content": "[https://github.com/deloreanjs/delorean](https://github.com/deloreanjs/delorean)Oldukça hafif ve agnostik bir Flux mimarisi implementasyonu."
+      "url": "[https://github.com/deloreanjs/delorean](https://github.com/deloreanjs/delorean)",
+      "content": "Oldukça hafif ve agnostik bir Flux mimarisi implementasyonu."
     },
     {
       "name": "Cizi",
-      "content": "[https://github.com/eneserdogan/cizi](https://github.com/eneserdogan/cizi)Sade bir arayüze sahip kişisel blog teması."
+      "url": "[https://github.com/eneserdogan/cizi](https://github.com/eneserdogan/cizi)",
+      "content": "Sade bir arayüze sahip kişisel blog teması."
     }
   ],
   "Web Proje": [
     {
       "name": "Open Journal Software (OJS)",
-      "content": "[https://github.com/ojs](https://github.com/ojs)PHP/Symfony2 kullanılarak hazırlanmış, online dergicilik için geliştirilen, servis tabanlı bir uygulamadır. Önizlemesine [ojs.io](http://ojs.io) adresinden erişilebilir. Projenin şu an 14 katılımcısı var. Ayrıca proje [Bulut Yazılım](https://bulutyazilim.com) tarafından geliştirilmektedir."
+      "url": "[https://github.com/ojs](https://github.com/ojs)",
+      "content": "PHP/Symfony2 kullanılarak hazırlanmış, online dergicilik için geliştirilen, servis tabanlı bir uygulamadır. Önizlemesine [ojs.io](http://ojs.io) adresinden erişilebilir. Projenin şu an 14 katılımcısı var. Ayrıca proje [Bulut Yazılım](https://bulutyazilim.com) tarafından geliştirilmektedir."
     },
     {
       "name": "Thesaurus Manager",
-      "content": "[https://github.com/ojs/thesaurus-manager](https://github.com/ojs/thesaurus-manager)Thesaurus eşanlamlı kelimeler sözlüğü demek. Aynı zamanda yakın anlamlı, anlam benzerlikleri olan ve karşıt anlamlı kelimeleri içinde barındıran sözlük yapmak aynı zamanda graph database kullanarak yapmak için bu projeyi kullanabilirsiniz."
+      "url": "[https://github.com/ojs/thesaurus-manager](https://github.com/ojs/thesaurus-manager)",
+      "content": "Thesaurus eşanlamlı kelimeler sözlüğü demek. Aynı zamanda yakın anlamlı, anlam benzerlikleri olan ve karşıt anlamlı kelimeleri içinde barındıran sözlük yapmak aynı zamanda graph database kullanarak yapmak için bu projeyi kullanabilirsiniz."
     },
     {
       "name": "WhatTheTag",
-      "content": "[https://github.com/Ardakilic/WhatTheTag](https://github.com/Ardakilic/WhatTheTag)PHP/Laravel kullanılarak hazırlanmış, örnek resim etiketleme uygulaması. [Laravel](https://laravel.com/)'in çeşitli özelliklerinin ve de [gulp](http://gulpjs.com/) gibi otomasyon araçlarının bir arada kullanıldığı örnek bir projedir."
+      "url": "[https://github.com/Ardakilic/WhatTheTag](https://github.com/Ardakilic/WhatTheTag)",
+      "content": "PHP/Laravel kullanılarak hazırlanmış, örnek resim etiketleme uygulaması. [Laravel](https://laravel.com/)'in çeşitli özelliklerinin ve de [gulp](http://gulpjs.com/) gibi otomasyon araçlarının bir arada kullanıldığı örnek bir projedir."
     },
     {
       "name": "WholeCMS",
-      "content": "[https://github.com/wholecms](https://github.com/wholecms)PHP/Laravel kullanılarak hazırlanmış, içerik yönetim sistemi. Sınırsızca genişletebileceğiniz bağımlılıkları olmadan oluşturacağınız modüllerinizi dahil edip içerik yönetim sisteminden daha fazlasını elde edebilirsiniz. İstediğiniz temaya entegre ederek kolayca kullanabileceğiniz bir sistem."
+      "url": "[https://github.com/wholecms](https://github.com/wholecms)",
+      "content": "PHP/Laravel kullanılarak hazırlanmış, içerik yönetim sistemi. Sınırsızca genişletebileceğiniz bağımlılıkları olmadan oluşturacağınız modüllerinizi dahil edip içerik yönetim sisteminden daha fazlasını elde edebilirsiniz. İstediğiniz temaya entegre ederek kolayca kullanabileceğiniz bir sistem."
     },
     {
       "name": "expercise",
-      "content": "[https://github.com/expercise/expercise/](https://github.com/expercise/expercise/)Java ve Spring çatısı ile geliştirilmekte olan çevrimiçi programlama görevleri platformu. Uygulama herkese açık test aşamasındadır: [expercise.com](https://expercise.com/). Uygulama kodlarında değişiklik yaparak yada uygulamaya sorular ekleyerek platformun gelişmesine katkıda bulunabilirsiniz."
+      "url": "[https://github.com/expercise/expercise/](https://github.com/expercise/expercise/)",
+      "content": "Java ve Spring çatısı ile geliştirilmekte olan çevrimiçi programlama görevleri platformu. Uygulama herkese açık test aşamasındadır: [expercise.com](https://expercise.com/). Uygulama kodlarında değişiklik yaparak yada uygulamaya sorular ekleyerek platformun gelişmesine katkıda bulunabilirsiniz."
     }
   ],
   "Web Servis": [
     {
       "name": "Telegram-bot-php",
-      "content": "[https://github.com/Ardakilic/Telegram-bot-php](https://github.com/Ardakilic/Telegram-bot-php)PHP/Silex kullanılarak yazılmış bu mini servis uygulaması ile kendi Telegram bot'larınızı barındırabilir, belli komutlara metin veya veritabanından gelen metin, resim, müzik, video tarzında cevaplar vermesini sağlayabilirsiniz."
+      "url": "[https://github.com/Ardakilic/Telegram-bot-php](https://github.com/Ardakilic/Telegram-bot-php)",
+      "content": "PHP/Silex kullanılarak yazılmış bu mini servis uygulaması ile kendi Telegram bot'larınızı barındırabilir, belli komutlara metin veya veritabanından gelen metin, resim, müzik, video tarzında cevaplar vermesini sağlayabilirsiniz."
     },
     {
       "name": "BabBot",
-      "content": "[https://github.com/babua/BabBot](https://github.com/babua/BabBot)Node.js kullanılarak yazılmış, içerisinde google, youtube, imdb, soundcloud, wikipedia v.b. sorgulama modülleri bulunan hem Telegram botu hem de CLI'de çalışan bir servistir."
+      "url": "[https://github.com/babua/BabBot](https://github.com/babua/BabBot)",
+      "content": "Node.js kullanılarak yazılmış, içerisinde google, youtube, imdb, soundcloud, wikipedia v.b. sorgulama modülleri bulunan hem Telegram botu hem de CLI'de çalışan bir servistir."
     }
   ]
 }

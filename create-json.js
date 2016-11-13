@@ -19,29 +19,37 @@ var projectsClass = function (cwd) {
         }
 
         var splittedContent = content.split('\n'),
-            redundantState = true,
-            current = { name: null, content: '' };
+            state = 0, // 0 = awaiting subject, 1 = awaiting url, 2 = awaiting content
+            current = { name: null, url: null, content: '' };
 
         for (var i = 0, length = splittedContent.length; i < length; i++) {
             var line = splittedContent[i];
 
             if (line.substring(0, 3) === '## ') {
-                if (!redundantState) {
+                if (state !== 0) {
                     target.push(current);
-                    current = { name: null, content: '' };
+                    current = { name: null, url: null, content: '' };
                 }
 
-                redundantState = false;
                 current.name = line.substring(3);
+                state = 1;
                 continue;
             }
 
-            if (!redundantState) {
+            if (state === 1) {
+                current.url = line.trim();
+                if (current.url.length > 0) {
+                    state = 2;
+                }
+                continue;
+            }
+
+            if (state === 2) {
                 current.content += line.trim();
             }
         }
 
-        if (!redundantState && current.content.length > 0) {
+        if (state !== 0) {
             target.push(current);
         }
 
@@ -64,7 +72,7 @@ var projectsClass = function (cwd) {
 
     self.parse = function () {
         self.output = {};
-        self.addDir(path.join(cwd, 'Projeler'));
+        self.addDir(path.join(cwd, 'Icerik', 'Projeler'));
 
         return self.output;
     };
