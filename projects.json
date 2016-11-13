@@ -119,7 +119,7 @@
       "url": "https://github.com/APY/APYDataGridBundle",
       "content": "Symfony2 dünyasındaki en çok kullanılan ve tek çok iyi olan grid bundle. @okulbilisim olarak maintain ediyoruz.",
       "contributors": "",
-      "needsContribution": false
+      "needsContribution": true
     },
     {
       "name": "Symfony Import Bundle",
@@ -169,6 +169,13 @@
       "content": "[Kemal](https://github.com/sdogruyol/kemal) üzerinde çalışan statik blog sunucusu.",
       "contributors": "",
       "needsContribution": false
+    },
+    {
+      "name": "Serenity",
+      "url": "https://github.com/volkanceylan/Serenity",
+      "content": "Web Uygulaması Geliştirme Platformu",
+      "contributors": "",
+      "needsContribution": true
     }
   ],
   "Web Onyuz": [
@@ -177,7 +184,7 @@
       "url": "https://github.com/Adphorus/react-date-range",
       "content": "React kullanılarak hazırlanmış bir tarih ve tarih aralığı seçme bileşenidir. Projenin şu anda 6 katılımcısı var ve yeni katılımlara açık durumdalar.",
       "contributors": "",
-      "needsContribution": false
+      "needsContribution": true
     },
     {
       "name": "Caffeine",
