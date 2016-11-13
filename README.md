@@ -9,7 +9,7 @@
 
 
 <div align="center">
-    <a href="Icerik/">
+    <a href="http://acikkaynak.info/">
         <img src="./Media/acikkaynak-logo-284px.png" alt="Açık Kaynak İnisiyatifi" title="" />
     </a>
     <br />
