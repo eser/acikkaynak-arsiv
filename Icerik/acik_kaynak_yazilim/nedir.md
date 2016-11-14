@@ -14,6 +14,9 @@ Açık Kaynaklı yazılımların amaçları,
 
 şeklinde sıralanabilir.
 
-Açık Kaynaklı yazılımlar yasal sahiplerinin izniyle, belirli bir [lisans modeli](lisanslar.md) seçilerek halka açık bir platforma (GitHub, sourceforge, Bitbucket v.s.) yüklenerek başlatılabilirler.
+Açık Kaynaklı yazılımlar yasal sahiplerinin izniyle, belirli bir [lisans](lisanslar.md) seçilerek halka açık bir platforma (GitHub, sourceforge, Bitbucket, GitLab v.s.) yüklenerek başlatılabilirler.
 
-Konu hakkında başka bir perspektifi tanımak adına [Açık Kaynak Kod Platformu](http://acik-kaynak.org.tr)'nun **Açık Kaynak Kod Bildirgesi**ne [http://acik-kaynak.org.tr](http://acik-kaynak.org.tr) adresinden ulaşabilirsiniz.
+Konu hakkında başka bir perspektifi tanımak adına aşağıdaki organizasyonların da tanımları incelenebilir:
+
+- [Açık Kaynak Kod Platformu](http://acik-kaynak.org.tr)'nun [Açık Kaynak Kod Bildirgesi](http://acik-kaynak.org.tr)
+- [Vikipedi](https://tr.wikipedia.org/)'nin [Açık kaynak tanımı](https://tr.wikipedia.org/wiki/Açık_kaynak)

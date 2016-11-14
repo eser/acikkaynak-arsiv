@@ -1,4 +1,4 @@
-# Lisans modelleri
+# Lisanslar
 
 Açık Kaynak veya değil, bir yazılımın sahipleri kaynak kodlarına ulaşan kişileri bir "lisans" aracılığı ile kısıtlayabilme hakkına sahiptirler. Ve koda erişimi olan kişilerin bu lisansa sadık kalmaları gerekmektedir.
 
