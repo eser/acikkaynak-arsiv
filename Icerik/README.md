@@ -2,7 +2,7 @@
 
 - [Nedir?](acik_kaynak_yazilim/nedir.md)
 - [Özgür Yazılım ve Açık Kaynak arasındaki farklar](acik_kaynak_yazilim/vs_ozgur_yazilim.md)
-- [Lisans modelleri](acik_kaynak_yazilim/lisanslar.md)
+- [Lisanslar](acik_kaynak_yazilim/lisanslar.md)
 
 ## GitHub Açık Kaynak Platformu
 
