@@ -13,9 +13,10 @@ Her özgür yazılım aynı zamanda açık kaynaktır. Fakat özgür yazılım b
 
 Kaynak: [GNU](https://www.gnu.org/philosophy/free-sw.tr.html)
 
-Kaynak: [eser.ozvataf.com](http://eser.ozvataf.com/acik-kaynak-felsefesi/)
 
-Aynı zamanda diğer kaynaklardan alıntılarsak:
+---
+
+Konu hakkında başka perspektifleri de tanımak adına aşağıdaki sitelerden yapılan alıntılar incelenebilir:
 
 > Açık kaynak kodlu program, kullanımı ücretsizdir ve düzenlenmesini herkes için açık tutar. Açık kaynaklı yazılımlar içinde özgür bir yazılım lisansı ile lisanslanmış olan yazılımlar, [Özgür yazılım](https://tr.wikipedia.org/wiki/Özgür_yazılım) (Free software) sınıfına girerler.
 > 
