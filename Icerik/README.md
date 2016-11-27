@@ -4,9 +4,10 @@
 - [Özgür Yazılım ve Açık Kaynak arasındaki farklar](acik_kaynak_yazilim/vs_ozgur_yazilim.md)
 - [Lisanslar](acik_kaynak_yazilim/lisanslar.md)
 
-## GitHub Açık Kaynak Platformu
+## Açık Kaynak Geliştirme
 
-- [Genel](github_platformu/genel.md)
+- [Sürüm Kontrol Sistemleri](acik_kaynak_gelistirme/surum_kontrol_sistemleri.md)
+- [GitHub Platformu](acik_kaynak_gelistirme/github_platformu.md)
 
 ## Katılım
 
