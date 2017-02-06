@@ -138,6 +138,15 @@
   ],
   "Web Arkayuz": [
     {
+      "name": "twitter-bootstrap-rails",
+      "url": "https://github.com/seyhunak/twitter-bootstrap-rails",
+      "githubUrl": "seyhunak/twitter-bootstrap-rails",
+      "logoUrl": "",
+      "content": "twitter-bootstrap-rails, Ruby on Rails ile yazılmış web uygulamalarına Twitter'ın Bootstrap arayüz kütüphanesini entegre eder, dahili araçları ile şablon ve görünümleri özelleştirir, yardımcı araçları ile geliştirmeyi kolaylaştırmayı amaçlayan bir kütüphanedir.",
+      "contributors": [],
+      "needsContribution": true
+    },
+    {
       "name": "FeedbackBundle",
       "url": "https://github.com/okulbilisim/FeedbackBundle",
       "githubUrl": "okulbilisim/FeedbackBundle",
