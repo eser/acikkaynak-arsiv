@@ -403,6 +403,15 @@
       "content": "Nodejs ve biraz bash komutu ile hazırlanmış git kullanımını kolaylaştıran bir araçtır.",
       "contributors": [],
       "needsContribution": true
+    },
+    {
+      "name": "l00g.in",
+      "url": "https://github.com/cagataycali/l00g.in",
+      "githubUrl": "cagataycali/l00g.in",
+      "logoUrl": "https://raw.githubusercontent.com/cagataycali/l00g.in/master/logo.png",
+      "content": "SSH ile bağlandığımız siteleri kısayol olarak eklemenizi kolaylaştıran bir terminal uygulamasıdır, nodejs ve biraz bash komutu ile hazırlanmıştır.",
+      "contributors": [],
+      "needsContribution": true
     }
   ]
 }
