@@ -8,6 +8,15 @@
       "content": "",
       "contributors": [],
       "needsContribution": false
-    }
+    },
+    {
+      "name": "Ruby Türkiye",
+      "url": "rubyturkiye.org",
+      "githubUrl": "https://github.com/rubytr",
+      "logoUrl": "https://avatars3.githubusercontent.com/u/5751224?v=3&s=200",
+      "content": "Türkiye'deki Ruby programcıları ve Ruby severler topluluğudur.",
+      "contributors": [],
+      "needsContribution": false
+    }    
   ]
 }
