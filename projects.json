@@ -238,9 +238,9 @@
     },
     {
       "name": "Serenity",
-      "url": "https://github.com/volkanceylan/Serenity",
+      "url": "http://serenity.is",
       "githubUrl": "volkanceylan/Serenity",
-      "logoUrl": "",
+      "logoUrl": "https://github.com/volkanceylan/Serenity/raw/master/Tools/Images/serenity-logo-128.png",
       "content": "Web Uygulaması Geliştirme Platformu",
       "contributors": [],
       "needsContribution": true
