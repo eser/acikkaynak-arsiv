@@ -220,8 +220,8 @@
     },
     {
       "name": "Kemal",
-      "url": "https://github.com/sdogruyol/kemal",
-      "githubUrl": "sdogruyol/kemal",
+      "url": "https://github.com/kemalcr/kemal",
+      "githubUrl": "kemalcr/kemal",
       "logoUrl": "",
       "content": "Crystal için Sinatra tarzında ışık hızında ve WebSocket destekli bir web framework.",
       "contributors": [],
@@ -363,6 +363,15 @@
       "githubUrl": "expercise/expercise",
       "logoUrl": "",
       "content": "Java ve Spring çatısı ile geliştirilmekte olan çevrimiçi programlama görevleri platformu. Uygulama herkese açık test aşamasındadır: [expercise.com](https://expercise.com/). Uygulama kodlarında değişiklik yaparak yada uygulamaya sorular ekleyerek platformun gelişmesine katkıda bulunabilirsiniz.",
+      "contributors": [],
+      "needsContribution": false
+    },
+    {
+      "name": "RoRdit",
+      "url": "https://github.com/mertbulan/RoRdit/",
+      "githubUrl": "mertbulan/RoRdit",
+      "logoUrl": "",
+      "content": "Önyüzde VueJS ve arkayüzde Ruby on Rails kullanılarak geliştirilen Hacker News/Reddit klonu.",
       "contributors": [],
       "needsContribution": false
     }
