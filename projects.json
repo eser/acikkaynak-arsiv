@@ -336,6 +336,15 @@
       "content": "Sade bir arayüze sahip kişisel blog teması.",
       "contributors": [],
       "needsContribution": false
+    },
+    {
+      "name": "plekan",
+      "url": "https://github.com/abdullah/plekan",
+      "githubUrl": "abdullah/plekan",
+      "logoUrl": "",
+      "content": "Vue 2.x tabanlı çok dil destekli içerik editörü",
+      "contributors": [],
+      "needsContribution": true
     }
   ],
   "Web Proje": [
