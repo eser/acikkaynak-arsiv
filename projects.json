@@ -439,6 +439,15 @@
       "content": "SSH ile bağlandığımız siteleri kısayol olarak eklemenizi kolaylaştıran bir terminal uygulamasıdır, nodejs ve biraz bash komutu ile hazırlanmıştır.",
       "contributors": [],
       "needsContribution": true
+    },
+    {
+      "name": "dinamikIpguncelleme",
+      "url": "https://github.com/tekKartPc/dinamikIpguncelleme",
+      "githubUrl": "tekKartPc/dinamikIpguncelleme",
+      "logoUrl": "https://avatars1.githubusercontent.com/u/22579403?v=3&s=460",
+      "content": "Kendinize ait hostingiz üzerinden, başka servise (Dyndns vb) gerek kalmadan, evinizdeki - işyerinizdeki bağlantının DİNAMİK Ip adresini takip edin ve bağlanın !...",
+      "contributors": [],
+      "needsContribution": true
     }
   ]
 }
