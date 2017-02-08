@@ -134,7 +134,25 @@
       "content": "Javascript ile yazılmış bir dönüştürme kütüphanesidir.",
       "contributors": [],
       "needsContribution": true
-    }
+    },
+    {
+      "name": "Turkish Banks",
+      "url": "https://github.com/enderahmetyurt/turkish_banks",
+      "githubUrl": "https://github.com/enderahmetyurt/turkish_banks",
+      "logoUrl": "",
+      "content": "Türkiye'deki bankaların ve onların şubelerinin bilgilerini getiren bir Ruby Gem'idir.",
+      "contributors": [],
+      "needsContribution": true
+    },
+    {
+      "name": "Bilişim Sözlüğü",
+      "url": "https://github.com/enderahmetyurt/bilisim_sozlugu",
+      "githubUrl": "https://github.com/enderahmetyurt/bilisim_sozlugu",
+      "logoUrl": "",
+      "content": "Bilgisayar terimlerini Türkçe-İngilizce, İngilizce-Türkçe çeviren Ruby ile yazılmış bir terminal uygulamasıdır.",
+      "contributors": [],
+      "needsContribution": true
+    },
   ],
   "Web Arkayuz": [
     {
