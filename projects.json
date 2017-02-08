@@ -152,6 +152,24 @@
       "content": "Bilgisayar terimlerini Türkçe-İngilizce, İngilizce-Türkçe çeviren Ruby ile yazılmış bir terminal uygulamasıdır.",
       "contributors": [],
       "needsContribution": true
+    },
+    {
+      "name": "g3l",
+      "url": "https://github.com/svtek/g3l",
+      "githubUrl": "svtek/g3l",
+      "logoUrl": "https://g3l.download/images/g3l_midnight.png",
+      "content": "Nodejs ve biraz bash komutu ile hazırlanmış git kullanımını kolaylaştıran bir araçtır.",
+      "contributors": [],
+      "needsContribution": true
+    },
+    {
+      "name": "l00g.in",
+      "url": "https://github.com/cagataycali/l00g.in",
+      "githubUrl": "cagataycali/l00g.in",
+      "logoUrl": "https://raw.githubusercontent.com/cagataycali/l00g.in/master/logo.png",
+      "content": "SSH ile bağlandığımız siteleri kısayol olarak eklemenizi kolaylaştıran bir terminal uygulamasıdır, nodejs ve biraz bash komutu ile hazırlanmıştır.",
+      "contributors": [],
+      "needsContribution": true
     }
   ],
   "Web Arkayuz": [
@@ -421,24 +439,6 @@
       "content": "Node.js kullanılarak yazılmış, içerisinde google, youtube, imdb, soundcloud, wikipedia v.b. sorgulama modülleri bulunan hem Telegram botu hem de CLI'de çalışan bir servistir.",
       "contributors": [],
       "needsContribution": false
-    },
-    {
-      "name": "g3l",
-      "url": "https://github.com/svtek/g3l",
-      "githubUrl": "svtek/g3l",
-      "logoUrl": "https://g3l.download/images/g3l_midnight.png",
-      "content": "Nodejs ve biraz bash komutu ile hazırlanmış git kullanımını kolaylaştıran bir araçtır.",
-      "contributors": [],
-      "needsContribution": true
-    },
-    {
-      "name": "l00g.in",
-      "url": "https://github.com/cagataycali/l00g.in",
-      "githubUrl": "cagataycali/l00g.in",
-      "logoUrl": "https://raw.githubusercontent.com/cagataycali/l00g.in/master/logo.png",
-      "content": "SSH ile bağlandığımız siteleri kısayol olarak eklemenizi kolaylaştıran bir terminal uygulamasıdır, nodejs ve biraz bash komutu ile hazırlanmıştır.",
-      "contributors": [],
-      "needsContribution": true
     }
   ]
 }
