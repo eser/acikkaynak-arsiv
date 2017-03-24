@@ -152,6 +152,15 @@
       "content": "Bilgisayar terimlerini Türkçe-İngilizce, İngilizce-Türkçe çeviren Ruby ile yazılmış bir terminal uygulamasıdır.",
       "contributors": [],
       "needsContribution": true
+    },
+    {
+      "name": "Trino",
+      "url": "https://github.com/eneserdogan/trino",
+      "githubUrl": "eneserdogan/trino",
+      "logoUrl": "",
+      "content": "Trino komut satırından girdiğiniz kelime ya da cümleleri hızlı ve güçlü bir şekilde çevirmesini sağlayan termimal uygulamasıdır.",
+      "contributors": [],
+      "needsContribution": true
     }
   ],
   "Web Arkayuz": [
