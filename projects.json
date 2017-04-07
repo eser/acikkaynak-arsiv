@@ -457,6 +457,15 @@
       "content": "Kendinize ait hostingiz üzerinden, başka servise (Dyndns vb) gerek kalmadan, evinizdeki - işyerinizdeki bağlantının DİNAMİK Ip adresini takip edin ve bağlanın !...",
       "contributors": [],
       "needsContribution": true
+    },
+    {
+      "name": "lazy.ai",
+      "url": "https://github.com/cagataycali/lazy.ai",
+      "githubUrl": "cagataycali/lazy.ai",
+      "logoUrl": "https://cagatay.js.org/lazy.png",
+      "content": "Kendi sunucunuzda barındırabileceğiniz yapay zeka chat botu!",
+      "contributors": [],
+      "needsContribution": true
     }
   ]
 }
