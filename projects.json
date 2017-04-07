@@ -354,6 +354,15 @@
       "content": "Vue 2.x tabanlı çok dil destekli içerik editörü",
       "contributors": [],
       "needsContribution": true
+    },
+    {
+      "name": "GulpScaffold",
+      "url": "https://github.com/Projekod/GulpScaffold",
+      "githubUrl": "Projekod/GulpScaffold",
+      "logoUrl": "",
+      "content": "Basit Html projeleri için kullanılabilecek Gulp ortamı. ",
+      "contributors": [],
+      "needsContribution": false
     }
   ],
   "Web Proje": [
