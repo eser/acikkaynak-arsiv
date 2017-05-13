@@ -161,6 +161,15 @@
       "content": "Trino komut satırından girdiğiniz kelime ya da cümleleri hızlı ve güçlü bir şekilde çevirmesini sağlayan termimal uygulamasıdır.",
       "contributors": [],
       "needsContribution": true
+    },
+    {
+      "name": "xss-listener",
+      "url": "https://github.com/cagataycali/xss-listener",
+      "githubUrl": "cagataycali/xss-listener",
+      "logoUrl": "https://cagatay.js.org/spider.png",
+      "content": "TR: 🕷️ XSS Dinleyici, çeşitli XSS ile veri çalması kolay penetrasyon aracıdır.,EN:🕷️ XSS Listener is a penetration tool for easy to steal data with various XSS.",
+      "contributors": [],
+      "needsContribution": true
     }
   ],
   "Web Arkayuz": [
