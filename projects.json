@@ -484,6 +484,24 @@
       "content": "Kendi sunucunuzda barındırabileceğiniz yapay zeka chat botu!",
       "contributors": [],
       "needsContribution": true
+    },
+    {
+      "name": "Steganography",
+      "url": "https://github.com/suadev/steganography-dotnet",
+      "githubUrl": "suadev/steganography-dotnet",
+      "logoUrl": "",
+      "content": ".Net ortamında C# ile geliştirilen bir text-to-image steganography uygulaması",
+      "contributors": ["suadev","rlagustlr677","SeungyeonKang","ur0n2"],
+      "needsContribution": true
+    },
+    {
+      "name": "InlineCssParser",
+      "url": "https://github.com/suadev/InlineCssParser",
+      "githubUrl": "suadev/InlineCssParser",
+      "logoUrl": "https://raw.githubusercontent.com/suadev/InlineCssParser/master/InlineCssParser/Resources/logo.ico",
+      "content": "Html'ler içerisinde yer alan inline style ları ayırmak için geliştirilmiş bir visual studio extension'ı. Visual studio marketplace'ten indirmek için;  https://marketplace.visualstudio.com/items?itemName=SuatKOSE.InlineStyleParserforHtmlFiles",
+      "contributors": [],
+      "needsContribution": true
     }
   ]
 }
