@@ -170,7 +170,16 @@
       "content": "TR: 🕷️ XSS Dinleyici, çeşitli XSS ile veri çalması kolay penetrasyon aracıdır.,EN:🕷️ XSS Listener is a penetration tool for easy to steal data with various XSS.",
       "contributors": [],
       "needsContribution": true
-    }
+    },
+    {
+      "name": "Salinger",
+      "url": "https://github.com/scriptype/salinger",
+      "githubUrl": "scriptype/salinger",
+      "logoUrl": "https://raw.githubusercontent.com/scriptype/salinger/master/salinger.png",
+      "content": "API'siz, ekosistemsiz, scripting-dili-bagimsiz, ozgurlukcu task runner.",
+      "contributors": [],
+      "needsContribution": false
+    },
   ],
   "Web Arkayuz": [
     {
