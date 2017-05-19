@@ -109,15 +109,6 @@
       "needsContribution": false
     },
     {
-      "name": "kaca",
-      "url": "https://github.com/muratbsts/kaca",
-      "githubUrl": "muratbsts/kaca",
-      "logoUrl": "",
-      "content": "Terminal üzerinden 'kaca ceyrek alirim'/'kaca yuro satarim' gibi sorular ile kur takibi yapabileceğiniz bir cli araci.",
-      "contributors": [],
-      "needsContribution": false
-    },
-    {
       "name": "apibone",
       "url": "https://github.com/eserozvataf/apibone",
       "githubUrl": "eserozvataf/apibone",
@@ -179,6 +170,15 @@
       "content": "TR: 🕷️ XSS Dinleyici, çeşitli XSS ile veri çalması kolay penetrasyon aracıdır.,EN:🕷️ XSS Listener is a penetration tool for easy to steal data with various XSS.",
       "contributors": [],
       "needsContribution": true
+    },
+    {
+      "name": "kaca",
+      "url": "https://github.com/muratbsts/kaca",
+      "githubUrl": "muratbsts/kaca",
+      "logoUrl": "",
+      "content": "Terminal üzerinden 'kaca ceyrek alirim'/'kaca yuro satarim' gibi sorular ile kur takibi yapabileceğiniz bir cli araci.",
+      "contributors": [],
+      "needsContribution": false
     }
   ],
   "Web Arkayuz": [
