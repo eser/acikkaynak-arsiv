@@ -172,6 +172,15 @@
       "needsContribution": true
     },
     {
+      "name": "Salinger",
+      "url": "https://github.com/scriptype/salinger",
+      "githubUrl": "scriptype/salinger",
+      "logoUrl": "https://raw.githubusercontent.com/scriptype/salinger/master/salinger.png",
+      "content": "API'siz, ekosistemsiz, scripting-dili-bagimsiz, ozgurlukcu task runner.",
+      "contributors": [],
+      "needsContribution": false
+    },
+    {
       "name": "kaca",
       "url": "https://github.com/muratbsts/kaca",
       "githubUrl": "muratbsts/kaca",
