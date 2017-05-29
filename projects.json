@@ -197,6 +197,15 @@
       "content": "Wordpress blogunuzu terminalden taşımanıza yarayan araç.",
       "contributors": [],
       "needsContribution": true
+    },
+    {
+      "name": "university-news-notifier",
+      "url": "https://github.com/cagataycali/university-news-notifier",
+      "githubUrl": "cagataycali/university-news-notifier",
+      "logoUrl": "",
+      "content": "Üniversitelerin duyurularını telegram'dan mesaj olarak atan araç.",
+      "contributors": [],
+      "needsContribution": true
     }
   ],
   "Web Arkayuz": [
