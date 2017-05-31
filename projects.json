@@ -538,6 +538,15 @@
       "content": "Html'ler içerisinde yer alan inline style ları ayırmak için geliştirilmiş bir visual studio extension'ı. Visual studio marketplace'ten indirmek için;  https://marketplace.visualstudio.com/items?itemName=SuatKOSE.InlineStyleParserforHtmlFiles",
       "contributors": [],
       "needsContribution": true
+    },
+    {
+      "name": "url-shortener",
+      "url": "https://github.com/cagataycali/url-shortener",
+      "githubUrl": "cagataycali/url-shortener",
+      "logoUrl": "https://emojipedia-us.s3.amazonaws.com/cache/52/23/52230e8ab5779d3b28c53725672bad99.png",
+      "content": "Shitty url shortener, emoji and ai powered. 🌍✌🏼",
+      "contributors": [],
+      "needsContribution": true
     }
   ]
 }
