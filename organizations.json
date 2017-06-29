@@ -26,6 +26,15 @@
       "content": "İstanbul JavaScript Kullanıcıları Grubu",
       "contributors": [],
       "needsContribution": false
-    }    
+    } ,
+    {
+      "name": "Ankara PHP",
+      "url": "http://ankaraphp.github.io",
+      "githubUrl": "https://github.com/ankaraphp",
+      "logoUrl": "https://avatars1.githubusercontent.com/u/16033364?v=3&s=200",
+      "content": "Ankara PHP Kullanıcıları Grubu",
+      "contributors": [],
+      "needsContribution": false
+    }       
   ]
 }
