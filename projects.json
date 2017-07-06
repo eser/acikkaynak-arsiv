@@ -547,6 +547,15 @@
       "content": "Shitty url shortener, emoji and ai powered. 🌍✌🏼",
       "contributors": [],
       "needsContribution": true
+    },
+    {
+      "name": "location-service",
+      "url": "https://github.com/cagataycali/location-service",
+      "githubUrl": "cagataycali/location-service",
+      "logoUrl": "https://emojipedia-us.s3.amazonaws.com/cache/52/23/52230e8ab5779d3b28c53725672bad99.png",
+      "content": "Lokasyon bazlı uygulamalar için servis. IaaS",
+      "contributors": [],
+      "needsContribution": true
     }
   ]
 }
