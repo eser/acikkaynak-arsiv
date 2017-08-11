@@ -316,6 +316,15 @@
       "content": "twitter-bootstrap-rails, Ruby on Rails ile yazılmış web uygulamalarına Twitter'ın Bootstrap arayüz kütüphanesini entegre eder, dahili araçları ile şablon ve görünümleri özelleştirir, yardımcı araçları ile geliştirmeyi kolaylaştırmayı amaçlayan bir kütüphanedir.",
       "contributors": [],
       "needsContribution": true
+    },
+    {
+      "name": "Laravel Mail Template",
+      "url": "https://github.com/muratbsts/mail-template",
+      "githubUrl": "muratbsts/mail-template",
+      "logoUrl": "",
+      "content": "Kullanımı kolay, minimal ve responsive arayüzler ile mail göndermeye yarayan bir Laravel paketi.",
+      "contributors": [],
+      "needsContribution": true
     }
   ],
   "Web Onyuz": [
