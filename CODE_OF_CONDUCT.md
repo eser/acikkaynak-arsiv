@@ -13,7 +13,7 @@ ve güvenli bir tecrübe haline getirmeyi taahhüt ederiz.
 Olumlu bir ortam yaratmaya yardımcı davranışlara aşağıdakiler örnek
 gösterilebilir:
 
-* Hoşgörülü ve kapsayıcı bir dil kullannmak
+* Hoşgörülü ve kapsayıcı bir dil kullanmak
 * Farklı görüşlere ve deneyimlere karşı saygılı olmak
 * Yapıcı eleştirileri hoş karşılamak
 * Topluluk için en iyisinin ne olduğuna odaklanmak
