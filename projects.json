@@ -190,6 +190,15 @@
       "needsContribution": false
     },
     {
+      "name": "tors",
+      "url": "https://github.com/muratbsts/tors",
+      "githubUrl": "muratbsts/tors",
+      "logoUrl": "",
+      "content": "Terminalinizden birden çok servis içinde torrent arayıp en çok seed olanı kolayca bulup indirmenizi sağlayan bir ruby gem'i.",
+      "contributors": [],
+      "needsContribution": true
+    },
+    {
       "name": "wordpress-migrate-tool",
       "url": "https://github.com/cagataycali/wordpress-migrate-tool",
       "githubUrl": "cagataycali/wordpress-migrate-tool",
