@@ -215,6 +215,15 @@
       "content": "Üniversitelerin duyurularını telegram'dan mesaj olarak atan araç.",
       "contributors": [],
       "needsContribution": true
+    },
+    {
+      "name": "Stacer",
+      "url": "https://github.com/oguzhaninan/Stacer",
+      "githubUrl": "oguzhaninan/Stacer",
+      "logoUrl": "",
+      "content": "Linux Sistem Optimize Edici ve İzleyici",
+      "contributors": [],
+      "needsContribution": false
     }
   ],
   "Web Arkayuz": [
