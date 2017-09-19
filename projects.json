@@ -491,6 +491,15 @@
       "content": "Önyüzde VueJS ve arkayüzde Ruby on Rails kullanılarak geliştirilen Hacker News/Reddit klonu.",
       "contributors": [],
       "needsContribution": false
+    },
+    {
+      "name": "Tick Chat",
+      "url": "https://github.com/cagataycali/tick.chat/",
+      "githubUrl": "cagataycali/tick.chat",
+      "logoUrl": "",
+      "content": "Lokasyon bazlı anonim sohbet projesi.",
+      "contributors": [],
+      "needsContribution": true
     }
   ],
   "Web Servis": [
