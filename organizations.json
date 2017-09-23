@@ -35,6 +35,15 @@
       "content": "Ankara PHP Kullanıcıları Grubu",
       "contributors": [],
       "needsContribution": false
-    }       
+    },
+    {
+      "name": "Webend",
+      "url": "http://webend.org",
+      "githubUrl": "https://github.com/webendorg",
+      "logoUrl": "http://webend.org/assets/images/logo.png",
+      "content": "Webend Backend Teknolojileri Etkinlikleri Gurubu",
+      "contributors": [],
+      "needsContribution": false
+    }  
   ]
 }
