@@ -354,6 +354,33 @@
       "content": "Kullanımı kolay, minimal ve responsive arayüzler ile mail göndermeye yarayan bir Laravel paketi.",
       "contributors": [],
       "needsContribution": true
+    },
+    {
+      "name": "PHP Multi-Language Package",
+      "url": "https://github.com/miracsengonul/multi_language",
+      "githubUrl": "miracsengonul/multi_language",
+      "logoUrl": "",
+      "content": "Projelerinize çoklu dil desteği ekleyebileceğiniz bir PHP kütüphanesidir.",
+      "contributors": [],
+      "needsContribution": true
+    },
+    {
+      "name": "PHP Basic Form HTML Builder",
+      "url": "https://github.com/miracsengonul/basic_form",
+      "githubUrl": "miracsengonul/basic_form",
+      "logoUrl": "",
+      "content": "BasicForm, HTML formu oluşturmak için kullanabileceğiniz bir PHP kütüphanesidir.",
+      "contributors": [],
+      "needsContribution": true
+    },
+    {
+      "name": "Laravel 5 Mysql to Migrations",
+      "url": "https://github.com/miracsengonul/mysql_to_migrations",
+      "githubUrl": "miracsengonul/mysql_to_migrations",
+      "logoUrl": "",
+      "content": "Bu paket ile Laravel 5.1 ve yukarısı için Mysql veritabanınızı migration dosyası haline getirebilirsiniz.",
+      "contributors": [],
+      "needsContribution": true
     }
   ],
   "Web Onyuz": [
