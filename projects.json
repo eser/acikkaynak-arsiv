@@ -231,7 +231,7 @@
       "githubUrl": "btaskaya/DiziCLI",
       "logoUrl": "",
       "content": "[Yabancı / Yerli] Dizi İzleme Sitelerinin Crawl işlemi, En basit arayüz ile diziye erişme",
-      "contributors": [BTaskaya],
+      "contributors": ["BTaskaya"],
       "needsContribution": true
     }
   ],
