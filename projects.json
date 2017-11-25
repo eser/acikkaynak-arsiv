@@ -233,6 +233,15 @@
       "content": "[Yabancı / Yerli] Dizi İzleme Sitelerinin Crawl işlemi, En basit arayüz ile diziye erişme",
       "contributors": ["BTaskaya"],
       "needsContribution": true
+    },
+    {
+      "name": "4S",
+      "url": "https://github.com/BTaskaya/4S",
+      "githubUrl": "btaskaya/4S",
+      "logoUrl": "",
+      "content": "Simple Server Setup Script - Temel Sunucu Konfigüre Aracı (Shell)",
+      "contributors": ["BTaskaya"],
+      "needsContribution": true
     }
   ],
   "Mobil Uygulama": [
