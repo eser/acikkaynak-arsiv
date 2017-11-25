@@ -224,6 +224,15 @@
       "content": "Linux Sistem Optimize Edici ve İzleyici",
       "contributors": [],
       "needsContribution": false
+    },
+    {
+      "name": "DiziCLI",
+      "url": "https://github.com/BTaskaya/DiziCLI",
+      "githubUrl": "btaskaya/DiziCLI",
+      "logoUrl": "",
+      "content": "[Yabancı / Yerli] Dizi İzleme Sitelerinin Crawl işlemi, En basit arayüz ile diziye erişme",
+      "contributors": [BTaskaya],
+      "needsContribution": true
     }
   ],
   "Mobil Uygulama": [
