@@ -44,6 +44,15 @@
       "content": "Webend Backend Teknolojileri Etkinlikleri Gurubu",
       "contributors": [],
       "needsContribution": false
-    }  
+    },
+    {
+      "name": "PyIstanbul",
+      "url": "http://pyistanbul.org/",
+      "githubUrl": "https://github.com/pyistanbul",
+      "logoUrl": "https://avatars2.githubusercontent.com/u/1295155?s=200&v=4,
+      "content": "İstanbul'daki Python programcıları topluluğu",
+      "contributors": [],
+      "needsContribution": false
+    }
   ]
 }
