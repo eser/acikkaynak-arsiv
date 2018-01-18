@@ -1,58 +1,57 @@
 {
-  "Komunite": [
-    {
-      "name": ".NET Türkiye",
-      "url": "https://github.com/dotnet",
-      "githubUrl": "https://github.com/dotnetturkiye",
-      "logoUrl": "",
-      "content": "",
-      "contributors": [],
-      "needsContribution": false
-    },
-    {
-      "name": "Ruby Türkiye",
-      "url": "http://www.rubyturkiye.org",
-      "githubUrl": "https://github.com/rubytr",
-      "logoUrl": "https://avatars3.githubusercontent.com/u/5751224?v=3&s=200",
-      "content": "Türkiye'deki Ruby programcıları ve Ruby severler topluluğudur.",
-      "contributors": [],
-      "needsContribution": false
-    },
-    {
-      "name": "JavaScript İstanbul",
-      "url": "http://jstanbul.org",
-      "githubUrl": "https://github.com/jstanbul",
-      "logoUrl": "https://avatars2.githubusercontent.com/u/1914307?v=3&s=200",
-      "content": "İstanbul JavaScript Kullanıcıları Grubu",
-      "contributors": [],
-      "needsContribution": false
-    } ,
-    {
-      "name": "Ankara PHP",
-      "url": "http://ankaraphp.github.io",
-      "githubUrl": "https://github.com/ankaraphp",
-      "logoUrl": "https://avatars1.githubusercontent.com/u/16033364?v=3&s=200",
-      "content": "Ankara PHP Kullanıcıları Grubu",
-      "contributors": [],
-      "needsContribution": false
-    },
-    {
-      "name": "Webend",
-      "url": "http://webend.org",
-      "githubUrl": "https://github.com/webendorg",
-      "logoUrl": "http://webend.org/assets/images/logo.png",
-      "content": "Webend Backend Teknolojileri Etkinlikleri Gurubu",
-      "contributors": [],
-      "needsContribution": false
-    },
-    {
-      "name": "PyIstanbul",
-      "url": "http://pyistanbul.org/",
-      "githubUrl": "https://github.com/pyistanbul",
-      "logoUrl": "https://avatars2.githubusercontent.com/u/1295155?s=200&v=4,
-      "content": "İstanbul'daki Python programcıları topluluğu",
-      "contributors": [],
-      "needsContribution": false
-    }
-  ]
+	"Komunite": [{
+			"name": ".NET Türkiye",
+			"url": "https://github.com/dotnet",
+			"githubUrl": "https://github.com/dotnetturkiye",
+			"logoUrl": "",
+			"content": "",
+			"contributors": [],
+			"needsContribution": false
+		},
+		{
+			"name": "Ruby Türkiye",
+			"url": "http://www.rubyturkiye.org",
+			"githubUrl": "https://github.com/rubytr",
+			"logoUrl": "https://avatars3.githubusercontent.com/u/5751224?v=3&s=200",
+			"content": "Türkiye'deki Ruby programcıları ve Ruby severler topluluğudur.",
+			"contributors": [],
+			"needsContribution": false
+		},
+		{
+			"name": "JavaScript İstanbul",
+			"url": "http://jstanbul.org",
+			"githubUrl": "https://github.com/jstanbul",
+			"logoUrl": "https://avatars2.githubusercontent.com/u/1914307?v=3&s=200",
+			"content": "İstanbul JavaScript Kullanıcıları Grubu",
+			"contributors": [],
+			"needsContribution": false
+		},
+		{
+			"name": "Ankara PHP",
+			"url": "http://ankaraphp.github.io",
+			"githubUrl": "https://github.com/ankaraphp",
+			"logoUrl": "https://avatars1.githubusercontent.com/u/16033364?v=3&s=200",
+			"content": "Ankara PHP Kullanıcıları Grubu",
+			"contributors": [],
+			"needsContribution": false
+		},
+		{
+			"name": "Webend",
+			"url": "http://webend.org",
+			"githubUrl": "https://github.com/webendorg",
+			"logoUrl": "http://webend.org/assets/images/logo.png",
+			"content": "Webend Backend Teknolojileri Etkinlikleri Gurubu",
+			"contributors": [],
+			"needsContribution": false
+		},
+		{
+			"name": "PyIstanbul",
+			"url": "http://pyistanbul.org/",
+			"githubUrl": "https://github.com/pyistanbul",
+			"logoUrl": "https://avatars2.githubusercontent.com/u/1295155?s=200&v=4",
+			"content": "İstanbul'daki Python programcıları topluluğu",
+			"contributors": [],
+			"needsContribution": false
+		}
+	]
 }
