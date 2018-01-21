@@ -556,6 +556,15 @@
       "content": "Lokasyon bazlı anonim sohbet projesi.",
       "contributors": [],
       "needsContribution": true
+    },
+    {
+      "name": "Ders.im",
+      "url": "https://github.com/getdersim/",
+      "githubUrl": "getdersim/yayin",
+      "logoUrl": "",
+      "content": "Ders.im öğrencilerin birbirleriyle ders metaryellerini paylaşabilecekleri, geçen senelerde çıkmış sınav sorularını bulabilecekleri, kampüsteki kişilere soru sorabilecekleri sosyal bir platformdur.",
+      "contributors": [],
+      "needsContribution": true
     }
   ],
   "Web Servis": [
