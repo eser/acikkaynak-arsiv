@@ -190,6 +190,15 @@
       "needsContribution": false
     },
     {
+      "name": "tors",
+      "url": "https://github.com/muratbsts/tors",
+      "githubUrl": "muratbsts/tors",
+      "logoUrl": "",
+      "content": "Terminalinizden birden çok servis içinde torrent arayıp en çok seed olanı kolayca bulup indirmenizi sağlayan bir ruby gem'i.",
+      "contributors": [],
+      "needsContribution": true
+    },
+    {
       "name": "wordpress-migrate-tool",
       "url": "https://github.com/cagataycali/wordpress-migrate-tool",
       "githubUrl": "cagataycali/wordpress-migrate-tool",
@@ -206,6 +215,44 @@
       "content": "Üniversitelerin duyurularını telegram'dan mesaj olarak atan araç.",
       "contributors": [],
       "needsContribution": true
+    },
+    {
+      "name": "Stacer",
+      "url": "https://github.com/oguzhaninan/Stacer",
+      "githubUrl": "oguzhaninan/Stacer",
+      "logoUrl": "",
+      "content": "Linux Sistem Optimize Edici ve İzleyici",
+      "contributors": [],
+      "needsContribution": false
+    },
+    {
+      "name": "DiziCLI",
+      "url": "https://github.com/BTaskaya/DiziCLI",
+      "githubUrl": "btaskaya/DiziCLI",
+      "logoUrl": "",
+      "content": "[Yabancı / Yerli] Dizi İzleme Sitelerinin Crawl işlemi, En basit arayüz ile diziye erişme",
+      "contributors": ["BTaskaya"],
+      "needsContribution": true
+    },
+    {
+      "name": "4S",
+      "url": "https://github.com/BTaskaya/4S",
+      "githubUrl": "btaskaya/4S",
+      "logoUrl": "",
+      "content": "Simple Server Setup Script - Temel Sunucu Konfigüre Aracı (Shell)",
+      "contributors": ["BTaskaya"],
+      "needsContribution": true
+    }
+  ],
+  "Mobil Uygulama": [
+    {
+      "name": "Restoran Uygulaması",
+      "url": "https://github.com/yusufcakal/RestaurantApp",
+      "githubUrl": "yusufcakal/RestaurantApp",
+      "logoUrl": "",
+      "content": "Restoranlarda kağıt menü devrini kapatan onun yerine müşterilere, masalarda bulunan QR Kod ile sipariş verebilme olanağı sağlayan ve siparişin takibini kolaylaştıran android uygulama.",
+      "contributors": [],
+      "needsContribution": false
     }
   ],
   "Web Arkayuz": [
@@ -314,6 +361,42 @@
       "githubUrl": "seyhunak/twitter-bootstrap-rails",
       "logoUrl": "",
       "content": "twitter-bootstrap-rails, Ruby on Rails ile yazılmış web uygulamalarına Twitter'ın Bootstrap arayüz kütüphanesini entegre eder, dahili araçları ile şablon ve görünümleri özelleştirir, yardımcı araçları ile geliştirmeyi kolaylaştırmayı amaçlayan bir kütüphanedir.",
+      "contributors": [],
+      "needsContribution": true
+    },
+    {
+      "name": "Laravel Mail Template",
+      "url": "https://github.com/muratbsts/mail-template",
+      "githubUrl": "muratbsts/mail-template",
+      "logoUrl": "",
+      "content": "Kullanımı kolay, minimal ve responsive arayüzler ile mail göndermeye yarayan bir Laravel paketi.",
+      "contributors": [],
+      "needsContribution": true
+    },
+    {
+      "name": "PHP Multi-Language Package",
+      "url": "https://github.com/miracsengonul/multi_language",
+      "githubUrl": "miracsengonul/multi_language",
+      "logoUrl": "",
+      "content": "Projelerinize çoklu dil desteği ekleyebileceğiniz bir PHP kütüphanesidir.",
+      "contributors": [],
+      "needsContribution": true
+    },
+    {
+      "name": "PHP Basic Form HTML Builder",
+      "url": "https://github.com/miracsengonul/basic_form",
+      "githubUrl": "miracsengonul/basic_form",
+      "logoUrl": "",
+      "content": "BasicForm, HTML formu oluşturmak için kullanabileceğiniz bir PHP kütüphanesidir.",
+      "contributors": [],
+      "needsContribution": true
+    },
+    {
+      "name": "Laravel 5 Mysql to Migrations",
+      "url": "https://github.com/miracsengonul/mysql_to_migrations",
+      "githubUrl": "miracsengonul/mysql_to_migrations",
+      "logoUrl": "",
+      "content": "Bu paket ile Laravel 5.1 ve yukarısı için Mysql veritabanınızı migration dosyası haline getirebilirsiniz.",
       "contributors": [],
       "needsContribution": true
     }
@@ -464,6 +547,24 @@
       "content": "Önyüzde VueJS ve arkayüzde Ruby on Rails kullanılarak geliştirilen Hacker News/Reddit klonu.",
       "contributors": [],
       "needsContribution": false
+    },
+    {
+      "name": "Tick Chat",
+      "url": "https://github.com/cagataycali/tick.chat/",
+      "githubUrl": "cagataycali/tick.chat",
+      "logoUrl": "",
+      "content": "Lokasyon bazlı anonim sohbet projesi.",
+      "contributors": [],
+      "needsContribution": true
+    },
+    {
+      "name": "Ders.im",
+      "url": "https://github.com/getdersim/",
+      "githubUrl": "getdersim/yayin",
+      "logoUrl": "",
+      "content": "Ders.im öğrencilerin birbirleriyle ders metaryellerini paylaşabilecekleri, geçen senelerde çıkmış sınav sorularını bulabilecekleri, kampüsteki kişilere soru sorabilecekleri sosyal bir platformdur.",
+      "contributors": [],
+      "needsContribution": true
     }
   ],
   "Web Servis": [
@@ -545,6 +646,15 @@
       "githubUrl": "cagataycali/url-shortener",
       "logoUrl": "https://emojipedia-us.s3.amazonaws.com/cache/52/23/52230e8ab5779d3b28c53725672bad99.png",
       "content": "Shitty url shortener, emoji and ai powered. 🌍✌🏼",
+      "contributors": [],
+      "needsContribution": true
+    },
+    {
+      "name": "location-service",
+      "url": "https://github.com/cagataycali/location-service",
+      "githubUrl": "cagataycali/location-service",
+      "logoUrl": "https://emojipedia-us.s3.amazonaws.com/cache/52/23/52230e8ab5779d3b28c53725672bad99.png",
+      "content": "Lokasyon bazlı uygulamalar için servis. IaaS",
       "contributors": [],
       "needsContribution": true
     }
