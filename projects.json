@@ -491,7 +491,16 @@
       "content": "Basit Html projeleri için kullanılabilecek Gulp ortamı. ",
       "contributors": [],
       "needsContribution": false
-    }
+    },
+    {
+      "name": "Otağ JavaScript Framework",
+      "url": "https://github.com/ilgilenio/Otag",
+      "githubUrl": "ilgilenio/Otag",
+      "logoUrl": "https://ilgilenio.github.io/Otag/img/otag.svg",
+      "content": "Hafif, Yalın, Bağımsız. Web, ön uç geliştirme çatısı",
+      "contributors": [],
+      "needsContribution": false
+     }
   ],
   "Web Proje": [
     {
