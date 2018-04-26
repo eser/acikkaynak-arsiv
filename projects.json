@@ -1,6 +1,29 @@
 {
   "Arac": [
     {
+      "name": "VS Code #region Manager",
+      "url": "https://marketplace.visualstudio.com/items?itemName=suadev.csharp-region-manager",
+      "githubUrl": "suadev/csharp-region-manager",
+      "logoUrl": "",
+      "content": "Region'ları yönetimek için geliştirilen bir VS Code eklentisi.",
+      "contributors": [
+        "suadev",
+        "sunmorgus"
+      ],
+      "needsContribution": true
+    },
+    {
+      "name": "InlineCssParser",
+      "url": "https://github.com/suadev/InlineCssParser",
+      "githubUrl": "suadev/InlineCssParser",
+      "logoUrl": "https://raw.githubusercontent.com/suadev/InlineCssParser/master/InlineCssParser/Resources/logo.ico",
+      "content": "Html'ler içerisinde yer alan inline style ları ayırmak için geliştirilmiş bir visual studio extension'ı. Visual studio marketplace'ten indirmek için;  https://marketplace.visualstudio.com/items?itemName=SuatKOSE.InlineStyleParserforHtmlFiles",
+      "contributors": [
+        "suadev"
+      ],
+      "needsContribution": true
+    },
+    {
       "name": "Conquest",
       "url": "https://github.com/brsyuksel/conquest",
       "githubUrl": "brsyuksel/conquest",
@@ -231,7 +254,9 @@
       "githubUrl": "btaskaya/DiziCLI",
       "logoUrl": "",
       "content": "[Yabancı / Yerli] Dizi İzleme Sitelerinin Crawl işlemi, En basit arayüz ile diziye erişme",
-      "contributors": ["BTaskaya"],
+      "contributors": [
+        "BTaskaya"
+      ],
       "needsContribution": true
     },
     {
@@ -240,7 +265,9 @@
       "githubUrl": "btaskaya/4S",
       "logoUrl": "",
       "content": "Simple Server Setup Script - Temel Sunucu Konfigüre Aracı (Shell)",
-      "contributors": ["BTaskaya"],
+      "contributors": [
+        "BTaskaya"
+      ],
       "needsContribution": true
     }
   ],
@@ -500,7 +527,7 @@
       "content": "Hafif, Yalın, Bağımsız. Web, ön uç geliştirme çatısı",
       "contributors": [],
       "needsContribution": false
-     }
+    }
   ],
   "Web Proje": [
     {
@@ -637,16 +664,12 @@
       "githubUrl": "suadev/steganography-dotnet",
       "logoUrl": "",
       "content": ".Net ortamında C# ile geliştirilen bir text-to-image steganography uygulaması",
-      "contributors": ["suadev","rlagustlr677","SeungyeonKang","ur0n2"],
-      "needsContribution": true
-    },
-    {
-      "name": "InlineCssParser",
-      "url": "https://github.com/suadev/InlineCssParser",
-      "githubUrl": "suadev/InlineCssParser",
-      "logoUrl": "https://raw.githubusercontent.com/suadev/InlineCssParser/master/InlineCssParser/Resources/logo.ico",
-      "content": "Html'ler içerisinde yer alan inline style ları ayırmak için geliştirilmiş bir visual studio extension'ı. Visual studio marketplace'ten indirmek için;  https://marketplace.visualstudio.com/items?itemName=SuatKOSE.InlineStyleParserforHtmlFiles",
-      "contributors": [],
+      "contributors": [
+        "suadev",
+        "rlagustlr677",
+        "SeungyeonKang",
+        "ur0n2"
+      ],
       "needsContribution": true
     },
     {
