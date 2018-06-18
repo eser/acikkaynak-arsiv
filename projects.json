@@ -269,6 +269,28 @@
         "BTaskaya"
       ],
       "needsContribution": true
+    },
+    {
+      "name": "tdk",
+      "url": "https://pypi.org/project/tdk/",
+      "githubUrl": "efe/tdk",
+      "logoUrl": "",
+      "content": "türk dil kurumu için python paketi. 📕",
+      "contributors": [
+        "efe"
+      ],
+      "needsContribution": false
+    },
+    {
+      "name": "zula",
+      "url": "https://pypi.org/project/zula/",
+      "githubUrl": "efe/zula",
+      "logoUrl": "",
+      "content": "dünyanın en basit 'key-value' veritabanı.",
+      "contributors": [
+        "efe"
+      ],
+      "needsContribution": false
     }
   ],
   "Mobil Uygulama": [
