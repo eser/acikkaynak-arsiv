@@ -42,6 +42,15 @@
       "needsContribution": false
     },
     {
+      "name": "AlertHub",
+      "url": "https://github.com/Ardakilic/alerthub",
+      "githubUrl": "Ardakilic/alerthub",
+      "logoUrl": "",
+    "content": "NodeJS ile yazılmış bu araç sayesinde GitHub release'leri hakkında E-posta veya PushBullet aracılığıyla haberdar olabilirsiniz. GitHub takip özelliği issue ve commit takibi yapsa da sürüm bildirimi yapmamakta.",
+      "contributors": [],
+      "needsContribution": false
+    },
+    {
       "name": "BackMeUp",
       "url": "https://github.com/Ardakilic/backmeup",
       "githubUrl": "Ardakilic/backmeup",
