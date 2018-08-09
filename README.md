@@ -1,6 +1,6 @@
 # Açık Kaynak İnisiyatifi
 
-[![Slack Status](https://s.acikkaynak.info/badge.svg)](http://s.acikkaynak.info/slackin/)
+[![Slack Status](https://acikkaynak-slack-inviter.herokuapp.com/badge.svg)](https://acikkaynak-slack-inviter.herokuapp.com/)
 [![website][website-image]][website-url]
 [![contributors][contributors-image]][contributors-url]
 [![issues][issues-image]][issues-url]
