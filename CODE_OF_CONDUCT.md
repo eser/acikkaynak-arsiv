@@ -52,7 +52,7 @@ temsilini proje yürütücüleri tanımlayabilir veya detaylandırabilir.
 ## İcra
 
 Kabul edilemeyecek herhangi bir davranış içeren bir olay yaşanması durumunda proje
-ekibiyle bu adresten [E-POSTA ADRESİNİ YAZIN] iletişim kurulabilir. Bu adrese iletilen
+ekibiyle bu adresten [iletisim@acikkaynak.info][contact-mail] iletişim kurulabilir. Bu adrese iletilen
 bütün şikayetler dikkate alınacak, araştırılacak ve duruma uygun bir şekilde
 yanıtlanacaktır. Proje ekibi olayı haber veren kişinin kimliğini gizli tutmakla
 yükümlüdür. Sözleşmenin icrasına dair yönergeler ayrıca yayınlanabilir.
@@ -62,8 +62,9 @@ karşı geçici veya kalıcı yaptırımlar uygulayabilir.
 
 ## Kaynak
 
-Bu Topluluk Sözleşmesi, [Contributor Covenant][homepage] 1.4 sürümünden çevrilmiştir,
-aslına bu adresten erişebilirsiniz [http://contributor-covenant.org/version/1/4][version]
+Bu Topluluk Sözleşmesi, [Contributor Covenant][cc-homepage] 1.4 sürümünden çevrilmiştir,
+aslına bu adresten erişebilirsiniz [http://contributor-covenant.org/version/1/4][cc-version]
 
-[homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/
+[contact-mail]: mailto:iletisim@acikkaynak.info
+[cc-homepage]: http://contributor-covenant.org
+[cc-version]: http://contributor-covenant.org/version/1/4/
