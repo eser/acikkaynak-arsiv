@@ -1,5 +1,21 @@
 {
 	"Komunite": [{
+			"name": "İstanbul PHP",
+			"url": "https://meetup.com/istanbulphp",
+			"githubUrl": "https://github.com/istanbulphp",
+			"logoUrl": "https://avatars0.githubusercontent.com/u/6529077",
+			"content": "İstanbul PHP Kullanıcıları Topluluğu",
+			"contributors": [],
+			"needsContribution": false
+		},{
+			"name": ".NET Türkiye",
+			"url": "https://github.com/dotnet",
+			"githubUrl": "https://github.com/dotnetturkiye",
+			"logoUrl": "",
+			"content": "",
+			"contributors": [],
+			"needsContribution": false
+		},{
 			"name": ".NET Türkiye",
 			"url": "https://github.com/dotnet",
 			"githubUrl": "https://github.com/dotnetturkiye",
