@@ -316,6 +316,28 @@
         "efe"
       ],
       "needsContribution": false
+    },
+    {
+      "name": "gitbatch",
+      "url": "https://github.com/isacikgoz/gitbatch",
+      "githubUrl": "isacikgoz/gitbatch",
+      "logoUrl": "",
+      "content": "tüm git repolarını tek yerden yönet.",
+      "contributors": [
+        "isacikgoz"
+      ],
+      "needsContribution": false
+    },
+    {
+      "name": "tldr++",
+      "url": "https://github.com/isacikgoz/tldr",
+      "githubUrl": "isacikgoz/tldr",
+      "logoUrl": "",
+      "content": "en popüler ve interaktif tldr istemcisi.",
+      "contributors": [
+        "isacikgoz"
+      ],
+      "needsContribution": false
     }
   ],
   "Mobil Uygulama": [
