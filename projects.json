@@ -1,6 +1,17 @@
 {
   "Arac": [
     {
+      "name": "nosqlclient",
+      "url": "https://github.com/nosqlclient/nosqlclient",
+      "githubUrl": "nosqlclient/nosqlclient",
+      "logoUrl": "",
+      "content": "Cross-Platform, kullanımı kolay MongoDB yönetim aracı",
+      "contributors": [
+        "rsercano"
+      ],
+      "needsContribution": true
+    },
+    {
       "name": "connect-api-mocker",
       "url": "https://github.com/muratcorlu/connect-api-mocker",
       "githubUrl": "muratcorlu/connect-api-mocker",
