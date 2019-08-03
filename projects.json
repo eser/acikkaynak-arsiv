@@ -1,6 +1,17 @@
 {
   "Arac": [
     {
+      "name": "Gundem-TelegramBot",
+      "url": "https://github.com/jasyuiop/Gundem-TelegramBot",
+      "githubUrl": "jasyuiop/Gundem-TelegramBot",
+      "logoUrl": "",
+      "content": "Telegram üzerinden, Ekşi sözlük gündemini takip edebileceğiniz ve daha başka özelliklerle donatılmış bir bot",
+      "contributors": [
+        "jasyuiop"
+      ],
+      "needsContribution": true
+    },
+    {
       "name": "nosqlclient",
       "url": "https://github.com/nosqlclient/nosqlclient",
       "githubUrl": "nosqlclient/nosqlclient",
