@@ -1,6 +1,6 @@
 # Özgür Yazılım ve Açık Kaynak Yazılım arasındaki farklar
 
-Her ne kadar kapsamımız [Açık Kaynak Yazılım](nedir.md) olsa da, Özgür Yazılım'dan bahsetmemek eksik olur. Daha önce [eser.ozvataf.com](http://eser.ozvataf.com/) üzerinde yayınlanan [Açık Kaynak Felsefesi](http://eser.ozvataf.com/acik-kaynak-felsefesi/) yazısında konuya şu şekilde değinilmiş:
+Her ne kadar kapsamımız [Açık Kaynak Yazılım](nedir.md) olsa da, Özgür Yazılım'dan bahsetmemek eksik olur. Daha önce [eser.ozvataf.com](http://eser.ozvataf.com/) üzerinde yayınlanan [Açık Kaynak Felsefesi](https://medium.com/@eserozvataf/a%C3%A7%C4%B1k-kaynak-felsefesi-6712b9bda59c) yazısında konuya şu şekilde değinilmiş:
 
 > Her özgür yazılım aynı zamanda açık kaynaktır. Fakat özgür yazılım bundan çok daha fazlasıdır. Çünkü özgür yazılımlar sahipliği reddeden bir politik anlayışın ürünüdür. Dolayısıyla herhangi birinin veya birilerinin kontrolü altında bulunmayan özgür yazılımların üzerinde yapılan değişiklikler de mutlaka herkesin erişebileceği şekilde yayınlanmalı ve özgür yazılım olmayan başka bir programın (hatta GNU Public License v3'e göre donanımın da) işlevsel bir parçası olarak kullanılmamalıdır.
 >
