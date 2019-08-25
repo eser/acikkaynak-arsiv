@@ -1,6 +1,17 @@
 {
   "Arac": [
     {
+      "name": "Prototurk.com",
+      "url": "https://prototurk.com",
+      "githubUrl": "tayfunerbilen/prototurk.com",
+      "logoUrl": "https://prototurk.com/favicon.ico",
+      "content": "Web dilleri ve teknolojileriyle ilgili referanslar JSON formatında ve Türkçe olarak hazırlanmaktadır.",
+      "contributors": [
+        "tayfunerbilen", "servetsevimli", "onuralpkaratas", "darkwintergrup", "ahmetkorkmaz3", "volkany", "MrPeker", "serkanosna", "zeybekserdar", "yazilimalanlari", "mustafakucuk", "muhammetikizek", "emrejilta", "sinanerdinc", "orazsahedowmaksat", "meseven", "inanc", "hayro45", "abdullahzubeyiryildiz", "Ecancan"
+      ],
+      "needsContribution": true
+    },
+    {
       "name": "Gundem-TelegramBot",
       "url": "https://github.com/jasyuiop/Gundem-TelegramBot",
       "githubUrl": "jasyuiop/Gundem-TelegramBot",
