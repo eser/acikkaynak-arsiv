@@ -1,6 +1,5 @@
 {
-  "Arac": [
-    {
+  "Arac": [{
       "name": "Prototurk.com",
       "url": "https://prototurk.com",
       "githubUrl": "tayfunerbilen/prototurk.com",
@@ -95,7 +94,7 @@
       "url": "https://github.com/Ardakilic/alerthub",
       "githubUrl": "Ardakilic/alerthub",
       "logoUrl": "",
-    "content": "NodeJS ile yazılmış bu araç sayesinde GitHub release'leri hakkında E-posta veya PushBullet aracılığıyla haberdar olabilirsiniz. GitHub takip özelliği issue ve commit takibi yapsa da sürüm bildirimi yapmamakta.",
+      "content": "NodeJS ile yazılmış bu araç sayesinde GitHub release'leri hakkında E-posta veya PushBullet aracılığıyla haberdar olabilirsiniz. GitHub takip özelliği issue ve commit takibi yapsa da sürüm bildirimi yapmamakta.",
       "contributors": [],
       "needsContribution": false
     },
@@ -373,19 +372,16 @@
       "needsContribution": false
     }
   ],
-  "Mobil Uygulama": [
-    {
-      "name": "Restoran Uygulaması",
-      "url": "https://github.com/yusufcakal/RestaurantApp",
-      "githubUrl": "yusufcakal/RestaurantApp",
-      "logoUrl": "",
-      "content": "Restoranlarda kağıt menü devrini kapatan onun yerine müşterilere, masalarda bulunan QR Kod ile sipariş verebilme olanağı sağlayan ve siparişin takibini kolaylaştıran android uygulama.",
-      "contributors": [],
-      "needsContribution": false
-    }
-  ],
-  "Web Arkayuz": [
-    {
+  "Mobil Uygulama": [{
+    "name": "Restoran Uygulaması",
+    "url": "https://github.com/yusufcakal/RestaurantApp",
+    "githubUrl": "yusufcakal/RestaurantApp",
+    "logoUrl": "",
+    "content": "Restoranlarda kağıt menü devrini kapatan onun yerine müşterilere, masalarda bulunan QR Kod ile sipariş verebilme olanağı sağlayan ve siparişin takibini kolaylaştıran android uygulama.",
+    "contributors": [],
+    "needsContribution": false
+  }],
+  "Web Arkayuz": [{
       "name": "FeedbackBundle",
       "url": "https://github.com/bulutyazilim/FeedbackBundle",
       "githubUrl": "bulutyazilim/FeedbackBundle",
@@ -530,8 +526,7 @@
       "needsContribution": true
     }
   ],
-  "Web Onyuz": [
-    {
+  "Web Onyuz": [{
       "name": "react-date-range",
       "url": "https://github.com/Adphorus/react-date-range",
       "githubUrl": "Adphorus/react-date-range",
@@ -631,8 +626,7 @@
       "needsContribution": false
     }
   ],
-  "Web Proje": [
-    {
+  "Web Proje": [{
       "name": "Open Journal Software (OJS)",
       "url": "https://github.com/ojs",
       "githubUrl": "ojs/ojs",
@@ -705,8 +699,7 @@
       "needsContribution": true
     }
   ],
-  "Web Servis": [
-    {
+  "Web Servis": [{
       "name": "Telegram-bot-php",
       "url": "https://github.com/Ardakilic/Telegram-bot-php",
       "githubUrl": "Ardakilic/Telegram-bot-php",
@@ -790,6 +783,15 @@
       "logoUrl": "https://emojipedia-us.s3.amazonaws.com/cache/52/23/52230e8ab5779d3b28c53725672bad99.png",
       "content": "Lokasyon bazlı uygulamalar için servis. IaaS",
       "contributors": [],
+      "needsContribution": true
+    },
+    {
+      "name": "react-native-emoji-dialog",
+      "url": "https://www.npmjs.com/package/react-native-emoji-dialog",
+      "githubUrl": "https://github.com/bozd4g/react-native-emoji-dialog",
+      "logoUrl": "https://github.com/bozd4g/react-native-emoji-dialog/blob/master/assets/github/logo.png",
+      "content": "React Native ile geliştirilen Android ve iOS uygulamaları için emojiyle birlikle kullanılabilen dialog.",
+      "contributors": ["bozd4g"],
       "needsContribution": true
     }
   ]
