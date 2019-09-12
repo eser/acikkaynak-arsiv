@@ -791,6 +791,15 @@
       "content": "Lokasyon bazlı uygulamalar için servis. IaaS",
       "contributors": [],
       "needsContribution": true
+    },
+    {
+      "name": "mock-server",
+      "url": "https://github.com/guneysus/mock-server",
+      "githubUrl": "guneysus/mock-server",
+      "logoUrl": "https://emojipedia-us.s3.amazonaws.com/cache/52/23/52230e8ab5779d3b28c53725672bad99.png",
+      "content": "3rd parti servislerle çalışmak için JSON config tabanlı bir CLI. XML, runtimeda fake data oluşturma gibi özellikleri mevcut",
+      "contributors": [],
+      "needsContribution": true      
     }
   ]
 }
