@@ -13,7 +13,7 @@
         <img src="./Media/acikkaynak-logo-284px.png" alt="Açık Kaynak İnisiyatifi" title="" />
     </a>
     <br />
-    İçeriğe ulaşmak için tıklayınız
+    <a href="http://acikkaynak.info/"> İçeriğe ulaşmak için tıklayınız </a>
 </div>
 
 [website-image]: https://img.shields.io/website-up-down-green-red/http/acikkaynak.info.svg
