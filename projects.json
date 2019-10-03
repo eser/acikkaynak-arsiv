@@ -811,6 +811,51 @@
       "content": "Testleri yazılmış ve her zaman elinizin altında bulunması gereken yardımcı metotlar.",
       "contributors": [],
       "needsContribution": true
-    }    
+    },
+    {
+      "name": "nayn.Classifier",
+      "url": "https://github.com/naynco/nayn.classifier",
+      "githubUrl": "naynco/nayn.classifier",
+      "logoUrl": "https://avatars2.githubusercontent.com/u/41342599?s=200&v=4",
+      "content": "News Classification in Turkish",
+      "contributors": [],
+      "needsContribution": true
+    },
+    {
+      "name": "nayn.wordpress",
+      "url": "https://github.com/naynco/nayn.wordpress",
+      "githubUrl": "naynco/nayn.wordpress",
+      "logoUrl": "https://avatars2.githubusercontent.com/u/41342599?s=200&v=4",
+      "content": "NAYN.CO WordPress Theme",
+      "contributors": [],
+      "needsContribution": true
+    },
+    {
+      "name": "nayn.cli",
+      "url": "https://github.com/naynco/nayn.cli",
+      "githubUrl": "naynco/nayn.cli",
+      "logoUrl": "https://avatars2.githubusercontent.com/u/41342599?s=200&v=4",
+      "content": "NAYN.CO CLI Reader",
+      "contributors": [],
+      "needsContribution": true
+    },
+    {
+      "name": "NAYN.ORG",
+      "url": "https://github.com/naynco/nayn.org",
+      "githubUrl": "naynco/nayn.org",
+      "logoUrl": "https://avatars2.githubusercontent.com/u/41342599?s=200&v=4",
+      "content": "NAYN: aldatmayan, özgür ve tarafsız haber kaynağı olmayı amaçlayan bir organizasyondur. Bütün envanterini açık kaynak olarak sunarak halka mâl olmak istemektedir.",
+      "contributors": [],
+      "needsContribution": true
+    },
+    {
+      "name": "NAYN.ML",
+      "url": "https://github.com/naynco/nayn.org",
+      "githubUrl": "naynco/nayn.org",
+      "logoUrl": "https://avatars2.githubusercontent.com/u/41342599?s=200&v=4",
+      "content": "NAYN Machine Learning Projects",
+      "contributors": [],
+      "needsContribution": true
+    }      
   ]
 }
