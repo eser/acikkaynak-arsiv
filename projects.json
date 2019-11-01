@@ -801,7 +801,7 @@
       "logoUrl": "https://emojipedia-us.s3.amazonaws.com/cache/52/23/52230e8ab5779d3b28c53725672bad99.png",
       "content": "3rd parti servislerle çalışmak için JSON config tabanlı bir CLI. XML, runtimeda fake data oluşturma gibi özellikleri mevcut",
       "contributors": [],
-      "needsContribution": true      
+      "needsContribution": true
     },
     {
       "name": "underscore.net",
@@ -811,6 +811,15 @@
       "content": "Testleri yazılmış ve her zaman elinizin altında bulunması gereken yardımcı metotlar.",
       "contributors": [],
       "needsContribution": true
+    },
+    {
+    "name": "Designble",
+    "url": "https://github.com/Yutyo/designble",
+    "githubUrl": "Yutyo/designble",
+    "logoUrl": "https://emojipedia-us.s3.amazonaws.com/cache/52/23/52230e8ab5779d3b28c53725672bad99.png",
+    "content": "designble.com için ücretsiz olarak yaptığım ama sonrasında beni kovup üstüne kondukları, public repo olarak halka açtığım site. İstediğiniz gibi forklayıp kullanabilirsiniz.",
+    "contributors": [],
+    "needsContribution": true
     },
     {
       "name": "nayn.Classifier",
@@ -856,6 +865,6 @@
       "content": "NAYN Machine Learning Projects",
       "contributors": [],
       "needsContribution": true
-    }      
+    }
   ]
 }
