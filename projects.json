@@ -883,6 +883,15 @@
       "content": "Coby Browser, MIT AI ile Android için yapılmış açık kaynak bir internet tarayıcısıdır.",
       "contributors": [],
       "needsContribution": true
-    }                          
+    },
+    {
+      "name": "Flarum için Extum Material Design Teması",
+      "url": "https://github.com/Extum/material",
+      "githubUrl": "Extum/material",
+      "logoUrl": "",
+      "content": "Extum Material Design teması, bir forum yazılımı olan Flarum için Google'ın Material Design tasarım ilkelerini takip ederek hazırlanmış bir temadır.",
+      "contributors": [],
+      "needsContribution": true
+    }               
   ]
 }
