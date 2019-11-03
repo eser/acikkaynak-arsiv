@@ -814,13 +814,22 @@
     },
     {
       "name": "Designble",
+      "url": "https://github.com/Yutyo/designble",
+      "githubUrl": "Yutyo/designble",
+      "logoUrl": "https://emojipedia-us.s3.amazonaws.com/cache/52/23/52230e8ab5779d3b28c53725672bad99.png",
+      "content": "designble.com için yapılan, public repo olarak halka açılan site. İstediğiniz gibi forklayıp kullanabilirsiniz.",
+      "contributors": [],
+      "needsContribution": true
+    },
+    {
+      "name": "Designble",
       "url": "https://github.com/Designble/designblecom",
       "githubUrl": "Designble/designblecom",
       "logoUrl": "https://designble.com/images/favicon.png",
       "content": "designble.com tasarım kuruluşu için tasarlanmış daha sonrasında açık kaynak topluluğuna destek amaçlı kaynağı açılmış mobil uyumlu site.",
       "contributors": [],
       "needsContribution": true
-    },
+    },             
     {
       "name": "nayn.Classifier",
       "url": "https://github.com/naynco/nayn.classifier",
