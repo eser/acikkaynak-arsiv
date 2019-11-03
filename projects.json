@@ -814,10 +814,10 @@
     },
     {
       "name": "Designble",
-      "url": "https://github.com/Yutyo/designble",
-      "githubUrl": "Yutyo/designble",
+      "url": "https://github.com/Designble/designblecom",
+      "githubUrl": "Designble/designblecom",
       "logoUrl": "https://emojipedia-us.s3.amazonaws.com/cache/52/23/52230e8ab5779d3b28c53725672bad99.png",
-      "content": "designble.com için yapılan, public repo olarak halka açılan site. İstediğiniz gibi forklayıp kullanabilirsiniz.",
+      "content": "designble.com için tasarlanan, ve açık kaynak olarak halka açılan site. Lisans'ı göz önünde bulundurarak istediğiniz gibi forklayıp kullanabilirsiniz.",
       "contributors": [],
       "needsContribution": true
     },
