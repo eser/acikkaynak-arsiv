@@ -865,6 +865,15 @@
       "content": "NAYN Machine Learning Projects",
       "contributors": [],
       "needsContribution": true
-    }
+    },
+    {
+      "name": "Coby Browser",
+      "url": "https://github.com/ardacebi/coby-browser",
+      "githubUrl": "ardacebi/coby-browser",
+      "logoUrl": "https://lh3.googleusercontent.com/GRPJ0RIs_a124g4nVkeuvrN8jkHlZlNEQ9OrKvWIkYf4ea4lgY0yvuvqDOCfOtRyLg=s180-rw",
+      "content": "Coby Browser, MIT AI ile Android için yapılmış açık kaynak bir internet tarayıcısıdır.",
+      "contributors": [],
+      "needsContribution": true
+    }                          
   ]
 }
