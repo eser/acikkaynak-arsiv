@@ -788,7 +788,7 @@
     {
       "name": "react-native-emoji-dialog",
       "url": "https://www.npmjs.com/package/react-native-emoji-dialog",
-      "githubUrl": "https://github.com/bozd4g/react-native-emoji-dialog",
+      "githubUrl": "bozd4g/react-native-emoji-dialog",
       "logoUrl": "https://github.com/bozd4g/react-native-emoji-dialog/blob/master/assets/github/logo.png",
       "content": "React Native ile geliştirilen Android ve iOS uygulamaları için emojiyle birlikle kullanılabilen dialog.",
       "contributors": ["bozd4g"],
