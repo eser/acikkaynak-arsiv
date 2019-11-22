@@ -5,7 +5,7 @@
       "githubUrl": "denizyuret/Knet.jl",
       "logoUrl": "",
       "content": "Turkiye'nin ilk ve tek deep learning framework'u.",
-      "contributors": ["
+      "contributors": [
         "denizyuret", "ilkerkesen", "cangumeli", "ozanarkancan", "EnisBerk", "eeyrdkl", "ekinakyurek", "xukai92", "CarloLucibello", "maleadt", "ereday", "kuruonur1", "kirnap", "tkelman", "quaertym", "ianshmean"
       ],
       "needsContribution": false
@@ -16,7 +16,7 @@
       "githubUrl": "ai-ku/TrMor2018",
       "logoUrl": "",
       "content": "En büyük/temiz Türkçe morfoloji dataset'i.",
-      "contributors": ["
+      "contributors": [
         "denizyuret", "ekinakyurek"
       ],
       "needsContribution": false
@@ -27,7 +27,7 @@
       "githubUrl": "ai-ku/Morse.jl",
       "logoUrl": "",
       "content": "Bu sene yayınladığımız Türkçe kelime analiz programı.",
-      "contributors": ["
+      "contributors": [
         "ekinakyurek", "denizyuret"
       ],
       "needsContribution": false
