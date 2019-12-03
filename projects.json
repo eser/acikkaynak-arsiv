@@ -81,6 +81,18 @@
         "yemregundogmus"
       ],
       "needsContribution": false
+    },
+    {
+      "name": "TezHaber",
+      "url": "https://github.com/fourplusone41/TezHaber",
+      "githubUrl": "fourplusone41/TezHaber",
+      "logoUrl": "",
+      "content": "Türkçe Haber Toplayıcı ve Özetleyici",
+      "contributors": [
+        "husmen",
+        "muhammedsara"
+      ],
+      "needsContribution": false
     }
   ],
   "Arac": [
