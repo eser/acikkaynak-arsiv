@@ -69,6 +69,18 @@
         "adursun"
       ],
       "needsContribution": false
+    },
+    {
+      "name": "Ka|Ve Summarify",
+      "url": "https://github.com/kaveai/kave_summarify",
+      "githubUrl": "kaveai/kave_summarify",
+      "logoUrl": "",
+      "content": "Ka|Ve Grubunun, AçıkHack Türkçe NLP Hackathonu için kurulmuş repositorydir.",
+      "contributors": [
+        "Eruimdas",
+        "yemregundogmus"
+      ],
+      "needsContribution": false
     }
   ],
   "Arac": [
