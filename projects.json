@@ -49,6 +49,26 @@
         "denizyuret"
       ],
       "needsContribution": false
+    },
+    {
+      "name": "Zemberek-NLP",
+      "url": "https://github.com/ahmetaa/zemberek-nlp",
+      "githubUrl": "ahmetaa/zemberek-nlp",
+      "logoUrl": "",
+      "content": "NLP tools for Turkish.",
+      "contributors": [
+        "ahmetaa",
+        "mdakin",
+        "iorixxx",
+        "ahmet-aaa",
+        "celebisait",
+        "ozturkberkay",
+        "hamzatuna",
+        "elifkus",
+        "aliok",
+        "adursun"
+      ],
+      "needsContribution": false
     }
   ],
   "Arac": [
