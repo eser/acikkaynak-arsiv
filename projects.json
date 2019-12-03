@@ -1,12 +1,28 @@
 {
-  "Doğal Dil İşleme": [{
+  "Doğal Dil İşleme": [
+    {
       "name": "Knet.jl",
       "url": "https://github.com/denizyuret/Knet.jl",
       "githubUrl": "denizyuret/Knet.jl",
       "logoUrl": "",
       "content": "Turkiye'nin ilk ve tek deep learning framework'u.",
       "contributors": [
-        "denizyuret", "ilkerkesen", "cangumeli", "ozanarkancan", "EnisBerk", "eeyrdkl", "ekinakyurek", "xukai92", "CarloLucibello", "maleadt", "ereday", "kuruonur1", "kirnap", "tkelman", "quaertym", "ianshmean"
+        "denizyuret",
+        "ilkerkesen",
+        "cangumeli",
+        "ozanarkancan",
+        "EnisBerk",
+        "eeyrdkl",
+        "ekinakyurek",
+        "xukai92",
+        "CarloLucibello",
+        "maleadt",
+        "ereday",
+        "kuruonur1",
+        "kirnap",
+        "tkelman",
+        "quaertym",
+        "ianshmean"
       ],
       "needsContribution": false
     },
@@ -17,7 +33,8 @@
       "logoUrl": "",
       "content": "En büyük/temiz Türkçe morfoloji dataset'i.",
       "contributors": [
-        "denizyuret", "ekinakyurek"
+        "denizyuret",
+        "ekinakyurek"
       ],
       "needsContribution": false
     },
@@ -28,19 +45,40 @@
       "logoUrl": "",
       "content": "Bu sene yayınladığımız Türkçe kelime analiz programı.",
       "contributors": [
-        "ekinakyurek", "denizyuret"
+        "ekinakyurek",
+        "denizyuret"
       ],
       "needsContribution": false
     }
   ],
-  "Arac": [{
+  "Arac": [
+    {
       "name": "Prototurk.com",
       "url": "https://prototurk.com",
       "githubUrl": "tayfunerbilen/prototurk.com",
       "logoUrl": "https://prototurk.com/favicon.ico",
       "content": "Web dilleri ve teknolojileriyle ilgili referanslar JSON formatında ve Türkçe olarak hazırlanmaktadır.",
       "contributors": [
-        "tayfunerbilen", "servetsevimli", "onuralpkaratas", "darkwintergrup", "ahmetkorkmaz3", "volkany", "MrPeker", "serkanosna", "zeybekserdar", "yazilimalanlari", "mustafakucuk", "muhammetikizek", "emrejilta", "sinanerdinc", "orazsahedowmaksat", "meseven", "inanc", "hayro45", "abdullahzubeyiryildiz", "Ecancan"
+        "tayfunerbilen",
+        "servetsevimli",
+        "onuralpkaratas",
+        "darkwintergrup",
+        "ahmetkorkmaz3",
+        "volkany",
+        "MrPeker",
+        "serkanosna",
+        "zeybekserdar",
+        "yazilimalanlari",
+        "mustafakucuk",
+        "muhammetikizek",
+        "emrejilta",
+        "sinanerdinc",
+        "orazsahedowmaksat",
+        "meseven",
+        "inanc",
+        "hayro45",
+        "abdullahzubeyiryildiz",
+        "Ecancan"
       ],
       "needsContribution": true
     },
@@ -201,7 +239,9 @@
       "githubUrl": "eserozvataf/sey",
       "logoUrl": "",
       "content": "Grunt/Gulp'un aksine; hem API hem konfigurasyon tabanlı olarak kod dizininde gerçekleştirdiğinizi işlerinizi otomatize edebileceğiniz hem de yalnızca değişiklik yapılan dosyaları işlemden geçiren, javascript tabanlı bir \"make\" aracı.",
-      "contributors": [],
+      "contributors": [
+        "eserozvataf"
+      ],
       "needsContribution": false
     },
     {
@@ -228,7 +268,9 @@
       "githubUrl": "eserozvataf/apibone",
       "logoUrl": "",
       "content": "Sorgulanabilir servisler için birleştirilmiş bir platform sağlar. Basit sorguların yanıtını aldığınız web servisleri için cli tool oluşturmak yerine api entegrasyonunuzu apibone'a entegre ettiğinizde; servisi aynı komut ve parametrelerle cli, web, telegram gibi platformlardan sorgulanabilir kılarsınız.",
-      "contributors": [],
+      "contributors": [
+        "eserozvataf"
+      ],
       "needsContribution": false
     },
     {
@@ -404,18 +446,142 @@
         "isacikgoz"
       ],
       "needsContribution": false
+    },
+    {
+      "name": "evangelist",
+      "url": "https://github.com/eserozvataf/evangelist",
+      "githubUrl": "eserozvataf/evangelist",
+      "logoUrl": "",
+      "content": "Fonksiyonel programlamaya aşinaysanız ve compose, curry, decorate v.b. yapıları fazlaca kullanıyorsanız tree-shaking uyumlu bu kütüphaneyi sevebilirsiniz. loadash gibi komple bir alet çantası yerine inline edebileceğiniz sadelikte fonksiyonları size sunuyor.",
+      "contributors": [
+        "eserozvataf"
+      ],
+      "needsContribution": true
+    },
+    {
+      "name": "senior",
+      "url": "https://github.com/eserozvataf/senior",
+      "githubUrl": "eserozvataf/senior",
+      "logoUrl": "",
+      "content": "Ufak bir uygulamanız var diyelim ve buna üçüncü parti uzantı (extension) desteği yazmak istiyorsanız. bu proje npm paketleri aracılığı ile uygulamanızın uzantılarını listeleyebileceğiniz, indirip kurabileceğiniz ve kaldırabileceğiniz bir arabirim sunuyor.",
+      "contributors": [
+        "eserozvataf"
+      ],
+      "needsContribution": true
+    },
+    {
+      "name": "consultant",
+      "url": "https://github.com/eserozvataf/consultant",
+      "githubUrl": "eserozvataf/consultant",
+      "logoUrl": "",
+      "content": "Belirli bir parametre diziniz var ama bu parametreleri ister bir JSON girdisinden, ister komut satırından, isterseniz de kullanıcı ile iletişime geçip GUI üzerinden almak istiyorsunuz. consultant sizin için bu girdi esnekliğini sağlamaya çalışıyor.",
+      "contributors": [
+        "eserozvataf"
+      ],
+      "needsContribution": true
+    },
+    {
+      "name": "maester",
+      "url": "https://github.com/eserozvataf/maester",
+      "githubUrl": "eserozvataf/maester",
+      "logoUrl": "",
+      "content": "Loglama ve exception/error handling işlerini aynı potada eriten, hem node.js hem de browser’da aynı kod tabanı ile çalışan bir kütüphane.",
+      "contributors": [
+        "eserozvataf"
+      ],
+      "needsContribution": true
+    },
+    {
+      "name": "enthusiast",
+      "url": "https://github.com/eserozvataf/enthusiast",
+      "githubUrl": "eserozvataf/enthusiast",
+      "logoUrl": "",
+      "content": "Fonksiyonel yaklaşımları kullanan ancak kaynak olarak da streaming arabirimleri kullanan bir kütüphane.",
+      "contributors": [
+        "eserozvataf"
+      ],
+      "needsContribution": true
+    },
+    {
+      "name": "ponyfills",
+      "url": "https://github.com/eserozvataf/ponyfills",
+      "githubUrl": "eserozvataf/ponyfills",
+      "logoUrl": "",
+      "content": "Çoklukla kullanılan ancak tüm platformlarda desteklenmeyen belli başlı JavaScript foksiyonlarının eğer varsa native halini kullanan, yoksa bunların çoğunlukla mozilla developer network üzerinden alınan polyfill sürümlerini çalıştıran kütüphane.",
+      "contributors": [
+        "eserozvataf"
+      ],
+      "needsContribution": true
+    },
+    {
+      "name": "immunity",
+      "url": "https://github.com/eserozvataf/immunity",
+      "githubUrl": "eserozvataf/immunity",
+      "logoUrl": "",
+      "content": "Immutable veri yapılarını koruyarak array ve object gibi nesnelerinde işlemler yapmanızı sağlayan bir kütüphane.",
+      "contributors": [
+        "eserozvataf"
+      ],
+      "needsContribution": true
+    },
+    {
+      "name": "servicemanager",
+      "url": "https://github.com/eserozvataf/servicemanager",
+      "githubUrl": "eserozvataf/servicemanager",
+      "logoUrl": "",
+      "content": "JavaScript için inversion of control sağlayan bir kütüphane.",
+      "contributors": [
+        "eserozvataf"
+      ],
+      "needsContribution": true
+    },
+    {
+      "name": "cofounder",
+      "url": "https://github.com/eserozvataf/cofounder",
+      "githubUrl": "eserozvataf/cofounder",
+      "logoUrl": "",
+      "content": "Dosya sistemi ve OS işlevlerini soyutlayarak bunları implementasyondan bağımsız olarak kütüphanelerin kullanabilmesini sağlayan bir katman.",
+      "contributors": [
+        "eserozvataf"
+      ],
+      "needsContribution": true
+    },
+    {
+      "name": "tassle",
+      "url": "https://github.com/eserozvataf/tassle",
+      "githubUrl": "eserozvataf/tassle",
+      "logoUrl": "",
+      "content": "Konfigurasyon, Data, Fonksiyonlar, I18N, Loglama, Doğrulama gibi kütüphaneler sağlayan bir .NET paketi.",
+      "contributors": [
+        "eserozvataf"
+      ],
+      "needsContribution": true
+    },
+    {
+      "name": "jsmake",
+      "url": "https://github.com/eserozvataf/jsmake",
+      "githubUrl": "eserozvataf/jsmake",
+      "logoUrl": "",
+      "content": "JavaScript için make, rake gibi bir task runner. Ancak kullanıcının tanımladığı taskları farklı kanallardan okuma, uzantı desteği gibi ek özelliklerle donatılmış halde.",
+      "contributors": [
+        "eserozvataf"
+      ],
+      "needsContribution": true
     }
   ],
-  "Mobil Uygulama": [{
-    "name": "Restoran Uygulaması",
-    "url": "https://github.com/yusufcakal/RestaurantApp",
-    "githubUrl": "yusufcakal/RestaurantApp",
-    "logoUrl": "",
-    "content": "Restoranlarda kağıt menü devrini kapatan onun yerine müşterilere, masalarda bulunan QR Kod ile sipariş verebilme olanağı sağlayan ve siparişin takibini kolaylaştıran android uygulama.",
-    "contributors": [],
-    "needsContribution": false
-  }],
-  "Web Arkayuz": [{
+  "Mobil Uygulama": [
+    {
+      "name": "Restoran Uygulaması",
+      "url": "https://github.com/yusufcakal/RestaurantApp",
+      "githubUrl": "yusufcakal/RestaurantApp",
+      "logoUrl": "",
+      "content": "Restoranlarda kağıt menü devrini kapatan onun yerine müşterilere, masalarda bulunan QR Kod ile sipariş verebilme olanağı sağlayan ve siparişin takibini kolaylaştıran android uygulama.",
+      "contributors": [],
+      "needsContribution": false
+    }
+  ],
+  "Web Arkayuz": [
+    {
       "name": "FeedbackBundle",
       "url": "https://github.com/bulutyazilim/FeedbackBundle",
       "githubUrl": "bulutyazilim/FeedbackBundle",
@@ -457,7 +623,9 @@
       "githubUrl": "eserozvataf/scabbia2",
       "logoUrl": "",
       "content": "Symfony bileşenlerini veya ThePhpLeague'i daha önce duymuşsunuzdur. Scabbia PHP Components de size composer üzerinden PHP projelerinize eklenen bileşenler sunuyor.",
-      "contributors": [],
+      "contributors": [
+        "eserozvataf"
+      ],
       "needsContribution": false
     },
     {
@@ -560,7 +728,8 @@
       "needsContribution": true
     }
   ],
-  "Web Onyuz": [{
+  "Web Onyuz": [
+    {
       "name": "react-date-range",
       "url": "https://github.com/Adphorus/react-date-range",
       "githubUrl": "Adphorus/react-date-range",
@@ -658,9 +827,32 @@
       "content": "Hafif, Yalın, Bağımsız. Web, ön uç geliştirme çatısı",
       "contributors": [],
       "needsContribution": false
+    },
+    {
+      "name": "darty",
+      "url": "https://github.com/eserozvataf/darty",
+      "githubUrl": "eserozvataf/darty",
+      "logoUrl": "",
+      "content": "Darty en temel anlamda bugünün modern web geliştiricisinin ihtiyaçlarını karşılayan bir geliştirme aracı. TypeScript compiler, Jest ve webpack kullanarak sıfır konfigurasyon ile SSR, Module Bundling, CSS Modules, Hot Reloading, Containerization ve TDD-Ready Environment sağlıyor.",
+      "contributors": [
+        "eserozvataf"
+      ],
+      "needsContribution": true
+    },
+    {
+      "name": "darty react app",
+      "url": "https://github.com/eserozvataf/darty-react-app",
+      "githubUrl": "eserozvataf/darty-react-app",
+      "logoUrl": "",
+      "content": "Bir darty şablonu olan darty-react-app; içerisinde react ve semantic ui react ile birlikte geliyor. Vue, Svelte, v.b. şablonlar oluşturmak için ortada hiçbir engel yok. Bu şablonlardan birini seçip “yarn create darty-app react webapp” gibi bir komutla çalışmaya hazır bir tabanla hemen başlayabiliyorsunuz. Create React App’a göre avantajları/dezavantajları olan ancak olaya tamamiyle farklı yaklaşan bir araç darty.",
+      "contributors": [
+        "eserozvataf"
+      ],
+      "needsContribution": true
     }
   ],
-  "Web Proje": [{
+  "Web Proje": [
+    {
       "name": "Open Journal Software (OJS)",
       "url": "https://github.com/ojs",
       "githubUrl": "ojs/ojs",
@@ -733,7 +925,8 @@
       "needsContribution": true
     }
   ],
-  "Web Servis": [{
+  "Web Servis": [
+    {
       "name": "Telegram-bot-php",
       "url": "https://github.com/Ardakilic/Telegram-bot-php",
       "githubUrl": "Ardakilic/Telegram-bot-php",
@@ -825,7 +1018,9 @@
       "githubUrl": "bozd4g/react-native-emoji-dialog",
       "logoUrl": "https://github.com/bozd4g/react-native-emoji-dialog/blob/master/assets/github/logo.png",
       "content": "React Native ile geliştirilen Android ve iOS uygulamaları için emojiyle birlikle kullanılabilen dialog.",
-      "contributors": ["bozd4g"],
+      "contributors": [
+        "bozd4g"
+      ],
       "needsContribution": true
     },
     {
@@ -908,6 +1103,6 @@
       "content": "Extum Material Design teması, bir forum yazılımı olan Flarum için Google'ın Material Design tasarım ilkelerini takip ederek hazırlanmış bir temadır.",
       "contributors": [],
       "needsContribution": true
-    }               
+    }
   ]
 }

@@ -10,15 +10,6 @@
       "needsContribution": false
     },
     {
-      "name": "Mercode",
-      "url": "https://mercode.org",
-      "githubUrl": "https://github.com/mercode-org",
-      "logoUrl": "https://avatars3.githubusercontent.com/u/47334826?s=400&u=298bf49032c66de14313b1b804430bd7534bd84c&v=4",
-      "content": "Kar amacı gütmeyen bir FOSS topluluğu.",
-      "contributors": [],
-      "needsContribution": false
-    },
-    {
       "name": ".NET Türkiye",
       "url": "https://github.com/dotnet",
       "githubUrl": "https://github.com/dotnetturkiye",
