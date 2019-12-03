@@ -93,6 +93,18 @@
         "muhammedsara"
       ],
       "needsContribution": false
+    },
+    {
+      "name": "smartdia",
+      "url": "https://github.com/karag27/smartdia",
+      "githubUrl": "karag27/smartdia",
+      "logoUrl": "",
+      "content": "Smart Early Disease Diagnosis System",
+      "contributors": [
+        "karag27",
+        "imayda"
+      ],
+      "needsContribution": false
     }
   ],
   "Arac": [
