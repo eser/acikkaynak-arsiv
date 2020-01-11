@@ -24,7 +24,12 @@
         "quaertym",
         "ianshmean"
       ],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "knet",
+        "deep-learning",
+        "julia"
+      ]
     },
     {
       "name": "Turkish morphology datasets",
@@ -36,7 +41,10 @@
         "denizyuret",
         "ekinakyurek"
       ],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "Perl"
+      ]
     },
     {
       "name": "Morse",
@@ -48,7 +56,11 @@
         "ekinakyurek",
         "denizyuret"
       ],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "NLP",
+        "Machine Learning"
+      ]
     },
     {
       "name": "Zemberek-NLP",
@@ -68,7 +80,12 @@
         "aliok",
         "adursun"
       ],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "Java",
+        "Python",
+        "NLP"
+      ]
     },
     {
       "name": "Ka|Ve Summarify",
@@ -80,7 +97,12 @@
         "Eruimdas",
         "yemregundogmus"
       ],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "HTML",
+        "Jupyter Notebook",
+        "Python"
+      ]
     },
     {
       "name": "TezHaber",
@@ -92,7 +114,10 @@
         "husmen",
         "muhammedsara"
       ],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "Python"
+      ]
     },
     {
       "name": "smartdia",
@@ -104,7 +129,12 @@
         "karag27",
         "imayda"
       ],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "C#",
+        "ASP",
+        "JavaScript"
+      ]
     }
   ],
   "Arac": [
@@ -136,7 +166,12 @@
         "abdullahzubeyiryildiz",
         "Ecancan"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "HTML",
+        "CSS",
+        "PHP"
+      ]
     },
     {
       "name": "Gundem-TelegramBot",
@@ -147,7 +182,10 @@
       "contributors": [
         "jasyuiop"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "C#"
+      ]
     },
     {
       "name": "nosqlclient",
@@ -158,7 +196,11 @@
       "contributors": [
         "rsercano"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "MeteorJS"
+      ]
     },
     {
       "name": "connect-api-mocker",
@@ -174,7 +216,10 @@
         "ertug",
         "ozanturksever"
       ],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript"
+      ]
     },
     {
       "name": "VS Code #region Manager",
@@ -186,7 +231,10 @@
         "suadev",
         "sunmorgus"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "C#"
+      ]
     },
     {
       "name": "InlineCssParser",
@@ -197,7 +245,12 @@
       "contributors": [
         "suadev"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "C#",
+        "ASP",
+        "CSS"
+      ]
     },
     {
       "name": "Conquest",
@@ -206,7 +259,12 @@
       "logoUrl": "",
       "content": "RESTFul HTTP API'lariniz icin JavaScript kullanarak testler yazmaniza olanak veren ve yuk testi yapamizi saglayan Go ile gelistirilmistir bir arac. [Github sayfasindan](http://brsyuksel.github.io/conquest/) kullanimi hakkinda bilgi detayli edinebilirsiniz.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "Go",
+        "Phyton",
+        "JavaScript"
+      ]
     },
     {
       "name": "Dizici",
@@ -215,7 +273,10 @@
       "logoUrl": "",
       "content": "PHP ile yazılmış basit bir Cli aracı olan Dizici ile izlediğiniz dizileri sisteme tanımlayıp birden fazla dizi için yayımlanma tarihine göre ortak izleme listesi çıkartabilirsiniz. Bu sayede izlediğiniz diziyi tamamlayan başka yan diziler de varsa (örn: Doctor Who / Torchwood, Stargate SG-1/Atlantis/Universe), veya sezonların parçası olmayan özel bölümler veya sinema filmleri varsa bunları hangi sırada izleyeceğinizi bir liste olarak çıktı alabilirsiniz.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "PHP"
+      ]
     },
     {
       "name": "AlertHub",
@@ -224,7 +285,11 @@
       "logoUrl": "",
       "content": "NodeJS ile yazılmış bu araç sayesinde GitHub release'leri hakkında E-posta veya PushBullet aracılığıyla haberdar olabilirsiniz. GitHub takip özelliği issue ve commit takibi yapsa da sürüm bildirimi yapmamakta.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript",
+        "NodeJS"
+      ]
     },
     {
       "name": "BackMeUp",
@@ -233,7 +298,10 @@
       "logoUrl": "",
       "content": "Yedekleme aracı olarak tasarlanmış çok basit bir shell script olan BackMeUp ile sunucunuzda barındırdığınız veritabanlarını ve de belli bir klasör ve altlarını (örn: Web Root) sıkıştırıp arşiv dosyasını Dropbox, Amazon S3, Owncloud hesaplaarınıza yükleyebilirsiniz.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "Shell"
+      ]
     },
     {
       "name": "Rates",
@@ -242,7 +310,10 @@
       "logoUrl": "",
       "content": "Node.js ile yazılmış terminal üzerinden döviz dönüşümlerinizi yapmaya olanak sağlayan cli aracı.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript"
+      ]
     },
     {
       "name": "psd2",
@@ -251,7 +322,10 @@
       "logoUrl": "",
       "content": "Terminal üzerinden psd dosyalarını png'ye dönüştürebilmenizi sağlayan nodejs ile yazılmış cli aracı.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript"
+      ]
     },
     {
       "name": "DenetmenBundle",
@@ -260,7 +334,10 @@
       "logoUrl": "",
       "content": "Symfony2 projeleri için basit olarak URL testi ve validasyonu yapmayı sağlayan cli aracı. Bu araç ile url çıktılarını herhangi bir DOM Elementinin olup olmadığını, tipini veya süresini kontrol edebilir ve bunların sonucunda alarm oluşturabilirsiniz.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "PHP"
+      ]
     },
     {
       "name": "Chevent",
@@ -269,7 +346,9 @@
       "logoUrl": "",
       "content": "Chevent Türkiyedeki etkinlikleri, telefonunuzdan, tarayıcınızdan ve cli'den takip etmenizi sağlayan bir uygulamadır. Hali hazırda ios, chrome, opera, android sürümler bulunuyor.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+      ]
     },
     {
       "name": "wpup",
@@ -278,7 +357,10 @@
       "logoUrl": "",
       "content": "Wordpress'in son sürümünü terminal üzerinden indirmenizi sağlayan symfony/console ile yazılmış bir cli aracı.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "PHP"
+      ]
     },
     {
       "name": "freebook",
@@ -287,7 +369,10 @@
       "logoUrl": "",
       "content": "Packtpub'da hergün yayınlanan ücretsiz kitapları takip edebileceğiniz cli aracı.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript"
+      ]
     },
     {
       "name": "sey",
@@ -298,7 +383,10 @@
       "contributors": [
         "eserozvataf"
       ],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript"
+      ]
     },
     {
       "name": "Recommendify",
@@ -307,7 +395,11 @@
       "logoUrl": "",
       "content": "Last.fm kullanıcı önerilerini Spotify çalma listelerine dönüştürebilen basit bir araç. [https://ardakilic.github.io/Recommendify/](https://ardakilic.github.io/Recommendify/) adresinden çevrimiçi olarak erişilebilir ve de kullanılabilir.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript",
+        "HTML"
+      ]
     },
     {
       "name": "iftar",
@@ -316,7 +408,10 @@
       "logoUrl": "",
       "content": "Terminal üzerinden iftara kalan saati öğrenebileceğiniz cli aracı.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript"
+      ]
     },
     {
       "name": "apibone",
@@ -327,7 +422,10 @@
       "contributors": [
         "eserozvataf"
       ],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript"
+      ]
     },
     {
       "name": "kuzgun",
@@ -336,7 +434,10 @@
       "logoUrl": "",
       "content": "Kuzgun, node.js ile yazılmış bir deployment tooludur, her git push yaptıktan sonra çalıştırdığınızda sizin yerinize server'ınıza bağlanır seçtiğiniz klasöre gider ve bu klasöre yaptığınız değişiklilikleri çeker.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript"
+      ]
     },
     {
       "name": "Convert JS",
@@ -345,7 +446,10 @@
       "logoUrl": "",
       "content": "Javascript ile yazılmış bir dönüştürme kütüphanesidir.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript"
+      ]
     },
     {
       "name": "Turkish Banks",
@@ -354,7 +458,10 @@
       "logoUrl": "",
       "content": "Türkiye'deki bankaların ve onların şubelerinin bilgilerini getiren bir Ruby Gem'idir.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "Ruby"
+      ]
     },
     {
       "name": "Bilişim Sözlüğü",
@@ -363,7 +470,10 @@
       "logoUrl": "",
       "content": "Bilgisayar terimlerini Türkçe-İngilizce, İngilizce-Türkçe çeviren Ruby ile yazılmış bir terminal uygulamasıdır.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "Ruby"
+      ]
     },
     {
       "name": "Trino",
@@ -372,7 +482,10 @@
       "logoUrl": "",
       "content": "Trino komut satırından girdiğiniz kelime ya da cümleleri hızlı ve güçlü bir şekilde çevirmesini sağlayan termimal uygulamasıdır.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript"
+      ]
     },
     {
       "name": "xss-listener",
@@ -381,7 +494,10 @@
       "logoUrl": "https://cagatay.js.org/spider.png",
       "content": "TR: 🕷️ XSS Dinleyici, çeşitli XSS ile veri çalması kolay penetrasyon aracıdır.,EN:🕷️ XSS Listener is a penetration tool for easy to steal data with various XSS.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript"
+      ]
     },
     {
       "name": "Salinger",
@@ -390,7 +506,10 @@
       "logoUrl": "https://raw.githubusercontent.com/scriptype/salinger/master/salinger.png",
       "content": "API'siz, ekosistemsiz, scripting-dili-bagimsiz, ozgurlukcu task runner.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript"
+      ]
     },
     {
       "name": "kaca",
@@ -399,7 +518,9 @@
       "logoUrl": "",
       "content": "Terminal üzerinden 'kaca ceyrek alirim'/'kaca yuro satarim' gibi sorular ile kur takibi yapabileceğiniz bir cli araci.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+      ]
     },
     {
       "name": "tors",
@@ -408,7 +529,10 @@
       "logoUrl": "",
       "content": "Terminalinizden birden çok servis içinde torrent arayıp en çok seed olanı kolayca bulup indirmenizi sağlayan bir ruby gem'i.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "Ruby"
+      ]
     },
     {
       "name": "wordpress-migrate-tool",
@@ -417,7 +541,10 @@
       "logoUrl": "https://raw.githubusercontent.com/cagataycali/wordpress-migrate-tool/master/migration.png",
       "content": "Wordpress blogunuzu terminalden taşımanıza yarayan araç.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript"
+      ]
     },
     {
       "name": "university-news-notifier",
@@ -426,7 +553,10 @@
       "logoUrl": "",
       "content": "Üniversitelerin duyurularını telegram'dan mesaj olarak atan araç.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript"
+      ]
     },
     {
       "name": "Stacer",
@@ -435,7 +565,11 @@
       "logoUrl": "",
       "content": "Linux Sistem Optimize Edici ve İzleyici",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "C++",
+        "CMake"
+      ]
     },
     {
       "name": "DiziCLI",
@@ -446,7 +580,9 @@
       "contributors": [
         "BTaskaya"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+      ]
     },
     {
       "name": "4S",
@@ -457,7 +593,9 @@
       "contributors": [
         "BTaskaya"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+      ]
     },
     {
       "name": "tdk",
@@ -468,7 +606,10 @@
       "contributors": [
         "efe"
       ],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "Phyton"
+      ]
     },
     {
       "name": "zula",
@@ -479,7 +620,10 @@
       "contributors": [
         "efe"
       ],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "Phyton"
+      ]
     },
     {
       "name": "gitbatch",
@@ -490,7 +634,10 @@
       "contributors": [
         "isacikgoz"
       ],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "Go"
+      ]
     },
     {
       "name": "tldr++",
@@ -501,7 +648,10 @@
       "contributors": [
         "isacikgoz"
       ],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "Go"
+      ]
     },
     {
       "name": "evangelist",
@@ -512,7 +662,11 @@
       "contributors": [
         "eserozvataf"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "TypeScript"
+      ]
     },
     {
       "name": "senior",
@@ -523,7 +677,11 @@
       "contributors": [
         "eserozvataf"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "TypeScript"
+      ]
     },
     {
       "name": "consultant",
@@ -534,7 +692,11 @@
       "contributors": [
         "eserozvataf"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "TypeScript"
+      ]
     },
     {
       "name": "maester",
@@ -545,7 +707,11 @@
       "contributors": [
         "eserozvataf"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "TypeScript"
+      ]
     },
     {
       "name": "enthusiast",
@@ -556,7 +722,11 @@
       "contributors": [
         "eserozvataf"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "TypeScript"
+      ]
     },
     {
       "name": "ponyfills",
@@ -567,7 +737,11 @@
       "contributors": [
         "eserozvataf"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "TypeScript"
+      ]
     },
     {
       "name": "immunity",
@@ -578,7 +752,11 @@
       "contributors": [
         "eserozvataf"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "TypeScript"
+      ]
     },
     {
       "name": "servicemanager",
@@ -589,7 +767,11 @@
       "contributors": [
         "eserozvataf"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "TypeScript"
+      ]
     },
     {
       "name": "cofounder",
@@ -600,7 +782,11 @@
       "contributors": [
         "eserozvataf"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "TypeScript"
+      ]
     },
     {
       "name": "tassle",
@@ -611,7 +797,10 @@
       "contributors": [
         "eserozvataf"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "C#"
+      ]
     },
     {
       "name": "jsmake",
@@ -622,7 +811,11 @@
       "contributors": [
         "eserozvataf"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "TypeScript"
+      ]
     }
   ],
   "Mobil Uygulama": [
@@ -633,7 +826,10 @@
       "logoUrl": "",
       "content": "Restoranlarda kağıt menü devrini kapatan onun yerine müşterilere, masalarda bulunan QR Kod ile sipariş verebilme olanağı sağlayan ve siparişin takibini kolaylaştıran android uygulama.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "Java"
+      ]
     }
   ],
   "Web Arkayuz": [
@@ -644,7 +840,12 @@
       "logoUrl": "",
       "content": "PHP/Symfony2 bundle şeklinde websitelerinden geri bildirim toplamak isteyenler için metin veya ekran görüntüsü alabilen bir araçtır. [Bulut Yazılım](https://bulutyazilim.com) geliştirmektedir.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript",
+        "PHP",
+        "HTML"
+      ]
     },
     {
       "name": "BibTexBundle",
@@ -653,7 +854,10 @@
       "logoUrl": "",
       "content": "Akademik çalışmalarda standart çıktı üretilmesini için kullanılan BibTex çıktısını çıkartan PHP/Symfony2 bundle'dır.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "PHP"
+      ]
     },
     {
       "name": "Data Grid Bundle",
@@ -662,7 +866,10 @@
       "logoUrl": "",
       "content": "Symfony2 dünyasındaki en çok kullanılan grid bundle. [Bulut Yazılım](https://bulutyazilim.com) maintain etmektedir.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "PHP"
+      ]
     },
     {
       "name": "Symfony Import Bundle",
@@ -671,7 +878,10 @@
       "logoUrl": "",
       "content": "Eski projeleri, Symfony2 ve Doctrine kullanılarak hazırlanmış projelere taşımak için geliştirilmiştir. İki farklı veri yapısına sahip veritabanını, oluşturulan map dosyasıyla ve yazılabilen modifier'lar ile işlemden geçirerek eşletirebilme yeteneğine sahip.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "PHP"
+      ]
     },
     {
       "name": "Scabbia PHP Components",
@@ -682,7 +892,10 @@
       "contributors": [
         "eserozvataf"
       ],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "PHP"
+      ]
     },
     {
       "name": "Laravel Mutlucell SMS",
@@ -691,7 +904,10 @@
       "logoUrl": "",
       "content": "Bu paket sayesinde Laravel 5.x veya 4.x kullanan projelerinizde [Mutlucell](http://www.mutlucell.com.tr/) altyapısını kullanarak tekli veya çoklu sms gönderebilir, bakiye ve originator ID sorgulayabilirsiniz.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "PHP"
+      ]
     },
     {
       "name": "Fcfinder",
@@ -700,7 +916,12 @@
       "logoUrl": "",
       "content": "Ruby on Rails için Web Dosya Gezgini CKEditor ve Tinymce ile hızlı ve basit bir şekilde entegreli olarak kullanabileceğiniz dosya gezgini.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript",
+        "Ruby",
+        "PHP"
+      ]
     },
     {
       "name": "Stnc-Framework",
@@ -709,7 +930,10 @@
       "logoUrl": "",
       "content": "Composer tabanlı gelişmiş PHP framework.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "PHP"
+      ]
     },
     {
       "name": "Kemal",
@@ -718,7 +942,11 @@
       "logoUrl": "",
       "content": "Crystal için Sinatra tarzında ışık hızında ve WebSocket destekli bir web framework.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "Crystal",
+        "Kemal"
+      ]
     },
     {
       "name": "Kamber",
@@ -727,7 +955,11 @@
       "logoUrl": "",
       "content": "[Kemal](https://github.com/sdogruyol/kemal) üzerinde çalışan statik blog sunucusu.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "Crystal",
+        "Kemal"
+      ]
     },
     {
       "name": "Serenity",
@@ -736,7 +968,12 @@
       "logoUrl": "https://github.com/volkanceylan/Serenity/raw/master/Tools/Images/serenity-logo-128.png",
       "content": "Web Uygulaması Geliştirme Platformu",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "C#",
+        "ASP",
+        "JavaScript"
+      ]
     },
     {
       "name": "twitter-bootstrap-rails",
@@ -745,7 +982,12 @@
       "logoUrl": "",
       "content": "twitter-bootstrap-rails, Ruby on Rails ile yazılmış web uygulamalarına Twitter'ın Bootstrap arayüz kütüphanesini entegre eder, dahili araçları ile şablon ve görünümleri özelleştirir, yardımcı araçları ile geliştirmeyi kolaylaştırmayı amaçlayan bir kütüphanedir.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "Ruby",
+        "CoffeeScript"
+      ]
     },
     {
       "name": "Laravel Mail Template",
@@ -754,7 +996,10 @@
       "logoUrl": "",
       "content": "Kullanımı kolay, minimal ve responsive arayüzler ile mail göndermeye yarayan bir Laravel paketi.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "PHP"
+      ]
     },
     {
       "name": "PHP Multi-Language Package",
@@ -763,7 +1008,10 @@
       "logoUrl": "",
       "content": "Projelerinize çoklu dil desteği ekleyebileceğiniz bir PHP kütüphanesidir.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "PHP"
+      ]
     },
     {
       "name": "PHP Basic Form HTML Builder",
@@ -772,7 +1020,10 @@
       "logoUrl": "",
       "content": "BasicForm, HTML formu oluşturmak için kullanabileceğiniz bir PHP kütüphanesidir.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "PHP"
+      ]
     },
     {
       "name": "Laravel 5 Mysql to Migrations",
@@ -781,7 +1032,10 @@
       "logoUrl": "",
       "content": "Bu paket ile Laravel 5.1 ve yukarısı için Mysql veritabanınızı migration dosyası haline getirebilirsiniz.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "PHP"
+      ]
     }
   ],
   "Web Onyuz": [
@@ -792,7 +1046,12 @@
       "logoUrl": "",
       "content": "React kullanılarak hazırlanmış bir tarih ve tarih aralığı seçme bileşenidir. Projenin şu anda 6 katılımcısı var ve yeni katılımlara açık durumdalar.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "React",
+        "CSS"
+      ]
     },
     {
       "name": "Caffeine",
@@ -801,7 +1060,11 @@
       "logoUrl": "",
       "content": "Sass tabanlı mixin ve fonksiyon kütüphanesi. Temel tanımlar yapılmış durumda, dökümantasyon sayfaları ve website hazırlanıyor.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "CSS",
+        "HTML"
+      ]
     },
     {
       "name": "UX Rocket",
@@ -810,7 +1073,11 @@
       "logoUrl": "",
       "content": "Şimdilik jQuery tabanlı geliştirilen, roadmapinde ES6 ve native kullanımı planlan pluginler kütüphanesi. Pluginler hazırlanırken mobile-first ve kullanılabilirlik öncelikli olarak çalışılıyor. Websitesi ve bundle yapıları üzerinde çalışılıyor. Factory metodları güncelleniyor* [Autocomplete](https://github.com/uxrocket/uxrocket.autocomplete)* [Modal](https://github.com/uxrocket/uxrocket.modal), [demo](https://uxrocket.github.io/uxrocket.modal)* [Select](https://github.com/uxrocket/uxrocket.select), [demo](https://uxrocket.github.io/uxrocket.select)* [Accordion](https://github.com/uxrocket/uxrocket.accordion)* [Tooltip](https://github.com/uxrocket/uxrocket.tooltip)* [Scrollable](https://github.com/uxrocket/uxrocket.scrollable)* [Dialog](https://github.com/uxrocket/uxrocket.dialog)* [Preloader](https://github.com/uxrocket/uxrocket.preloader)* [Clear](https://github.com/uxrocket/uxrocket.clear)* [Slider](https://github.com/uxrocket/uxrocket.rotator)* [Shortcodes](https://github.com/uxrocket/uxrocket.shortcodes)* [Placeholder](https://github.com/uxrocket/uxrocket.placeholder)* [Popup](https://github.com/uxrocket/uxrocket.popup)",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript",
+        "CSS"
+      ]
     },
     {
       "name": "Flexible Grid System",
@@ -819,7 +1086,10 @@
       "logoUrl": "",
       "content": "Flexible Grid System bir Responsive CSS Framework'üdür. Flexible Grid System ile başlayıp bu altyapı üzerine Front End kısmında işleri çok daha hızlı hazırlamak için geliştirilmeye devam eden ve geliştirilecek olan bir çok proje mevcuttur. Flexible Grid System'in gelecek planlarını [http://flexible.gs/tr/future/](http://flexible.gs/tr/future/) adresinden takip edip katkıda bulunabilir sizde takımın bir parçası olabilirsiniz.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "CSS"
+      ]
     },
     {
       "name": "USCSS",
@@ -828,7 +1098,10 @@
       "logoUrl": "",
       "content": "Javascript'le yazılmış alternatif CSS pre-processor'u. Deneysel bir proje.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript"
+      ]
     },
     {
       "name": "SVG Türkiye Haritası",
@@ -837,7 +1110,10 @@
       "logoUrl": "",
       "content": "Bu SVG Türkiye Haritası'nda İstanbul Asya ve Avrupa ayrı Kıbrıs'ta var hemde Responsive.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "HTML"
+      ]
     },
     {
       "name": "DeLorean.js",
@@ -846,7 +1122,12 @@
       "logoUrl": "",
       "content": "Oldukça hafif ve agnostik bir Flux mimarisi implementasyonu.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
     },
     {
       "name": "Cizi",
@@ -855,7 +1136,11 @@
       "logoUrl": "",
       "content": "Sade bir arayüze sahip kişisel blog teması.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript",
+        "NodeJS"
+      ]
     },
     {
       "name": "plekan",
@@ -864,7 +1149,11 @@
       "logoUrl": "",
       "content": "Vue 2.x tabanlı çok dil destekli içerik editörü",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "Vue"
+      ]
     },
     {
       "name": "GulpScaffold",
@@ -873,7 +1162,10 @@
       "logoUrl": "",
       "content": "Basit Html projeleri için kullanılabilecek Gulp ortamı. ",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript"
+      ]
     },
     {
       "name": "Otağ JavaScript Framework",
@@ -882,7 +1174,10 @@
       "logoUrl": "https://ilgilenio.github.io/Otag/img/otag.svg",
       "content": "Hafif, Yalın, Bağımsız. Web, ön uç geliştirme çatısı",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript"
+      ]
     },
     {
       "name": "darty",
@@ -893,7 +1188,11 @@
       "contributors": [
         "eserozvataf"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "TypeScript"
+      ]
     },
     {
       "name": "darty react app",
@@ -904,7 +1203,12 @@
       "contributors": [
         "eserozvataf"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "TypeScript",
+        "React"
+      ]
     }
   ],
   "Web Proje": [
@@ -915,7 +1219,10 @@
       "logoUrl": "http://ojs.io/assets/app/images/logo.png",
       "content": "PHP/Symfony2 kullanılarak hazırlanmış, online dergicilik için geliştirilen, servis tabanlı bir uygulamadır. Önizlemesine [ojs.io](http://ojs.io) adresinden erişilebilir. Projenin şu an 14 katılımcısı var. Ayrıca proje [Bulut Yazılım](https://bulutyazilim.com) tarafından geliştirilmektedir.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "PHP"
+      ]
     },
     {
       "name": "Thesaurus Manager",
@@ -924,7 +1231,10 @@
       "logoUrl": "",
       "content": "Thesaurus eşanlamlı kelimeler sözlüğü demek. Aynı zamanda yakın anlamlı, anlam benzerlikleri olan ve karşıt anlamlı kelimeleri içinde barındıran sözlük yapmak aynı zamanda graph database kullanarak yapmak için bu projeyi kullanabilirsiniz.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "PHP"
+      ]
     },
     {
       "name": "WhatTheTag",
@@ -933,7 +1243,11 @@
       "logoUrl": "",
       "content": "PHP/Laravel kullanılarak hazırlanmış, örnek resim etiketleme uygulaması. [Laravel](https://laravel.com/)'in çeşitli özelliklerinin ve de [gulp](http://gulpjs.com/) gibi otomasyon araçlarının bir arada kullanıldığı örnek bir projedir.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript",
+        "PHP"
+      ]
     },
     {
       "name": "WholeCMS",
@@ -942,7 +1256,10 @@
       "logoUrl": "",
       "content": "PHP/Laravel kullanılarak hazırlanmış, içerik yönetim sistemi. Sınırsızca genişletebileceğiniz bağımlılıkları olmadan oluşturacağınız modüllerinizi dahil edip içerik yönetim sisteminden daha fazlasını elde edebilirsiniz. İstediğiniz temaya entegre ederek kolayca kullanabileceğiniz bir sistem.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript"
+      ]
     },
     {
       "name": "expercise",
@@ -951,7 +1268,12 @@
       "logoUrl": "",
       "content": "Java ve Spring çatısı ile geliştirilmekte olan çevrimiçi programlama görevleri platformu. Uygulama herkese açık test aşamasındadır: [expercise.com](https://expercise.com/). Uygulama kodlarında değişiklik yaparak yada uygulamaya sorular ekleyerek platformun gelişmesine katkıda bulunabilirsiniz.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript",
+        "Java",
+        "Groovy"
+      ]
     },
     {
       "name": "RoRdit",
@@ -960,7 +1282,11 @@
       "logoUrl": "",
       "content": "Önyüzde VueJS ve arkayüzde Ruby on Rails kullanılarak geliştirilen Hacker News/Reddit klonu.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript",
+        "Ruby"
+      ]
     },
     {
       "name": "Tick Chat",
@@ -969,7 +1295,11 @@
       "logoUrl": "",
       "content": "Lokasyon bazlı anonim sohbet projesi.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "Vue"
+      ]
     },
     {
       "name": "Ders.im",
@@ -978,7 +1308,11 @@
       "logoUrl": "",
       "content": "Ders.im öğrencilerin birbirleriyle ders metaryellerini paylaşabilecekleri, geçen senelerde çıkmış sınav sorularını bulabilecekleri, kampüsteki kişilere soru sorabilecekleri sosyal bir platformdur.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "NodeJS"
+      ]
     }
   ],
   "Web Servis": [
@@ -989,7 +1323,10 @@
       "logoUrl": "",
       "content": "PHP/Silex kullanılarak yazılmış bu mini servis uygulaması ile kendi Telegram bot'larınızı barındırabilir, belli komutlara metin veya veritabanından gelen metin, resim, müzik, video tarzında cevaplar vermesini sağlayabilirsiniz.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "PHP"
+      ]
     },
     {
       "name": "BabBot",
@@ -998,7 +1335,10 @@
       "logoUrl": "",
       "content": "Node.js kullanılarak yazılmış, içerisinde google, youtube, imdb, soundcloud, wikipedia v.b. sorgulama modülleri bulunan hem Telegram botu hem de CLI'de çalışan bir servistir.",
       "contributors": [],
-      "needsContribution": false
+      "needsContribution": false,
+      "technologies": [
+        "JavaScript"
+      ]
     },
     {
       "name": "g3l",
@@ -1007,7 +1347,10 @@
       "logoUrl": "https://g3l.download/images/g3l_midnight.png",
       "content": "Nodejs ve biraz bash komutu ile hazırlanmış git kullanımını kolaylaştıran bir araçtır.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript"
+      ]
     },
     {
       "name": "l00g.in",
@@ -1016,7 +1359,11 @@
       "logoUrl": "https://raw.githubusercontent.com/cagataycali/l00g.in/master/logo.png",
       "content": "SSH ile bağlandığımız siteleri kısayol olarak eklemenizi kolaylaştıran bir terminal uygulamasıdır, nodejs ve biraz bash komutu ile hazırlanmıştır.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "Shell"
+      ]
     },
     {
       "name": "dinamikIpguncelleme",
@@ -1025,7 +1372,10 @@
       "logoUrl": "https://avatars1.githubusercontent.com/u/22579403?v=3&s=460",
       "content": "Kendinize ait hostingiz üzerinden, başka servise (Dyndns vb) gerek kalmadan, evinizdeki - işyerinizdeki bağlantının DİNAMİK Ip adresini takip edin ve bağlanın !...",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "Python"
+      ]
     },
     {
       "name": "lazy.ai",
@@ -1034,7 +1384,10 @@
       "logoUrl": "https://cagatay.js.org/lazy.png",
       "content": "Kendi sunucunuzda barındırabileceğiniz yapay zeka chat botu!",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "Ruby"
+      ]
     },
     {
       "name": "Steganography",
@@ -1048,7 +1401,10 @@
         "SeungyeonKang",
         "ur0n2"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "C#"
+      ]
     },
     {
       "name": "url-shortener",
@@ -1057,7 +1413,11 @@
       "logoUrl": "https://emojipedia-us.s3.amazonaws.com/cache/52/23/52230e8ab5779d3b28c53725672bad99.png",
       "content": "Shitty url shortener, emoji and ai powered. 🌍✌🏼",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "CSS"
+      ]
     },
     {
       "name": "location-service",
@@ -1066,7 +1426,12 @@
       "logoUrl": "https://emojipedia-us.s3.amazonaws.com/cache/52/23/52230e8ab5779d3b28c53725672bad99.png",
       "content": "Lokasyon bazlı uygulamalar için servis. IaaS",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
     },
     {
       "name": "react-native-emoji-dialog",
@@ -1077,7 +1442,11 @@
       "contributors": [
         "bozd4g"
       ],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "React Native"
+      ]
     },
     {
       "name": "mock-server",
@@ -1086,7 +1455,10 @@
       "logoUrl": "https://emojipedia-us.s3.amazonaws.com/cache/52/23/52230e8ab5779d3b28c53725672bad99.png",
       "content": "3rd parti servislerle çalışmak için JSON config tabanlı bir CLI. XML, runtimeda fake data oluşturma gibi özellikleri mevcut",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "C#"
+      ]
     },
     {
       "name": "underscore.net",
@@ -1095,7 +1467,10 @@
       "logoUrl": "https://emojipedia-us.s3.amazonaws.com/cache/52/23/52230e8ab5779d3b28c53725672bad99.png",
       "content": "Testleri yazılmış ve her zaman elinizin altında bulunması gereken yardımcı metotlar.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "C#"
+      ]
     },
     {
       "name": "nayn.Classifier",
@@ -1104,7 +1479,11 @@
       "logoUrl": "https://avatars2.githubusercontent.com/u/41342599?s=200&v=4",
       "content": "News Classification in Turkish",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "Jupyter Notebook",
+        "Python"
+      ]
     },
     {
       "name": "nayn.wordpress",
@@ -1113,7 +1492,11 @@
       "logoUrl": "https://avatars2.githubusercontent.com/u/41342599?s=200&v=4",
       "content": "NAYN.CO WordPress Theme",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "PHP"
+      ]
     },
     {
       "name": "nayn.cli",
@@ -1122,7 +1505,10 @@
       "logoUrl": "https://avatars2.githubusercontent.com/u/41342599?s=200&v=4",
       "content": "NAYN.CO CLI Reader",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "Go"
+      ]
     },
     {
       "name": "NAYN.ORG",
@@ -1131,7 +1517,11 @@
       "logoUrl": "https://avatars2.githubusercontent.com/u/41342599?s=200&v=4",
       "content": "NAYN: aldatmayan, özgür ve tarafsız haber kaynağı olmayı amaçlayan bir organizasyondur. Bütün envanterini açık kaynak olarak sunarak halka mâl olmak istemektedir.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "HTML",
+        "CSS"
+      ]
     },
     {
       "name": "NAYN.ML",
@@ -1140,7 +1530,11 @@
       "logoUrl": "https://avatars2.githubusercontent.com/u/41342599?s=200&v=4",
       "content": "NAYN Machine Learning Projects",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "HTML",
+        "CSS"
+      ]
     },
     {
       "name": "Coby Browser",
@@ -1149,7 +1543,10 @@
       "logoUrl": "https://lh3.googleusercontent.com/GRPJ0RIs_a124g4nVkeuvrN8jkHlZlNEQ9OrKvWIkYf4ea4lgY0yvuvqDOCfOtRyLg=s180-rw",
       "content": "Coby Browser, MIT AI ile Android için yapılmış açık kaynak bir internet tarayıcısıdır.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "Scheme"
+      ]
     },
     {
       "name": "Flarum için Extum Material Design Teması",
@@ -1158,7 +1555,12 @@
       "logoUrl": "",
       "content": "Extum Material Design teması, bir forum yazılımı olan Flarum için Google'ın Material Design tasarım ilkelerini takip ederek hazırlanmış bir temadır.",
       "contributors": [],
-      "needsContribution": true
+      "needsContribution": true,
+      "technologies": [
+        "CSS",
+        "PHP",
+        "JavaScript"
+      ]
     }
   ]
 }
