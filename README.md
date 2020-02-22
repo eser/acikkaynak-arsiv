@@ -9,15 +9,15 @@
 
 
 <div align="center">
-    <a href="http://acikkaynak.info/">
+    <a href="https://acik-kaynak.org/">
         <img src="./Media/acikkaynak-logo-284px.png" alt="Açık Kaynak İnisiyatifi" title="" />
     </a>
     <br />
-    <a href="http://acikkaynak.info/"> İçeriğe ulaşmak için tıklayınız </a>
+    <a href="https://acik-kaynak.org/"> İçeriğe ulaşmak için tıklayınız </a>
 </div>
 
 [website-image]: https://img.shields.io/website-up-down-green-red/http/acikkaynak.info.svg
-[website-url]: http://acikkaynak.info/
+[website-url]: https://acik-kaynak.org/
 [contributors-image]: https://img.shields.io/github/contributors/acikkaynak/acikkaynak.svg
 [contributors-url]: https://github.com/acikkaynak/acikkaynak/blob/master/LICENSE
 [issues-image]: https://img.shields.io/github/issues/acikkaynak/acikkaynak.svg
