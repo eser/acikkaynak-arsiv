@@ -1156,6 +1156,19 @@
       ]
     },
     {
+      "name": "vue-input-spinner",
+      "url": "https://vue-input-spinner.netlify.com",
+      "githubUrl": "kaangokdemir/vue-input-spinner",
+      "logoUrl": "",
+      "content": "Vue 2.x button - input - button componenti",
+      "contributors": [],
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "Vue"
+      ]
+    },
+    {
       "name": "GulpScaffold",
       "url": "https://github.com/Projekod/GulpScaffold",
       "githubUrl": "Projekod/GulpScaffold",
