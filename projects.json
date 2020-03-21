@@ -262,7 +262,7 @@
       "needsContribution": false,
       "technologies": [
         "Go",
-        "Phyton",
+        "Python",
         "JavaScript"
       ]
     },
@@ -608,7 +608,7 @@
       ],
       "needsContribution": false,
       "technologies": [
-        "Phyton"
+        "Python"
       ]
     },
     {
@@ -622,7 +622,7 @@
       ],
       "needsContribution": false,
       "technologies": [
-        "Phyton"
+        "Python"
       ]
     },
     {
@@ -1148,6 +1148,19 @@
       "githubUrl": "abdullah/plekan",
       "logoUrl": "",
       "content": "Vue 2.x tabanlı çok dil destekli içerik editörü",
+      "contributors": [],
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "Vue"
+      ]
+    },
+    {
+      "name": "vue-input-spinner",
+      "url": "https://vue-input-spinner.netlify.com",
+      "githubUrl": "kaangokdemir/vue-input-spinner",
+      "logoUrl": "",
+      "content": "Vue 2.x button - input - button componenti",
       "contributors": [],
       "needsContribution": true,
       "technologies": [
