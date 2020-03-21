@@ -816,6 +816,20 @@
         "JavaScript",
         "TypeScript"
       ]
+    },
+    {
+      "name": "vue-pug-snippets",
+      "url": "https://marketplace.visualstudio.com/items?itemName=kaangokdemir.vue-pug-snippets",
+      "githubUrl": "kaangokdemir/vue-pug-snippets",
+      "logoUrl": "https://kaangokdemir.me/vue-pug-snippets/vue-pug.png",
+      "content": "VS Code Snippets for Singe File Vue components with Pug template",
+      "contributors": [
+        "kaangokdemir"
+      ],
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript"
+      ]
     }
   ],
   "Mobil Uygulama": [
