@@ -831,6 +831,20 @@
         "JavaScript"
       ]
     }
+    {
+      "name": "turkish-id-checker",
+      "url": "https://github.com/kaangokdemir/turkish-id-checker",
+      "githubUrl": "kaangokdemir/turkish-id-checker",
+      "logoUrl": "",
+      "content": "TC kimlik numaralarının geçerli formatta olup olmadığını kontrol eden bir kütüphane.",
+      "contributors": [
+        "kaangokdemir"
+      ],
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript"
+      ]
+    }
   ],
   "Mobil Uygulama": [
     {
