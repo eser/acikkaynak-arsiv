@@ -816,6 +816,34 @@
         "JavaScript",
         "TypeScript"
       ]
+    },
+    {
+      "name": "vue-pug-snippets",
+      "url": "https://marketplace.visualstudio.com/items?itemName=kaangokdemir.vue-pug-snippets",
+      "githubUrl": "kaangokdemir/vue-pug-snippets",
+      "logoUrl": "https://kaangokdemir.me/vue-pug-snippets/vue-pug.png",
+      "content": "VS Code Snippets for Singe File Vue components with Pug template",
+      "contributors": [
+        "kaangokdemir"
+      ],
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript"
+      ]
+    }
+    {
+      "name": "turkish-id-checker",
+      "url": "https://github.com/kaangokdemir/turkish-id-checker",
+      "githubUrl": "kaangokdemir/turkish-id-checker",
+      "logoUrl": "",
+      "content": "TC kimlik numaralarının geçerli formatta olup olmadığını kontrol eden bir kütüphane.",
+      "contributors": [
+        "kaangokdemir"
+      ],
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript"
+      ]
     }
   ],
   "Mobil Uygulama": [
