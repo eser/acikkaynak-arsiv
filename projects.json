@@ -1064,6 +1064,51 @@
       "technologies": [
         "PHP"
       ]
+    },
+    {
+      "name": "ZEngine Web Service Framework",
+      "url": "https://github.com/zetaops/zengine",
+      "githubUrl": "zetaops/zengine",
+      "logoUrl": "",
+      "content": "Zengine BPMN workflow based framework with Tornado, Rabbit AMQP, advanced permissions, extensible scaffolding features and more.",
+      "contributors": [
+        "evrenesat",
+        "alirizakeles",
+        "ArcTlg",
+        "furkanuyar",
+        "anlcnydn",
+        "SeriousBug",
+        "yetercatikkas",
+        "kunthar"
+      ],
+      "needsContribution": true,
+      "technologies": [
+        "SpiffWorkflow",
+        "Python",
+        "Tornado",
+        "Pyoko",
+        "RabbitMQ"
+      ]
+    },
+    {
+      "name": "Pyoko",
+      "url": "https://github.com/zetaops/pyoko",
+      "githubUrl": "zetaops/pyoko",
+      "logoUrl": "",
+      "content": "Pyoko is a Django-esque NoSQL ORM for Riak KV",
+      "contributors": [
+        "evrenesat",
+        "alirizakeles",
+        "furkanuyar",
+        "SeriousBug",
+        "anlcnydn",
+        "yetercatikkas",
+        "kunthar"
+      ],
+      "needsContribution": true,
+      "technologies": [
+        "Python"
+      ]
     }
   ],
   "Web Onyuz": [
@@ -1353,6 +1398,25 @@
       "technologies": [
         "JavaScript",
         "NodeJS"
+      ]
+    },
+    {
+      "name": "Ulakbüs - Bütünleşik Üniversite Yönetim Sistemi",
+      "url": "http://www.ulakbus.org",
+      "githubUrl": "zetaops/ulakbus",
+      "logoUrl": "",
+      "content": "ULAKBÜS, Ulusal Açık Kaynaklı Bütünleşik Üniversite Sistemi Projesi, üniversitelerin kaynaklarının optimum düzeyde kullanılabilmesi ve tek çatı altında çözüm bulmak üzere geliştirilmektedir.",
+      "contributors": [
+        "alirizakeles",
+        "anlcnydn",
+        "ArcTlg",
+        "furkanuyar",
+        "yetercatikkas",
+        "evrenesat"
+      ],
+      "needsContribution": true,
+      "technologies": [
+        "Python"
       ]
     }
   ],
