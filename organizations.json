@@ -2,8 +2,9 @@
   "Topluluklar": [
     {
       "name": "İstanbul PHP",
-      "url": "https://meetup.com/istanbulphp",
+      "url": "https://kommunity.com/istanbulphp",
       "githubUrl": "https://github.com/istanbulphp",
+      "kommunityUrl": "https://kommunity.com/istanbulphp",
       "logoUrl": "https://avatars0.githubusercontent.com/u/6529077",
       "content": "İstanbul PHP Kullanıcıları Topluluğu",
       "organizers": [
@@ -14,6 +15,7 @@
       "name": "Ruby Türkiye",
       "url": "http://www.rubyturkiye.org",
       "githubUrl": "https://github.com/rubytr",
+      "kommunityUrl": "https://kommunity.com/ruby-turkiye",
       "logoUrl": "https://avatars3.githubusercontent.com/u/5751224?v=3&s=200",
       "content": "Türkiye'deki Ruby programcıları ve Ruby severler topluluğudur.",
       "organizers": [
@@ -24,6 +26,7 @@
       "name": "JavaScript İstanbul",
       "url": "http://jstanbul.org",
       "githubUrl": "https://github.com/jstanbul",
+      "kommunityUrl": "https://kommunity.com/jstanbul",
       "logoUrl": "https://avatars2.githubusercontent.com/u/1914307?v=3&s=200",
       "content": "İstanbul JavaScript Kullanıcıları Grubu",
       "organizers": [
@@ -35,6 +38,7 @@
       "name": "Ankara PHP",
       "url": "http://ankaraphp.github.io",
       "githubUrl": "https://github.com/ankaraphp",
+      "kommunityUrl": null,
       "logoUrl": "https://avatars1.githubusercontent.com/u/16033364?v=3&s=200",
       "content": "Ankara PHP Kullanıcıları Grubu",
       "organizers": [
@@ -45,6 +49,7 @@
       "name": "PyIstanbul",
       "url": "http://pyistanbul.org/",
       "githubUrl": "https://github.com/pyistanbul",
+      "kommunityUrl": null,
       "logoUrl": "https://avatars2.githubusercontent.com/u/1295155?s=200&v=4",
       "content": "İstanbul'daki Python programcıları topluluğu",
       "organizers": [
@@ -60,6 +65,7 @@
       "name": "JSTurk",
       "url": "http://jsturk.com",
       "githubUrl": "https://github.com/jsturk",
+      "kommunityUrl": null,
       "logoUrl": "https://avatars2.githubusercontent.com/u/448671?s=200&v=4",
       "content": "JS Türk Profesyonelleri",
       "organizers": [
@@ -75,6 +81,7 @@
       "name": "Webend",
       "url": "http://webend.org",
       "githubUrl": "https://github.com/webendorg",
+      "kommunityUrl": null,
       "logoUrl": "https://avatars3.githubusercontent.com/u/26047737?s=200&v=4",
       "content": "Webend Backend Teknolojileri Etkinlikleri Gurubu",
       "organizers": [
@@ -87,8 +94,11 @@
       "name": "Setur",
       "url": "https://www.setur.com.tr/",
       "githubUrl": "https://github.com/setur",
+      "kommunityUrl": "https://kommunity.com/setur",
       "logoUrl": "https://avatars0.githubusercontent.com/u/54078102?s=200&v=4",
-      "content": ""
+      "content": "Türkiye’nin en köklü turizm şirketi olarak teknoloji alanındaki çeşitli meet-up ve konferanslara destek vermekteyiz.",
+      "organizers": [
+      ]
     }
   ]
 }
