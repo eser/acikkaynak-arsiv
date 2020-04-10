@@ -6,17 +6,9 @@
       "githubUrl": "https://github.com/istanbulphp",
       "logoUrl": "https://avatars0.githubusercontent.com/u/6529077",
       "content": "İstanbul PHP Kullanıcıları Topluluğu",
-      "contributors": [],
-      "needsContribution": false
-    },
-    {
-      "name": ".NET Türkiye",
-      "url": "https://github.com/dotnet",
-      "githubUrl": "https://github.com/dotnetturkiye",
-      "logoUrl": "",
-      "content": "",
-      "contributors": [],
-      "needsContribution": false
+      "organizers": [
+        "emir"
+      ]
     },
     {
       "name": "Ruby Türkiye",
@@ -24,8 +16,9 @@
       "githubUrl": "https://github.com/rubytr",
       "logoUrl": "https://avatars3.githubusercontent.com/u/5751224?v=3&s=200",
       "content": "Türkiye'deki Ruby programcıları ve Ruby severler topluluğudur.",
-      "contributors": [],
-      "needsContribution": false
+      "organizers": [
+        "enderahmetyurt"
+      ]
     },
     {
       "name": "JavaScript İstanbul",
@@ -33,8 +26,10 @@
       "githubUrl": "https://github.com/jstanbul",
       "logoUrl": "https://avatars2.githubusercontent.com/u/1914307?v=3&s=200",
       "content": "İstanbul JavaScript Kullanıcıları Grubu",
-      "contributors": [],
-      "needsContribution": false
+      "organizers": [
+        "f",
+        "eserozvataf"
+      ]
     },
     {
       "name": "Ankara PHP",
@@ -42,17 +37,19 @@
       "githubUrl": "https://github.com/ankaraphp",
       "logoUrl": "https://avatars1.githubusercontent.com/u/16033364?v=3&s=200",
       "content": "Ankara PHP Kullanıcıları Grubu",
-      "contributors": [],
-      "needsContribution": false
+      "organizers": [
+        "delirehberi"
+      ]
     },
     {
       "name": "Webend",
       "url": "http://webend.org",
       "githubUrl": "https://github.com/webendorg",
-      "logoUrl": "http://webend.org/assets/images/logo.png",
+      "logoUrl": "https://avatars3.githubusercontent.com/u/26047737?s=200&v=4",
       "content": "Webend Backend Teknolojileri Etkinlikleri Gurubu",
-      "contributors": [],
-      "needsContribution": false
+      "organizers": [
+        "delirehberi"
+      ]
     },
     {
       "name": "PyIstanbul",
@@ -60,8 +57,27 @@
       "githubUrl": "https://github.com/pyistanbul",
       "logoUrl": "https://avatars2.githubusercontent.com/u/1295155?s=200&v=4",
       "content": "İstanbul'daki Python programcıları topluluğu",
-      "contributors": [],
-      "needsContribution": false
+      "organizers": [
+        "fatiherikli",
+        "vigo",
+        "bahattincinic",
+        "berkerpeksag",
+        "cihann",
+        "emre"
+      ]
+    },
+    {
+      "name": "JSTurk",
+      "url": "http://jsturk.com",
+      "githubUrl": "https://github.com/jsturk",
+      "logoUrl": "https://avatars2.githubusercontent.com/u/448671?s=200&v=4",
+      "content": "JS Türk Profesyonelleri",
+      "organizers": [
+        "muratcorlu",
+        "f",
+        "eserozvataf",
+        "v0lkan"
+      ]
     }
   ]
 }
