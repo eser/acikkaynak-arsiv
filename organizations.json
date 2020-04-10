@@ -42,16 +42,6 @@
       ]
     },
     {
-      "name": "Webend",
-      "url": "http://webend.org",
-      "githubUrl": "https://github.com/webendorg",
-      "logoUrl": "https://avatars3.githubusercontent.com/u/26047737?s=200&v=4",
-      "content": "Webend Backend Teknolojileri Etkinlikleri Gurubu",
-      "organizers": [
-        "delirehberi"
-      ]
-    },
-    {
       "name": "PyIstanbul",
       "url": "http://pyistanbul.org/",
       "githubUrl": "https://github.com/pyistanbul",
@@ -78,6 +68,27 @@
         "eserozvataf",
         "v0lkan"
       ]
+    }
+  ],
+  "Etkinlik Grupları": [
+    {
+      "name": "Webend",
+      "url": "http://webend.org",
+      "githubUrl": "https://github.com/webendorg",
+      "logoUrl": "https://avatars3.githubusercontent.com/u/26047737?s=200&v=4",
+      "content": "Webend Backend Teknolojileri Etkinlikleri Gurubu",
+      "organizers": [
+        "delirehberi"
+      ]
+    }
+  ],
+  "Sponsorlar": [
+    {
+      "name": "Setur",
+      "url": "https://www.setur.com.tr/",
+      "githubUrl": "https://github.com/setur",
+      "logoUrl": "https://avatars0.githubusercontent.com/u/54078102?s=200&v=4",
+      "content": ""
     }
   ]
 }
