@@ -844,6 +844,21 @@
       "technologies": [
         "JavaScript"
       ]
+    },
+    {
+      "name": "Metre",
+      "url": "https://github.com/setur/metre",
+      "githubUrl": "setur/metre",
+      "logoUrl": "",
+      "content": "Generates some static code analysis metrics and diagnostics of compilation output",
+      "contributors": [
+        "eserozvataf"
+      ],
+      "needsContribution": true,
+      "technologies": [
+        "C#",
+        ".NET Core"
+      ]
     }
   ],
   "Mobil Uygulama": [
