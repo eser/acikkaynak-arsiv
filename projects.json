@@ -1693,6 +1693,18 @@
       "technologies": [
         "JavaScript"
       ]
+    },
+    {
+      "name": "vue-interactive-paycard",
+      "url": "https://codepen.io/JavaScriptJunkie/pen/YzzNGeR",
+      "githubUrl": "muhammederdem/vue-interactive-paycard",
+      "logoUrl": "",
+      "content": "Vue ile geliştirilen içinde ufak etkileşimler ve animasyonlar barındıran bir kredi kartı formu.",
+      "contributors": [],
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript", "Vue"
+      ]
     }
   ]
 }
