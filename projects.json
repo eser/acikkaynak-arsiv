@@ -1693,6 +1693,20 @@
       "technologies": [
         "JavaScript"
       ]
+    },
+    {
+      "name": "Ders Takip",
+      "url": "https://github.com/fatihdemirag/Ders-Takip",
+      "githubUrl": "https://github.com/fatihdemirag/Ders-Takip",
+      "logoUrl": "",
+      "content": "Ders notlarını takip etmek için yapılmış Android mobil uygulama",
+      "contributors": [
+        "fatihdemirag"
+      ],
+      "needsContribution": true,
+      "technologies": [
+        "Java"
+      ]
     }
   ]
 }
