@@ -1695,6 +1695,20 @@
       ]
     },
     {
+      "name": "Ders Takip",
+      "url": "https://github.com/fatihdemirag/Ders-Takip",
+      "githubUrl": "https://github.com/fatihdemirag/Ders-Takip",
+      "logoUrl": "",
+      "content": "Ders notlarını takip etmek için yapılmış Android mobil uygulama",
+      "contributors": [
+        "fatihdemirag"
+      ],
+      "needsContribution": true,
+      "technologies": [
+        "Java"
+      ]
+    },
+    {
       "name": "vue-interactive-paycard",
       "url": "https://codepen.io/JavaScriptJunkie/pen/YzzNGeR",
       "githubUrl": "muhammederdem/vue-interactive-paycard",
