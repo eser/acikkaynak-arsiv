@@ -1681,6 +1681,18 @@
         "PHP",
         "JavaScript"
       ]
+    },
+    {
+      "name": "Vue-wait: Vue için bekleme deneyimi yöneticisi",
+      "url": "https://github.com/f/vue-wait",
+      "githubUrl": "f/vue-wait",
+      "logoUrl": "",
+      "content": "Vue framework'u için karmaşık bekleme deneyimlerini basitçe yönetebileceginiz Vue eklentisi.",
+      "contributors": [],
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript"
+      ]
     }
   ]
 }
