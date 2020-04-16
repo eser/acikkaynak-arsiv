@@ -2,7 +2,9 @@
 
 Üretilen veya geliştirilen bir ürünün kaynak kodlarının "açık bir halde" ulaşılabilir olmasına Açık Kaynak ismini vermekteyiz. Fakat yalnızca kaynağın açık olması, bir ürünü ya da projeyi tam anlamıyla "açık kaynak" haline getirmek için yeterli değildir. Bununla birlikte bazı temel şartları da sağlaması beklenir.
 
-Kek tarifi vermekten, uçak yapımına kadar her şey açık kaynak olabileceği gibi biz kapsamımızı biraz daraltarak açık kaynaklı bilgisayar yazılımlarından bahsediyor olacağız.
+## Açık Kaynaklı Yazılım Nedir?
+
+Dokümanlar, grafik çalışmaları, videolar ve hatta yemek tariflerinden, yolcu uçağı oluşturma yönergelerine kadar her şey açık kaynak olabileceği gibi, biz kapsamımızı biraz daraltarak açık kaynaklı bilgisayar yazılımlarından bahsediyor olacağız.
 
 Açık Kaynaklı yazılımların **pratik** amaçları,
 
