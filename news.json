@@ -1,5 +1,10 @@
 {
   "Genel": [
+   {
+      "imageUrl": "https://www.gnome.org/wp-content/uploads/2020/05/CEChallenge-Social-square-940x940.png",
+      "subject": "Community Engagement Challenge 2020",
+      "content": "GNOME Vakfı'nın Endless ile beraber yürüttüğü bu yıl ilk kez yapılacak olan Toplulukla Etkileşim Yarışması size alana henüz giriş yapmış geliştiricileri özgür ve açık kaynak yazılımla tanıştırma fırsatı sunuyor. Fikirlenizi gerçeğe dönüştürmenizi sağlayacak olan bu yarışma ilginizi çektiyse GitHub üzerindeki tartışmaya [buraya](https://github.com/acikkaynak/acikkaynak-website/issues/79) tıklayarak katılın. Başvurular 1 Haziran'a kadar açıktır."
+    },
     {
       "imageUrl": "https://www.acikhack.com/wp-content/uploads/2019/11/aa.jpeg",
       "subject": "Açık Hack 30 Kasım'da Başlıyor!",
