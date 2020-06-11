@@ -8,7 +8,7 @@
 
 <div align="center">
     <a href="https://acik-kaynak.org/">
-        <img src="./Media/acik%20kaynak.svg" alt="açık-kaynak.org" title="" />
+        <img src="./Media/acik-kaynak.svg" alt="açık-kaynak.org" title="" />
     </a>
 </div>
 
