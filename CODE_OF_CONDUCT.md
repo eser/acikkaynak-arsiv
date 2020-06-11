@@ -37,7 +37,7 @@ Bu Davranış Kuralları tüm topluluk alanlarında geçerlidir ve ayrıca bir k
 
 ## Uygulama
 
-Zorbalık, taciz edici veya başka bir şekilde kabul edilemez davranış örnekleri [BURAYA BİR İLETİŞİM ŞEKLİ YAZILACAK] ile uygulamadan sorumlu topluluk liderlerine bildirilebilir. Tüm şikayetler derhal ve adil bir şekilde incelenecek ve araştırılacaktır.
+Zorbalık, taciz edici veya başka bir şekilde kabul edilemez davranış örnekleri topluluk grupları üzerinden (discord, telegram v.b.) uygulamadan sorumlu topluluk liderlerine bildirilebilir. Tüm şikayetler derhal ve adil bir şekilde incelenecek ve araştırılacaktır.
 
 Tüm topluluk liderleri, herhangi bir olayın şikayetçisinin gizliliğine ve güvenliğine saygı göstermekle yükümlüdür.
 
