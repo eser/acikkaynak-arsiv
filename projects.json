@@ -859,6 +859,48 @@
         "C#",
         ".NET Core"
       ]
+    },
+    {
+      "name": "random",
+      "url": "https://github.com/erdaltsksn/random",
+      "githubUrl": "erdaltsksn/random",
+      "logoUrl": "",
+      "content": "Random data generator AKA faker",
+      "contributors": [
+        "erdaltsksn"
+      ],
+      "needsContribution": true,
+      "technologies": [
+        "Go"
+      ]
+    },
+    {
+      "name": "gh-label",
+      "url": "https://github.com/erdaltsksn/gh-label",
+      "githubUrl": "erdaltsksn/gh-label",
+      "logoUrl": "",
+      "content": "A tool to help you manage GitHub issue labels",
+      "contributors": [
+        "erdaltsksn"
+      ],
+      "needsContribution": true,
+      "technologies": [
+        "Go"
+      ]
+    },
+    {
+      "name": "git-bump",
+      "url": "https://github.com/erdaltsksn/git-bump",
+      "githubUrl": "erdaltsksn/git-bump",
+      "logoUrl": "",
+      "content": "Bump the version (git tag) to the next version easily with Semantic Versioning Specification (SemVer)",
+      "contributors": [
+        "erdaltsksn"
+      ],
+      "needsContribution": true,
+      "technologies": [
+        "Go"
+      ]
     }
   ],
   "Mobil Uygulama": [
