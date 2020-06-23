@@ -859,6 +859,20 @@
         "C#",
         ".NET Core"
       ]
+    },
+    {
+      "name": "random",
+      "url": "https://github.com/erdaltsksn/random",
+      "githubUrl": "erdaltsksn/random",
+      "logoUrl": "",
+      "content": "Random data generator AKA faker",
+      "contributors": [
+        "erdaltsksn"
+      ],
+      "needsContribution": true,
+      "technologies": [
+        "Go"
+      ]
     }
   ],
   "Mobil Uygulama": [
