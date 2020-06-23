@@ -887,6 +887,20 @@
       "technologies": [
         "Go"
       ]
+    },
+    {
+      "name": "git-bump",
+      "url": "https://github.com/erdaltsksn/git-bump",
+      "githubUrl": "erdaltsksn/git-bump",
+      "logoUrl": "",
+      "content": "Bump the version (git tag) to the next version easily with Semantic Versioning Specification (SemVer)",
+      "contributors": [
+        "erdaltsksn"
+      ],
+      "needsContribution": true,
+      "technologies": [
+        "Go"
+      ]
     }
   ],
   "Mobil Uygulama": [
