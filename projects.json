@@ -873,6 +873,20 @@
       "technologies": [
         "Go"
       ]
+    },
+    {
+      "name": "gh-label",
+      "url": "https://github.com/erdaltsksn/gh-label",
+      "githubUrl": "erdaltsksn/gh-label",
+      "logoUrl": "",
+      "content": "A tool to help you manage GitHub issue labels",
+      "contributors": [
+        "erdaltsksn"
+      ],
+      "needsContribution": true,
+      "technologies": [
+        "Go"
+      ]
     }
   ],
   "Mobil Uygulama": [
