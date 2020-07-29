@@ -137,7 +137,7 @@
       ]
     }
   ],
-  "Arac": [
+  "Araç": [
     {
       "name": "Prototurk.com",
       "url": "https://prototurk.com",
@@ -917,7 +917,7 @@
       ]
     }
   ],
-  "Web Arkayuz": [
+  "Web Arkayüz": [
     {
       "name": "FeedbackBundle",
       "url": "https://github.com/bulutyazilim/FeedbackBundle",
@@ -1168,7 +1168,7 @@
       ]
     }
   ],
-  "Web Onyuz": [
+  "Web Önyüz": [
     {
       "name": "react-date-range",
       "url": "https://github.com/Adphorus/react-date-range",
