@@ -861,6 +861,21 @@
       ]
     },
     {
+      "name": "GitHub Version Bumper",
+      "url": "https://github.com/kaangokdemir/github-version-bumper",
+      "githubUrl": "kaangokdemir/github-version-bumper",
+      "logoUrl": "",
+      "content": "A GitHub action which allows you to automatically bump your repository's version after each commit.",
+      "contributors": [
+        "kaangokdemir"
+      ],
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "TypeScript"
+      ]
+    },
+    {
       "name": "random",
       "url": "https://github.com/erdaltsksn/random",
       "githubUrl": "erdaltsksn/random",
