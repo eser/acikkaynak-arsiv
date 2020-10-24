@@ -137,7 +137,7 @@
       ]
     }
   ],
-  "Arac": [
+  "Araç": [
     {
       "name": "Prototurk.com",
       "url": "https://prototurk.com",
@@ -861,6 +861,21 @@
       ]
     },
     {
+      "name": "GitHub Version Bumper",
+      "url": "https://github.com/kaangokdemir/github-version-bumper",
+      "githubUrl": "kaangokdemir/github-version-bumper",
+      "logoUrl": "",
+      "content": "A GitHub action which allows you to automatically bump your repository's version after each commit.",
+      "contributors": [
+        "kaangokdemir"
+      ],
+      "needsContribution": true,
+      "technologies": [
+        "JavaScript",
+        "TypeScript"
+      ]
+    },
+    {
       "name": "random",
       "url": "https://github.com/erdaltsksn/random",
       "githubUrl": "erdaltsksn/random",
@@ -917,7 +932,7 @@
       ]
     }
   ],
-  "Web Arkayuz": [
+  "Web Arkayüz": [
     {
       "name": "FeedbackBundle",
       "url": "https://github.com/bulutyazilim/FeedbackBundle",
@@ -1168,7 +1183,7 @@
       ]
     }
   ],
-  "Web Onyuz": [
+  "Web Önyüz": [
     {
       "name": "react-date-range",
       "url": "https://github.com/Adphorus/react-date-range",
