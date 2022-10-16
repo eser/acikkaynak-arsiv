@@ -5,26 +5,10 @@
 [![pull requests][issues-pr-image]][issues-pr-url]
 [![github][github-image]][github-url]
 
+Açık kaynak ekosistemine katkıda bulunmak, insanları açık kaynak geliştirmeye motive etmek, farkındalık oluşturmak ve bu alanda içerik sağlamak için [10forward](https://10forward.io/) topluluğunun bir alt mecrası olarak ilgililere rehber olmaya çalışıyoruz.
 
-<div align="center">
-    <a href="https://acik-kaynak.org/">
-        <img src="./Media/acik-kaynak.svg" alt="açık-kaynak.org" title="" />
-    </a>
-</div>
-
-## İnisiyatif
-Web: [acik-kaynak.org](https://acik-kaynak.org/)  
+Daha fazla bilgi için [acik-kaynak.org](https://acik-kaynak.org/)'u ziyaret edebilirsiniz.
   
-## Topluluk
-Discord: [discord.io/acikkaynak](https://discord.io/acikkaynak)  
-Telegram Duyuru Kanalı: [t.me/acikkaynak_duyurular](https://t.me/acikkaynak_duyurular)  
-Telegram Grubu: [t.me/acikkaynak](https://t.me/acikkaynak)  
-Telegram Grubu İzmir Dalı: [t.me/acikkaynak_izmir](https://t.me/acikkaynak_izmir)  
-Kommunity: [kommunity.com/acikkaynak](https://kommunity.com/acikkaynak)  
-  
-[Katkıcı Ahdi Topluluk Sözleşmesi](CODE_OF_CONDUCT.md)
-
-
 [contributors-image]: https://img.shields.io/github/contributors/acikkaynak/acikkaynak.svg?style=flat-square
 [contributors-url]: https://github.com/acikkaynak/acikkaynak/blob/master/LICENSE
 [issues-image]: https://img.shields.io/github/issues/acikkaynak/acikkaynak.svg?style=flat-square
